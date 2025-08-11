@@ -1,0 +1,35 @@
+site_name: Modernism & Literature
+site_url: https://yourdomain.com  # Change to your real domain
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+    - scheme: slate
+      primary: teal
+      accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.annotate
+    - content.tabs.link
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Readings:
+      - Week 1: readings/week1-intro.md
+      - Week 2: readings/week2-modernism.md
+  - Assignments:
+      - Paper 1: assignments/paper1.md
+  - Slides:
+      - Lecture 1: slides/lecture1.pdf
+      - Lecture 2: slides/
