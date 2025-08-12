@@ -27,9 +27,8 @@ nav:
   -  English Literature 1:
       - Home: lit1/index.md
       - Syllabus: lit1/syllabus.md
-      - Readings: lit1/readings/
-      - Assignments: lit1/assignments/
-      - Slides: lit1/slides/
+      - Materials: lit1/materials.md
+      - Assignments: lit1/assignments.md
   - English Literature 5:
       - Home: lit5/index.md
       - Syllabus: lit5/syllabus.md
