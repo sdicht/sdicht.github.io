@@ -1,18 +1,12 @@
-# Modernism & Literature
+# Welcome to Our Courses
 
-Welcome to the course website. Here you will find:
+Choose a course to explore its materials:
 
-- 📚 Readings for each week
-- 📝 Assignments and guidelines
-- 📑 Lecture slides and supporting materials
+- 🇬🇧[English Language 3](eng3/index.md)
+- 📚[English Literature 1](lit1/index.md)
+- 📚[English Literature 5](lit5/index.md)
 
-**Instructor:** Prof. [Your Name]  
-**Semester:** Fall 2025  
-**Contact:** your.email@university.edu
 
 ---
 
-## Quick Links
-- [Syllabus](syllabus.md)
-- [Week 1 Readings](readings/week1-intro.md)
-- [Paper 1 Guidelines](assignments/paper1.md)
+*Click on any course to view its syllabus, readings, assignments, and slides.*

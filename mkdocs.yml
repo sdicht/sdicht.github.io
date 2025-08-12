@@ -1,4 +1,4 @@
-site_name: Modernism & Literature
+site_name: Teacher Pedro
 site_url: https://yourdomain.com  # Change to your real domain
 
 theme:
@@ -24,12 +24,14 @@ theme:
 
 nav:
   - Home: index.md
-  - Syllabus: syllabus.md
-  - Readings:
-      - Week 1: readings/week1-intro.md
-      - Week 2: readings/week2-modernism.md
-  - Assignments:
-      - Paper 1: assignments/paper1.md
-  - Slides:
-      - Lecture 1: slides/lecture1.pdf
-      - Lecture 2: slides/
+  -  English Literature 1:
+      - Home: lit1/index.md
+      - Syllabus: lit1/syllabus.md
+      - Readings: lit1/readings/
+      - Assignments: lit1/assignments/
+      - Slides: lit1/slides/
+  - English Literature 5:
+      - Home: lit5/index.md
+      - Syllabus: lit5/syllabus.md
+      - Materials: lit5/materials.md
+      - Assignments: lit5/assignments.md
