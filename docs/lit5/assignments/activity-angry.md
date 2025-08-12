@@ -1,5 +1,14 @@
 # Assignment 2: The Angry Young Man — Film Response & Research
 
+## 📝 Assignment Submission
+
+Please submit your assignments by uploading your PDF file through the Dropbox link below.  
+Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  
+
+[📤 Submit your assignment here](https://www.dropbox.com/request/NFHknseohWOPOO20Z4JL)
+
+## Material
+
 Film: Saturday Night and Sunday Morning (1960, dir. Karel Reisz)
 Length: 800–1,000 words
 Due: [Insert date]
@@ -57,3 +66,4 @@ Your paper must:
 * British New Wave: 1950s-60s film movement showing social reality
 * Archetype: A character type representing universal patterns
 * Social realism: Art that depicts contemporary social conditions
+

@@ -6,9 +6,9 @@ Welcome to the course website. Here you will find:
 - 📝 Assignments and guidelines
 - 📑 Lecture slides and supporting materials
 
-**Instructor:** Prof. [Your Name]  
-**Semester:** Fall 2025  
-**Contact:** your.email@university.edu
+**Instructor:** Prof. Pedro Groppo 
+**Semester:** 2025.1
+**Contact:** pedro.groppo@academico.ufpb.br
 
 ---
 
