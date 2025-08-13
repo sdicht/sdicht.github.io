@@ -1,7 +1,5 @@
 # Course Materials
 
-Here are your materials organized by week:
-
 ## Week 1: Introduction
 
 - 📖 [Historical Context (The Norton Anthology of English Literature)](readings/intro-context.pdf)

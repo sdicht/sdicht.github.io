@@ -16,4 +16,5 @@ Welcome to the course website. Here you will find:
 
 ## Quick Links
 - [Syllabus](syllabus.md)
+- [Materials](materials.md)
 - [Assignments](assignments.md)
