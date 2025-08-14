@@ -1,5 +1,7 @@
 site_name: Teacher Pedro
 site_url: https://www.phsg.com.br  # Change to your real domain
+extra_files:
+  - CNAME
 
 theme:
   name: material
