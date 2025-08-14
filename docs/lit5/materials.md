@@ -76,3 +76,6 @@ Supplements:
 ## Week 13: Assignment 3
 - 📝 [Assignment 3: TBD](assignments/assignment-tbd.md)
 
+
+
+It's impossible!
