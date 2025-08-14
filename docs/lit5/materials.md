@@ -51,11 +51,16 @@ Supplements:
 - 🎞️ [Slides](slides/ww1-poets-slides.pdf) 
 - 📼 [Movie: *Benediction* about Siegfried Sassoon](https://www.youtube.com/watch?v=i25GvzBicq4)
 
+## Week 7: Midterm Exam
+
 ## Week 8-9: Samuel Beckett
 
 - 📖 [*Waiting for Godot*](readings/beckett-godot.pdf)
 - 📼 [Steve Martin & Robin Williams in a 1986 production](https://www.youtube.com/watch?v=1T88LszpurI)
-- 📼 [Movie adaptation](https://www.youtube.com/watch?v=izX5dIzI2RE)
+- 📼 [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
+- 📼 [Movie adaptation 2001](https://www.youtube.com/watch?v=izX5dIzI2RE)
+- 📼 [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
+- 🔈 [Columbia Masterworks Recording](https://youtu.be/94aA2TNhk_g)
 
 ## Week 10: Philip Larkin
 
@@ -63,9 +68,11 @@ Supplements:
 - 📝 [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
 
 ## Week 11: Anthony Burgess, Hanif Kureishi
-- 📖 [Chapter 1 of Burgess, *A Clockwork Orange*](readings/burgess-clockwork-ch1.pdf)
+- 📖 [Burgess, *A Clockwork Orange* - Chapter 1](readings/burgess-clockwork-ch1.pdf)
 - 📖 [Kureishi, "My Son the Fanatic"](readings/kureishi-fanatic.pdf)
 
-## Week 13: Assignment 13
+## Week 12: Final Exam 
+
+## Week 13: Assignment 3
 - 📝 [Assignment 3: TBD](assignments/assignment-tbd.md)
 

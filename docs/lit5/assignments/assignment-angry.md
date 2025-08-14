@@ -9,7 +9,7 @@ Make sure your file is named with your name and assignment number. No Dropbox ac
 
 ---
 
-You will watch the film *Saturday Night and Sunday Morning* (1960, dir. Karel Reisz) and write a 800-1,000 response paper using the following prompts.
+You will watch the film [*Saturday Night and Sunday Morning*](https://drive.google.com/file/d/1ZqW94lRuFeZC_8eAf6QFYN3R06jHFv8V/view?usp=sharing) (1960, dir. Karel Reisz) and write a 800-1,000 response paper using the following prompts.
 
 ## Background (Read Before Watching)
 
