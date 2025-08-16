@@ -8,7 +8,7 @@ Choose a course to explore its materials:
 ## Archived
 
 - 📚 [English Literature 2](lit2/index.md)
-- 👽 [Science Fiction)](sf/index.md)
+- 👽 [Science Fiction](sf/index.md)
 - 🎥 [Film Interpretation](film/index.md)
 
 ---

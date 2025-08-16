@@ -7,6 +7,8 @@ Make sure your file is named with your name and assignment number. No Dropbox ac
 
 [📤 Submit your assignment here](https://www.dropbox.com/request/7FpJETXK8KgK2nKm7gzw)
 
+Alternatively, submit on Google Classroom
+
 ## The Wife of Bath: Who Is She Really?
 
 In *The Canterbury Tales*, Chaucer’s Wife of Bath mixes bold claims, personal confessions, moral preaching, and contradictions. Your group will defend one clear position about who she “really” is, using full quotes from the text.
