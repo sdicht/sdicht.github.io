@@ -14,7 +14,7 @@ After reading [“My Son the Fanatic,”](../readings/kureishi-fanatic.pdf) you 
 4. What role does Bettina play in this story? Why is she significant to both father and son, but in completely different ways?
 5. Trace the reversal of father–­son roles that occurs during “My Son the Fanatic.” Why does Ali gain confidence during the story and his father lose moral ground?
 
-## 📝 Assignment Submission
+## :writing_hand_tone1: Assignment Submission
 
 Please submit your assignments by uploading your PDF file through the Dropbox link below.  
 Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  

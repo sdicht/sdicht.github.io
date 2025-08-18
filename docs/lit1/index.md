@@ -2,8 +2,8 @@
 
 Welcome to the course website. Here you will find:
 
-- 📚 Readings for each week
-- 📝 Assignments and guidelines
+- :books: Readings for each week
+- :writing_hand_tone1: Assignments and guidelines
 - 📑 Lecture slides and supporting materials
 
 **Instructor:** Prof. Pedro Groppo

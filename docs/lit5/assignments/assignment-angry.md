@@ -37,7 +37,7 @@ Research these topics using **at least two credible sources**:
 
 - What triggers Arthur's rebellious behavior?
 - How do class, work, and generational conflicts shape his anger?
-- What 1950s social conditions appear in the narrative?
+- What 1950s social conditions appear in the narrative? 
 
 ## Guidelines
 
@@ -58,7 +58,7 @@ Research these topics using **at least two credible sources**:
 
 
 
-## 📝 Assignment Submission
+## :writing_hand_tone1: Assignment Submission
 
 Please submit your assignments by uploading your PDF file through the Dropbox link below.  
 Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  
