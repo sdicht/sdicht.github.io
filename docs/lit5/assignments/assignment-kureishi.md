@@ -19,4 +19,4 @@ After reading [“My Son the Fanatic,”](../readings/kureishi-fanatic.pdf) you 
 Please submit your assignments by uploading your PDF file through the Dropbox link below.  
 Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  
 
-[📤 Submit your assignment here]
+[:inbox_tray: Submit your assignment here]

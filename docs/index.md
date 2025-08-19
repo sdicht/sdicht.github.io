@@ -8,7 +8,7 @@ Choose a course to explore its materials:
 ## Archived
 
 - :books: [English Literature 2](lit2/index.md)
-- :alien: [Science Fiction](sf/index.md)
+- :alien: [Science Fiction Literature](sf/index.md)
 - :projector: [Film Interpretation](film/index.md)
 
 ---

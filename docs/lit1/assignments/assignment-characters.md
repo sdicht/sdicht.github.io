@@ -2,7 +2,7 @@
 
 For each quote, a) Translate into Modern English using your own words and b) Answer the questions.
 
-## 1. The Prioress 
+## The Prioress 
 
 Context: A prioress (nun) should be humble, help the poor, and focus on spiritual matters. But look at what 
 
@@ -28,7 +28,7 @@ And after Amor vincit omnia.
 - Should a nun wear expensive jewelry? 
 - What does "Love conquers all" mean in a religious vs. secular context? 
 
-## 2. The Monk
+## The Monk
 Context: Monks took vows of poverty, obedience, and staying in the monastery. They should follow Saint Benedict's rules, for instance. 
 
 ```
@@ -42,7 +42,7 @@ And heeld after the newe world the space.
 - What does the term newe world suggest about his priorities? 
 - How does this connect to medieval concerns about Church corruption? 
 
-## 3. The Friar 
+## The Friar 
 
 Context: Friars took vows of poverty and were supposed to help the poor through charity. They should hear confessions and give spiritual guidance, not seek profit. 
 
@@ -67,7 +67,7 @@ Of yonge wommen, at his owne cost.
 - Why would a friar need to arrange marriages "at his own cost"? 
 - What does this suggest about his relationships with young women? 
 
-## 4. The Knight 
+## The Knight 
 Context: One of the few pilgrims described without irony by Chaucer, representing the medieval Christian ideal, with the Crusades as legitimate holy wars.
 
 ```
@@ -79,7 +79,7 @@ Trouthe and honour, fredom and curteisye.
 
 - Even though he is violent and kills people in holy wars, he is the ideal Christian soldier. He sets up an ideal of perfectibilty to help us see how the others fall short. Is there any evidence for this in the text?
 
-## 5. Synthesis
+## Synthesis
 
 Choose the Prioress, Monk, or Friar and explain how Chaucer uses contrast to reveal character. Think about: 
 

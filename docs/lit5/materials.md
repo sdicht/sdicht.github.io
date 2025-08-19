@@ -2,7 +2,7 @@
 
 ## Week 1: Introduction
 
-- :book: [Historical Context (The Norton Anthology of English Literature)](readings/intro-context.pdf)
+- :book: [Historical Context](readings/intro-context.pdf) (The Norton Anthology of English Literature)
 - :book: Hardy, ["The Darkling Thrush"](readings/hardy-thrush.pdf)  
 - :bar_chart: [Slides](slides/intro-slides.pdf)  
 
@@ -37,7 +37,8 @@ Supplements:
 
 - :book: ["The Garden Party"](readings/mansfield-garden.pdf)  
 - :vhs: [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE)
-- :writing_hand_tone1: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
+
+:writing_hand_tone1: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
 ## Week 6: World War I Poets
 
@@ -73,7 +74,8 @@ Supplements:
 - :book: Philip Larkin, ["Church Going"](readings/larkin-poems.pdf)
 - :book: Seamus Heaney, ["Digging"](readings/heaney-poems.pdf)
 - :book: Thom Gunn, ["Black Jackets"](readings/gunn-blackjackets.pdf)
-- :writing_hand_tone1: [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
+
+:writing_hand_tone1: [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
 
 ## Week 11: Violence and Complicity
 - :book: Anthony Burgess, [*A Clockwork Orange*, Chapter 1](readings/burgess-clockwork.pdf)
@@ -82,5 +84,6 @@ Supplements:
 ## Week 12: Final Exam 
 
 ## Week 13: Hybridity and Postcoloniality
-- :book: [Kureishi, "My Son the Fanatic"](readings/kureishi-fanatic.pdf)
-- :writing_hand_tone1: [Assignment 3: "My Son the Fanatic"](assignments/assignment-kureishi.md)
+- :book: Kureishi, ["My Son the Fanatic"](readings/kureishi-fanatic.pdf)
+
+:writing_hand_tone1: [Assignment 3: "My Son the Fanatic"](assignments/assignment-kureishi.md)

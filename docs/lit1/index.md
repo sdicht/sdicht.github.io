@@ -4,7 +4,7 @@ Welcome to the course website. Here you will find:
 
 - :books: Readings for each week
 - :writing_hand_tone1: Assignments and guidelines
-- 📑 Lecture slides and supporting materials
+- :page_with_curl: Lecture slides and supporting materials
 
 **Instructor:** Prof. Pedro Groppo
 

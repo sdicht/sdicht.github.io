@@ -165,13 +165,14 @@ He taughte; but first he folwed it hymselve.
 Your mission: Solve the mystery of who these characters are and what Chaucer is really saying about them.
 
 For each of your mystery characters, determine:
+
 - What is their profession/social role?
 - What clues in the text reveal this?
 - What does Chaucer say that sounds positive? And negative?
 - Is there a gap between appearance and reality?
 - If this character existed today, who would they be? What modern profession or type of person matches?
 
-### Presentation:
+### Presentation
 - Reveal the identities of your mystery characters
 - Show one specific example of contradiction or irony from the Middle English text
 - Explain what this reveals about medieval English society

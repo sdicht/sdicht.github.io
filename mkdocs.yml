@@ -1,6 +1,5 @@
 site_name: Teacher Pedro
-site_url: https://www.phsg.com.br  # Change to your real domain
-
+site_url: https://www.phsg.com.br
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -10,15 +9,34 @@ markdown_extensions:
 theme:
   name: material
   palette:
-    - scheme: default
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: teal
       accent: amber
-    - scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: teal
       accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  
   font:
     text: Roboto
     code: Roboto Mono
+  
   features:
     - navigation.instant
     - navigation.sections
@@ -30,13 +48,13 @@ theme:
 
 nav:
   - Home: index.md
-  -  English Literature 1:
-      - Home: lit1/index.md
-      - Syllabus: lit1/syllabus.md
-      - Materials: lit1/materials.md
-      - Assignments: lit1/assignments.md
+  - English Literature 1:
+    - Home: lit1/index.md
+    - Syllabus: lit1/syllabus.md
+    - Materials: lit1/materials.md
+    - Assignments: lit1/assignments.md
   - English Literature 5:
-      - Home: lit5/index.md
-      - Syllabus: lit5/syllabus.md
-      - Materials: lit5/materials.md
-      - Assignments: lit5/assignments.md
+    - Home: lit5/index.md
+    - Syllabus: lit5/syllabus.md
+    - Materials: lit5/materials.md
+    - Assignments: lit5/assignments.md
