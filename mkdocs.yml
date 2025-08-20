@@ -48,6 +48,11 @@ theme:
 
 nav:
   - Home: index.md
+  - English Language 3:
+    - Home: eng3/index.md
+    - Syllabus: eng3/syllabus.md
+    - Materials: eng3/materials.md
+    - Assignments: eng3/assignments.md
   - English Literature 1:
     - Home: lit1/index.md
     - Syllabus: lit1/syllabus.md
