@@ -1,6 +1,8 @@
 # Final Project: "The Character Universe Advice Show"
 ## Individual Video Presentation (7-15 minutes)
 
+:inbox_tray: Submit by **October 2nd, 2025** through [this link](https://www.dropbox.com/request/nTWXbKyxE8VRx2I0H8On).
+
 ### Project Overview
 You will create and host your own advice show as your course character, helping THREE different characters from your chosen universe. Record yourself presenting with slides, demonstrating all semester grammar through natural advice-giving scenarios.
 
@@ -186,8 +188,6 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 
 #### Submission Information to Include:
 Your name and character chosen, video duration (must be 7-15 minutes), link + viewing instructions (if using Drive/YouTube).
-
-Submit by **October 2nd, 2025** through [this link](https://www.dropbox.com/request/nTWXbKyxE8VRx2I0H8On).
 
 ## Sample Universe Setups
 

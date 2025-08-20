@@ -2,7 +2,8 @@
 
 **Film:** [*Saturday Night and Sunday Morning*](https://drive.google.com/file/d/1ZqW94lRuFeZC_8eAf6QFYN3R06jHFv8V/view?usp=sharing) (1960, dir. Karel Reisz)  
 **Length:** 800-1,000 words  
-**Due Date:** 
+
+Submit by **September 11th, 2025** through [this link](https://www.dropbox.com/request/n38h59iqAJSjBx6nVUWx). No account needed.
 
 ## Background Reading
 
@@ -16,51 +17,35 @@ The movement found expression in **kitchen sink realism** — a style of drama a
 
 Research these topics using **at least two credible sources**:
 
-1. **"Angry Young Man" origins** and connection to British New Wave cinema
-2. **1950s Britain social conditions** affecting working-class communities  
-3. **Kitchen sink realism definition** and two other films from this movement
-4. **Contemporary reception** of these films
+1. "Angry Young Man" origins and connection to British New Wave cinema
+2. 1950s Britain social conditions affecting working-class communities  
+3. Kitchen sink realism definition and two other films from this movement
+4. Contemporary reception of these films
 
 **Start with:** [Encyclopedia Britannica "Angry Young Men" entry](https://www.britannica.com/topic/Angry-Young-Men)
 
 ## Viewing Guide
 
-**Key Scenes to Analyze** (discuss at least three):
+Key scenes to analyze (discuss at least three):
 
-- **Opening factory sequence:** Arthur's introduction and work environment
-- **Weekend pub scenes:** Arthur's escape and behavior toward authority  
-- **Relationship with Brenda:** Class tensions and moral conflicts
-- **Fairground confrontation:** Arthur faces consequences
-- **Final scene:** Evidence of character change or continuity
+- Opening factory sequence: Arthur's introduction and work environment
+- Weekend pub scenes: Arthur's escape and behavior toward authority  
+- Relationship with Brenda: Class tensions and moral conflicts
+- Fairground confrontation: Arthur faces consequences
+- Final scene: Evidence of character change or continuity
 
-**Analysis Questions:**
+:Questions:
 
-- What triggers Arthur's rebellious behavior?
-- How do class, work, and generational conflicts shape his anger?
-- What 1950s social conditions appear in the narrative? 
+1. What triggers Arthur's rebellious behavior?
+2. How do class, work, and generational conflicts shape his anger?
+3. What 1950s social conditions appear in the narrative? 
 
 ## Guidelines
 
-- Move beyond plot summary to analytical interpretation
-- Use specific film scenes with detailed description
-- Clear thesis statement addressing all four topics
-- Logical paragraph organization with smooth transitions
-- Conclusion that synthesizes your analysis
-- Support all claims with evidence from the sources and from analysis of the film
-
-
+Do not just summarize the plot, provide analytical interpretation. Use specific film scenes with detailed description, and quote dialogue if you can. You should have a clear thesis statement addressing all four topics, as well as logical paragraph organization with smooth transitions. At the end, compose a conclusion that synthesizes your analysis. Don't forget to support all claims with evidence from the sources and from analysis of the film.
 
 ## Submission Requirements
 
 - 800-1,000 words (excluding bibliography)
 - At least two credible academic sources
 - Specific references to at least three film scenes
-
-
-
-## :writing_hand_tone1: Assignment Submission
-
-Please submit your assignments by uploading your PDF file through the Dropbox link below.  
-Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  
-
-[:inbox_tray: Submit your assignment here](https://www.dropbox.com/request/NFHknseohWOPOO20Z4JL)
