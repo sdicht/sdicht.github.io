@@ -59,7 +59,8 @@ Supplements:
 
 ## Week 8-9: Samuel Beckett
 
-- :book: [*Waiting for Godot*](readings/beckett-godot.pdf)
+- 📖 [*Waiting for Godot*](readings/beckett-godot.pdf)
+- 📄 [Handout](handouts/handout-beckett.md)
 
 Supplements:
 

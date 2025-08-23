@@ -1,17 +1,17 @@
 # Final Project: "The Character Universe Advice Show"
-## Individual Video Presentation (7-15 minutes)
 
 :inbox_tray: Submit by **October 2nd, 2025** through [this link](https://www.dropbox.com/request/nTWXbKyxE8VRx2I0H8On).
+
+## Individual Video Presentation (10 minutes)
 
 ### Project Overview
 You will create and host your own advice show as your course character, helping THREE different characters from your chosen universe. Record yourself presenting with slides, demonstrating all semester grammar through natural advice-giving scenarios.
 
 Your Universe Options:
 
-- Sherlock Holmes
 - Marvel/DC Superheroes  
 - Disney characters
-- Anime characters
+- ~~Anime characters~~
 - Literary classics (*Pride & Prejudice*, etc.)
 - TV series characters (*Friends*, *The Office*, etc.)
 - Video game characters (except *Dark Souls*)
@@ -19,19 +19,18 @@ Your Universe Options:
 
 ## Video Structure & Timing
 
-### SEGMENT 1: Show Introduction (1-2 minutes)
+### SEGMENT 1: Show Introduction (2 minutes)
 
 Slide 1: Title Card - Create a title slide featuring "The [Universe Name] Advice Hour" (or your preferred show title) with your host character name and your name as creator.
 
 Slide 2: Host Introduction - Introduce yourself IN CHARACTER, explain your qualifications for giving advice, and set the show format, saying something like "Today I'm helping three characters with problems ranging from mild concerns to serious crises."
 
-Required Grammar:
+!!! note
+    - Present simple: "I am [character], I help people with..."
+    - Present perfect: "I have helped many characters with..."
+    - One -ed/-ing adjective: "I'm excited to share some challenging cases"
 
-- Present simple: "I am [character], I help people with..."
-- Present perfect: "I have helped many characters with..."
-- One -ed/-ing adjective: "I'm excited to share some challenging cases"
-
-### SEGMENT 2: Case #1 - Minor Problem (2-3 minutes)
+### SEGMENT 2: Case #1 - Minor Problem (2 minutes)
 
 Slide 3: Case Introduction - Include character photo/image, character name and brief background, and label this as "Everyday Concerns."
 
@@ -39,14 +38,13 @@ Slide 4: The Problem - Present the character's problem by narrating AS the chara
 
 Slide 5: Your Advice Response - Switch back to YOUR character voice and give gentle, supportive advice
 
-Required Grammar:
+!!! note
+    - Should (2x minimum): "You should try this approach"
+    - Could/Might (1x each): "You could consider... This might help"
+    - Still/yet/already: "You haven't tried this yet, but you've already shown strength"
+    - Agreement pattern: "I understand your concern - so would anyone in your situation"
 
-- Should (2x minimum): "You should try this approach"
-- Could/Might (1x each): "You could consider... This might help"
-- Still/yet/already: "You haven't tried this yet, but you've already shown strength"
-- Agreement pattern: "I understand your concern - so would anyone in your situation"
-
-### SEGMENT 3: Case #2 - Moderate Problem (2-4 minutes)
+### SEGMENT 3: Case #2 - Moderate Problem (2 minutes)
 
 Slide 6: Case Introduction - Present character photo/image, character name and relationship to universe, labeled as "Relationship Conflicts."
 
@@ -54,15 +52,14 @@ Slide 7: The Problem - Present a MORE COMPLEX problem involving interpersonal co
 
 Slide 8: Your Advice Response - Offer firmer, more direct advice from your character, including consequences and expectations.
 
-Required Grammar:
+!!! note
+    - Must/Have to (1x each): "You must face this directly" / "You have to make a choice"
+    - Had better (1x): "You had better apologize soon"
+    - Shouldn't (1x): "You shouldn't ignore this anymore"
+    - Question tag (1x): "This is important, isn't it?"
+    - Real conditional (1x): "If you talk to them honestly, they will understand"
 
-- Must/Have to (1x each): "You must face this directly" / "You have to make a choice"
-- Had better (1x): "You had better apologize soon"
-- Shouldn't (1x): "You shouldn't ignore this anymore"
-- Question tag (1x): "This is important, isn't it?"
-- Real conditional (1x): "If you talk to them honestly, they will understand"
-
-### SEGMENT 4: Case #3 - Crisis Problem (2-4 minutes)
+### SEGMENT 4: Case #3 - Crisis Problem (2 minutes)
 
 Slide 9: Case Introduction - Show character photo/image, character name and critical situation, labeled as "Emergency Intervention."
 
@@ -70,24 +67,22 @@ Slide 10: The Crisis - Present a SERIOUS problem requiring immediate action with
 
 Slide 11: Your Urgent Advice - Give strong, decisive advice with clear warnings, including consequences of action/inaction.
 
-Required Grammar:
+!!! note
+    - Must/Mustn't (2x): "You must act now" / "You mustn't wait any longer"
+    - Might + consequences (2x): "If you don't act, you might lose everything" / "This might be your only chance"
+    - Supposed to (1x): "You're supposed to protect people, remember?"
+    - Unreal conditional (1x): "If I were in your position, I would do this immediately"
+    - Relative clause (1x): "The person who can help you is..." / "This situation that you're facing requires..."
 
-- Must/Mustn't (2x): "You must act now" / "You mustn't wait any longer"
-- Might + consequences (2x): "If you don't act, you might lose everything" / "This might be your only chance"
-- Supposed to (1x): "You're supposed to protect people, remember?"
-- Unreal conditional (1x): "If I were in your position, I would do this immediately"
-- Relative clause (1x): "The person who can help you is..." / "This situation that you're facing requires..."
-
-### SEGMENT 5: Show Wrap-up & Reflection (1-2 minutes)
+### SEGMENT 5: Show Wrap-up & Reflection (2 minutes)
 
 Slide 12: Summary - Provide a quick recap of all three cases and share your character's final wisdom.
 
 Slide 13: Behind the Scenes - Step OUT of character to reflect on why you chose specific advice levels and explain how your character's personality influenced your modal choices.
 
-Required Grammar:
-
-- Past tense reflection: "I chose strong modals because..."
-- Present perfect: "I have learned that different problems need different advice levels"
+!!! note
+    - Past tense reflection: "I chose strong modals because..."
+    - Present perfect: "I have learned that different problems need different advice levels"
 
 ## Slide Design Requirements
 
@@ -102,53 +97,57 @@ Practice clear speech and pronunciation. Make character voices distinct from you
 
 ## Character Performance During Recording
 
-### Voice Acting
-Create a distinct voice for your advice-giving character (tone, pace, mannerisms) and use a different voice when presenting problems AS other characters. Maintain consistent personality - consider how your character would really respond. Use appropriate emotional range: serious for crises, gentle for minor problems.
-
 ### Presentation Style
 Keep your face visible in the video (not just voice-over). Use gestures and expressions that match your character. Costume or styling elements are optional but encouraged. Deliver with confidence - believe in your character's authority.
 
-### Performance Tips During Recording
-Look at the camera occasionally when giving advice, not just reading slides. Use natural gestures without exaggerating, but remain expressive. Maintain distinct character voices and switch voices clearly when presenting problems AS other characters. Pause when needed to organize thoughts or transition between segments.
+!!! tip
+    Look at the camera occasionally when giving advice, not just reading slides. Use natural gestures without exaggerating, but remain expressive. Maintain distinct character voices and switch voices clearly when presenting problems AS other characters. Pause when needed to organize thoughts or transition between segments.
 
 ### Grammar Integration
 Highlight key modal verbs using your mouse or cursor on slides. Read character quotes aloud to demonstrate pronunciation and emotion. Explain while showing rather than just reading slides. Show your analysis process: "When I consider this problem, I think..." Maintain energy throughout - your enthusiasm shows in your character performance.
 
 Don't announce grammar explicitly - weave modal verbs naturally into advice. Vary sentence length by mixing complex and simple structures. Use modal progression to show escalating urgency across cases. Let your character's personality drive your modal choices.
 
+!!! tip
+    Create a distinct voice for your advice-giving character (tone, pace, mannerisms) and use a different voice when presenting problems AS other characters. Maintain consistent personality - consider how your character would really respond. Use appropriate emotional range: serious for crises, gentle for minor problems.
+
 ## Grammar Checklist (Must include ALL)
 
 ### Modal Verbs (minimum usage):
-- [ ] Should (3x across video)
-- [ ] Could (1x)
-- [ ] Might (3x - including consequences)
-- [ ] Must (3x)
-- [ ] Mustn't (1x)
-- [ ] Have to (1x)
-- [ ] Had better (1x)
-- [ ] Supposed to (1x)
-- [ ] Shouldn't (1x)
+```
+[ ] Should (3x across video)
+[ ] Could (1x)
+[ ] Might (3x including consequences)
+[ ] Must (3x)
+[ ] Mustn't (1x)
+[ ] Have to (1x)
+[ ] Had better (1x)
+[ ] Supposed to (1x)
+[ ] Shouldn't (1x)
+```
 
 ### Other Structures Required:
-- [ ] Still/yet/already (1x minimum)
-- [ ] -ed/-ing adjectives (6 pairs minimum)
-- [ ] Afraid of/worried about/good at + -ing (3x minimum)
-- [ ] Agreement patterns: so do I/neither do I (1x minimum)
-- [ ] Question tags (1x minimum)
-- [ ] Real conditional: if + present, will (1x minimum)
-- [ ] Unreal conditional: if + past, would (1x minimum)
-- [ ] Relative clauses: who/which/that (2x minimum)
+```
+[ ] Still/yet/already (1x minimum)
+[ ] -ed/-ing adjectives (6 pairs minimum)
+[ ] Afraid of/worried about/good at + -ing (3x minimum)
+[ ] Agreement patterns: so do I/neither do I (1x minimum)
+[ ] Question tags (1x minimum)
+[ ] Real conditional: if + present, will (1x minimum)
+[ ] Unreal conditional: if + past, would (1x minimum)
+[ ] Relative clauses: who/which/that (2x minimum)
+```
 
 ## Video Examples by Character Type
 
 ### If Your Character is Sherlock Holmes (logical, direct):
-"The evidence clearly indicates that you must confront this situation. If you examine the facts logically, you will see the solution. Those who ignore evidence often find themselves in frustrating situations."
+> The evidence clearly indicates that you must confront this situation. If you examine the facts logically, you will see the solution. Those who ignore evidence often find themselves in frustrating situations.
 
 ### If Your Character is Wonder Woman (heroic, inspiring):
-"You should remember your inner strength - I have seen it in battle. This challenge might seem overwhelming, but you're supposed to fight for what's right, aren't you? If you were afraid of nothing, you wouldn't be truly brave."
+> You should remember your inner strength - I have seen it in battle. This challenge might seem overwhelming, but you're supposed to fight for what's right, aren't you? If you were afraid of nothing, you wouldn't be truly brave.
 
 ### If Your Character is Hermione Granger (studious, caring):
-"You should research this thoroughly first - so would any intelligent person. I'm worried about your hasty decisions, but I'm also excited about your potential. You must think before acting, mustn't you?"
+> You should research this thoroughly first - so would any intelligent person. I'm worried about your hasty decisions, but I'm also excited about your potential. You must think before acting, mustn't you?
 
 ## Recording Technical Requirements & Setup
 
@@ -156,9 +155,9 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 
 #### Method 1: PowerPoint
 1. Open your PowerPoint presentation
-2. Go to tab: Slide Show or Apresentação de Slides
-3. Click: Record Slide Show or Gravar Apresentação de Slides
-4. Choose: Record from Current Slide
+2. Go to tab: `Slide Show` or `Apresentação de Slides`
+3. Click: `Record Slide Show` or `Gravar Apresentação de Slides`
+4. Choose: `Record from Current Slide`
 5. To export: File > Export > Create a Video
 6. Choose quality: Full HD (1080p)
 7. Save (processing may take several minutes)
@@ -178,8 +177,8 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 
 #### File Naming:
 
-- Video file: "YourName_Advice_Video.mp4"
-- Slide deck: "YourName_Advice_Slides.pdf"
+- Video file: `YourName_Advice_Video.mp4`
+- Slide deck: `YourName_Advice_Slides.pdf`
 
 #### Accepted Upload Methods:
 1. Google Drive: Upload + share link (set to "Anyone with link can view")
@@ -187,7 +186,7 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 3. WeTransfer: For large files (up to 2GB free)
 
 #### Submission Information to Include:
-Your name and character chosen, video duration (must be 7-15 minutes), link + viewing instructions (if using Drive/YouTube).
+Your name and character chosen, video duration (must be 9-11 minutes), link + viewing instructions (if using Drive/YouTube).
 
 ## Sample Universe Setups
 

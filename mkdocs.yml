@@ -1,11 +1,17 @@
 site_name: Teacher Pedro
 site_url: https://www.phsg.com.br
 markdown_extensions:
+  - admonition
   - attr_list
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+plugins:
+  - mkdocs-video
+  
 theme:
   name: material
   palette:

@@ -2,7 +2,7 @@
 
 You will write a 1000-word analytical essay that applies Emma Smith's insights about Shakespearean dramatic structure to analyze how Othello works as a tragedy. 
 
-Due Date: October 3 
+Due Date: **October 3, 2025**
 
 Submission: Here or in Google Classroom
 
@@ -12,87 +12,81 @@ Primary Text: [Othello](/lit1/readings/othello-arden.pdf) by William Shakespeare
 
 Critical Source: Emma Smith, ["Structure," Chapter 5](/lit1/readings/smith-structure.pdf) from The Cambridge Introduction to Shakespeare (Cambridge University Press, 2007), pp. 90-109.
 
-You must cite both sources using specific quotations.
-
 ## Essay Prompt
 
 After reading Smith's chapter on structure, choose the ideas from her analysis that you find most useful for understanding how Othello is constructed as a tragedy. Write an essay that demonstrates how Smith's approach to dramatic structure helps us understand what makes Othello an effective tragedy.
 
-### Sources and Citations
-- Smith quotations: At least 2 direct quotations from Smith's chapter with page numbers
-- Othello quotations: At least 3 direct quotations from the play with act/scene/line citations
-- Works Cited page: Both sources properly formatted
-
 ### Length and Format
-- 1000 words (±50 words acceptable)
+- approx. 1000 words
 - 12-point Times New Roman font, 1.5-spaced, 1-inch margins
 - Include the name of all members of the group (2-3), course info, and word count
 
-## Some Ideas to Consider
-(You don't have to address all of these - choose what interests you most)
+## Objectives
+- Pick 2-3 concepts from Smith that seem most useful for understanding Othello
+- Analyze specific scenes from the play using these concepts
+- Make an argument about how Shakespeare's structural choices create tragic effects
+- Support your points with quotations from both Smith and the play
 
-### Smith's Key Concepts You Might Use:
-- Tragedy vs. Comedy characteristics (Table 5.1, p. 95)
-- "Dynamic" vs. "static" structure (p. 107)
-- The temptation scene as structural center (pp. 107-108)
-- "Showing vs. telling" techniques (pp. 106-107)
-- Genre as "negotiation" rather than fixed category (p. 94)
+### Smith's Key Concepts to Use
+- Tragedy vs. Comedy characteristics (Table 5.1)
+- "Dynamic" vs. "static" structure
+- The temptation scene as structural center
+- "Showing vs. telling" techniques
+- Genre as "negotiation" rather than fixed category
 
-### Moments in Othello You Might Analyze:
-- The opening scene - why start with Iago?
+### Moments in Othello to Analyze
+- The opening scene - why start with Iago, not Othello?
 - Act III, Scene 3 - the temptation scene transformation
-- The handkerchief plot structure
-- Public vs. private scenes
+- The handkerchief plot development
+- Public scenes vs. private scenes
 - The final bedroom scene
 - How truth is revealed in Act V
 
-### Questions You Might Explore:
-- How does Shakespeare structure Othello's transformation from noble hero to murderer?
-- What makes this a tragedy rather than just a sad story?
-- How does Shakespeare control what the audience knows vs. what characters know?
-- Why does Shakespeare arrange the scenes in this particular order?
+### Questions to Explore
+- What makes Othello a tragedy rather than just a sad story?
+- How does Shakespeare structure Othello's transformation from hero to murderer?
+- How does Shakespeare control audience knowledge vs. character knowledge?
+- Why does the order of scenes matter?
 
-## Citation Examples
+## Citations
 
-### Smith Citations
+- From Smith: At least 2 direct quotations with page numbers
+- From Othello: At least 3 direct quotations with act.scene.line numbers
 
-Direct quotation:
-Smith argues that "Shakespeare's structure is therefore always dynamic rather than inert, actively produced from moment to moment" (Smith, p. 107).
+### Smith quotations example
+> Smith argues that "Shakespeare's structure is therefore always dynamic rather than inert, actively produced from moment to moment" (107).
 
-Paraphrase with quotation:
-According to Smith, Shakespeare creates genre through "negotiation" rather than following fixed rules (Smith, p. 94).
+### Othello quotations examples
+> Iago reveals his manipulative nature: "I am not what I am" (1.1.65).
 
-Indirect reference:
-Smith's analysis of tragic characteristics provides a useful framework for understanding the play's structure (Smith, p. 95).
+Longer quotations (use for 3+ lines):
+> Othello's final speech reveals his self-awareness:
+```
+    Speak of me as I am. Nothing extenuate,
+    Nor set down aught in malice. Then must you speak
+    Of one that loved not wisely, but too well (5.2.341-343).
+```
 
-Integrating Smith's concept:
-The "To be or not to be" soliloquy demonstrates what Smith calls the "dynamic" nature of dramatic structure (Smith, p. 107).
+!!! note 
+    The numbers refer to Act, Scene and Line Number
 
-### Hamlet Citations
+## Tips
 
-Direct quotation:
-Hamlet expresses his philosophy: "To be or not to be, that is the question" (Hamlet 3.1.56).
+!!! tip
+    - Read Smith's chapter first - take notes on her main arguments. 
+    - Then, reread key Othello scenes - look for moments that illustrate Smith's concepts. 
+    - Choose your focus - don't try to cover everything Smith discusses. 
+    - Organize around your insights - let your analysis drive the essay structure. 
+    - Use quotations strategically - quote to support points, not fill space
 
-Integrated quotation:
-When Hamlet calls Claudius "my uncle-father and aunt-mother," the language reveals complex family relationships (Hamlet 2.2.372).
+!!! success
+    - Clear argument about how specific structural techniques create tragic effects
+    - Well-chosen quotations that directly support your points
+    - Explanation of how the evidence supports your argument
+    - Ideas develop logically from introduction to conclusion
 
-Paraphrase with quotation:
-Hamlet's speech to his mother becomes increasingly urgent: "Look here upon this picture, and on this" (Hamlet 3.4.53).
-
-Longer quotation:
-Hamlet addresses the players about their craft:
-> Speak the speech, I pray you, as I pronounced it to you,
-> trippingly on the tongue (Hamlet 3.2.1-2).
-
-Multiple citations:
-Hamlet's language shifts between the formal "What a piece of work is a man" (Hamlet 2.2.303) and the colloquial "The rest is silence" (Hamlet 5.2.358).
-
-The numbers refer to Act, Scene and Line Number
-
-## Tips for Success
-
-1. Read Smith's chapter carefully first - take notes on her main arguments
-2. Choose 2-3 of Smith's concepts that seem most relevant to Othello
-3. Pick specific scenes or moments from Othello to analyze in detail
-4. Don't try to cover everything - focus on what interests you most
-5. Let your analysis drive the organization - structure your essay around your insights, not around covering required topics
+!!! failure
+    - Plot summary without analysis
+    - Trying to discuss every concept Smith mentions
+    - Quotations without explanation of their significance
+    - Generic statements about tragedy that could apply to any play

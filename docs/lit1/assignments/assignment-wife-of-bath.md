@@ -1,9 +1,8 @@
-# The Wife of Bath In-Class Group Activity Sheet
+# The Wife of Bath Group Activity Sheet
 
 ## :writing_hand_tone1: Assignment Submission
 
-Please submit your assignments by uploading your PDF file through the Dropbox link below.  
-Make sure your file is named with your name and assignment number. No Dropbox account needed. Check the deadline on the syllabus.  
+Please submit your assignments by uploading your PDF file through the Dropbox link below. Make sure your file is named with your name and assignment number. No Dropbox account needed. Deadline is August 20, 2025.
 
 [:inbox_tray: Submit your assignment here](https://www.dropbox.com/request/BA2iqzdfe9syXEXKit6G)
 
