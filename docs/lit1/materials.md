@@ -24,8 +24,8 @@
 
 ### Slides
 
-- :bar_chart: [Historical Context](slides/chaucer-introduction-slides_compressed.pdf)
-- :bar_chart: [The General Prologue](slides/chaucer-prologue-slides_compressed.pdf)
+- :bar_chart: [Historical Context](slides/intro-slides.html)
+- :bar_chart: [The General Prologue](slides/chaucer-slides.html)
 - :bar_chart: [Wife of Bath](slides/chaucer-wife-of-bath-slides.pdf)
 
 
@@ -41,4 +41,4 @@
 - :vhs: [*Acting Shakespeare*](https://www.youtube.com/watch?v=w6eztyfrWo8) by Ian McKellen (YouTube)
 - :vhs: [*Henry V* (1944, dir. Laurence Olivier)](https://youtu.be/5BLBQIwZ_h4) - useful for seeing the theater (YouTube)
 
-- :bar_chart: [Slides](slides/beckett-slides.pdf)
+- :bar_chart: [Slides](slides/othello-slides.html)
