@@ -861,7 +861,7 @@ Of his visage children were aferd.
 - Physical appearance **reveals** the state of the soul
 - Pustules symbolize **internal moral putrefaction**
 
-![bg right](assets/07-quentin-massys-matched-lovers-c-1520.jpg.webp)
+![bg right](assets/matched-lovers.jpeg)
 
 ---
 

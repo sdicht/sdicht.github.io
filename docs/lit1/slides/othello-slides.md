@@ -76,10 +76,6 @@ paginate: true
 
 ---
 
-![bg fit](assets/othello_0.jpegothello_0.jpeg)
-
----
-
 ## Medieval Morality Plays
 
 - Morality play - medieval allegorical theatrical form in which moral lessons were taught through characters who personify moral qualities, like charity or vice. 
