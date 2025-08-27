@@ -50,7 +50,7 @@ The estates satire is a widespread medieval genre that analyzes society by enume
 - Uses irony through superlatives, often stating that pilgrims are "the best of their kind". 
 - Moral judgment shifts to the reader's interpretation of cues
 
-![bg right](assets/Mittelalterliches_Ständebild_15._Jahrhundert.jpeg)
+![bg right](assets/image2.jpeg)
 
 ---
 
@@ -146,7 +146,7 @@ That hem hath holpen, whan that they ­were seke.
 - Prologue begins with Western celebration of spring (general) and focuses on a local event of English society and Christendom (specific)
 - Evolution from a natural activity to a human activity
 
-![bg right](assets/Les_Très_Riches_Heures_du_duc_de_Berry_avril.jpg)
+![bg right](assets/avril.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ That hem hath holpen, whan that they ­were seke.
 **Both impulses can coexist** - the secular desire for renewal and pleasure, and the sacred quest for healing
 
 
-![bg right](assets/Frères_Limbourg_-_Très_Riches_Heures_du_duc_de_Berry_-_mois_de_mai_-_Google_Art_Project.jpg)
+![bg right](assets/mai.jpg)
 
 ---
 

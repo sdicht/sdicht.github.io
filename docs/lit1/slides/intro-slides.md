@@ -170,7 +170,7 @@ Prof. Pedro Groppo (UFPB)
 - Became valet to the king, beginning a long association with royalty
 - Married Philippa de Roet, lady-in-waiting to the queen, whose sister Katherine was wife of John of Gaunt (son of King Edward III)
 
-![bg right](assets/Chaucer_manuscrit_portrait_(détail).jpeg)
+![bg right](assets/chaucer..jpeg)
 
 ---
 

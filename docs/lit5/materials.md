@@ -60,6 +60,7 @@ Supplements:
 ## Week 8-9: Samuel Beckett
 
 - :book: [*Waiting for Godot*](readings/beckett-godot.pdf)
+- :brain: Study Guide: [Cliffs Notes](https://www.cliffsnotes.com/literature/w/waiting-for-godot/samuel-beckett-biography) with summaries
 
 Critical Commentary
 
@@ -70,11 +71,11 @@ Supplements
 
 - :vhs: [Steve Martin & Robin Williams in a 1986 production](https://www.youtube.com/watch?v=1T88LszpurI)
 - :vhs: [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
-- :vhs: [Movie adaptation 2001](https://www.youtube.com/watch?v=izX5dIzI2RE)
+- :vhs: [Waiting for Godot] 2001, dir. Michael Lindsay-Hogg) (https://www.youtube.com/watch?v=izX5dIzI2RE)
 - :vhs: [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
-- :sound: [Columbia Masterworks Recording](https://youtu.be/94aA2TNhk_g)
+- :sound: [Columbia Masterworks Recording with the first American actors (1950s)](https://youtu.be/94aA2TNhk_g)
 
-- :bar_chart: [Slides](slides/beckett-slides.pdf)
+- :page_facing_up: [Handout/Notes](handouts/handout-beckett.md)
 
 ## Week 10: Tradition and its Discontents
 
