@@ -11,7 +11,10 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
-  - mkdocs-video
+  - mkdocs-video:
+      enabled: true
+  - blog:
+      enabled: false
   
 theme:
   name: material
@@ -55,6 +58,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Blog:
+    - blog/index.md
   - English Language 3:
     - Home: eng3/index.md
     - Syllabus: eng3/syllabus.md

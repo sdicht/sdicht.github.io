@@ -71,7 +71,7 @@ Supplements
 
 - :vhs: [Steve Martin & Robin Williams in a 1986 production](https://www.youtube.com/watch?v=1T88LszpurI)
 - :vhs: [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
-- :vhs: [Waiting for Godot] 2001, dir. Michael Lindsay-Hogg) (https://www.youtube.com/watch?v=izX5dIzI2RE)
+- :vhs: [Waiting for Godot](https://www.youtube.com/watch?v=izX5dIzI2RE) (2001, dir. Michael Lindsay-Hogg) 
 - :vhs: [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
 - :sound: [Columbia Masterworks Recording with the first American actors (1950s)](https://youtu.be/94aA2TNhk_g)
 

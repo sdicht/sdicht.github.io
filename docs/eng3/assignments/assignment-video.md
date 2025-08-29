@@ -17,7 +17,7 @@ Your Universe Options:
 - Video game characters (except *Dark Souls*)
 - Any consistent fictional universe with multiple characters
 
-## Video Structure & Timing
+## :film_projector: Video Structure & Timing
 
 ### SEGMENT 1: Show Introduction (2 minutes)
 
@@ -86,24 +86,24 @@ Slide 13: Behind the Scenes - Step OUT of character to reflect on why you chose 
 
 ## Slide Design Requirements
 
-### Visual Elements
+### :art: Visual Elements
 Maintain a consistent theme throughout that matches your universe's aesthetic. Use character images (screenshots, artwork, or your own drawings) with clear, readable fonts (don't go too crazy with the fonts). Include slide numbers for easy reference during feedback.
 
-### Text Guidelines
+### :page_facing_up: Text Guidelines
 Keep slides to maximum 3-4 bullet points per slide when listing items. Highlight key modal verbs in bold or color, but integrate grammar structures naturally rather than obviously forcing them. Ensure character names and universe details are accurate.
 
-### Audio Quality
+### :sound: Audio Quality
 Practice clear speech and pronunciation. Make character voices distinct from your narrator voice. Maintain an appropriate pace without rushing, and deliver naturally rather than reading directly from slides.
 
 ## Character Performance During Recording
 
-### Presentation Style
-Keep your face visible in the video (not just voice-over). Use gestures and expressions that match your character. Costume or styling elements are optional but encouraged. Deliver with confidence - believe in your character's authority.
+### :dancers: Presentation Style
+Keep your face visible in the video (not just voice-over). Use gestures and expressions that match your character. Costume or styling elements are optional but encouraged. Deliver with confidence - believe in your character's authority. 👩‍⚖️ 
 
 !!! tip
     Look at the camera occasionally when giving advice, not just reading slides. Use natural gestures without exaggerating, but remain expressive. Maintain distinct character voices and switch voices clearly when presenting problems AS other characters. Pause when needed to organize thoughts or transition between segments.
 
-### Grammar Integration
+### :book: Grammar Integration
 Highlight key modal verbs using your mouse or cursor on slides. Read character quotes aloud to demonstrate pronunciation and emotion. Explain while showing rather than just reading slides. Show your analysis process: "When I consider this problem, I think..." Maintain energy throughout - your enthusiasm shows in your character performance.
 
 Don't announce grammar explicitly - weave modal verbs naturally into advice. Vary sentence length by mixing complex and simple structures. Use modal progression to show escalating urgency across cases. Let your character's personality drive your modal choices.
@@ -138,7 +138,7 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 [ ] Relative clauses: who/which/that (2x minimum)
 ```
 
-## Video Examples by Character Type
+## :vhs: Video Examples by Character Type
 
 ### If Your Character is Sherlock Holmes (logical, direct):
 > The evidence clearly indicates that you must confront this situation. If you examine the facts logically, you will see the solution. Those who ignore evidence often find themselves in frustrating situations.
@@ -149,7 +149,19 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 ### If Your Character is Hermione Granger (studious, caring):
 > You should research this thoroughly first - so would any intelligent person. I'm worried about your hasty decisions, but I'm also excited about your potential. You must think before acting, mustn't you?
 
-## Recording Technical Requirements & Setup
+## Sample Universe Setups
+
+### Marvel Universe (Dr. Strange as host):
+- Case 1 (Minor): Spider-Man stressed about secret identity (2 min)
+- Case 2 (Moderate): Iron Man and Captain America conflict (3 min)
+- Case 3 (Crisis): Hulk losing control completely (3 min)
+
+### Harry Potter Universe (Hermione as host):
+- Case 1 (Minor): Neville lacking confidence (2 min)
+- Case 2 (Moderate): Ron jealous of Harry's fame (3 min)
+- Case 3 (Crisis): Draco pressured to join Death Eaters (3 min)
+
+## :studio_microphone: Recording Technical Requirements & Setup
 
 ### Recording Methods
 
@@ -180,27 +192,7 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 - Video file: `YourName_Advice_Video.mp4`
 - Slide deck: `YourName_Advice_Slides.pdf`
 
-#### Accepted Upload Methods:
-1. Google Drive: Upload + share link (set to "Anyone with link can view")
-2. YouTube: Upload as Unlisted (only accessible with link)
-3. WeTransfer: For large files (up to 2GB free)
-
-#### Submission Information to Include:
-Your name and character chosen, video duration (must be 9-11 minutes), link + viewing instructions (if using Drive/YouTube).
-
-## Sample Universe Setups
-
-### Marvel Universe (Dr. Strange as host):
-- Case 1 (Minor): Spider-Man stressed about secret identity (2 min)
-- Case 2 (Moderate): Iron Man and Captain America conflict (3 min)
-- Case 3 (Crisis): Hulk losing control completely (3 min)
-
-### Harry Potter Universe (Hermione as host):
-- Case 1 (Minor): Neville lacking confidence (2 min)
-- Case 2 (Moderate): Ron jealous of Harry's fame (3 min)
-- Case 3 (Crisis): Draco pressured to join Death Eaters (3 min)
-
-## Grading
+## :100: Grading
 ### Rubric (100 points)
 
 | **Criteria** | **Points** | **Excellent** | **Good** | **Satisfactory** | **Needs Improvement** |

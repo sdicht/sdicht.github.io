@@ -1,7 +1,7 @@
 # Waiting for Godot Notes
 Adapted from John Fletcher, *A Faber Critical Guide* (Faber) and Lawrence Graver, *Landmarks of World Literature: Waiting for Godot* (Cambridge)
 
-## Act One
+Page numbers refer to the Faber edition.
 
 ### Tragicomedy
 
@@ -140,13 +140,13 @@ Dublin, for whom Beckett had a high regard.
 
 The Boy provides answers to fascinate symbol-hunting literary critics (‘I mind the goats, Sir’ his brother ‘minds the sheep, Sir’ and gets beaten) is part of the provocation of the scene. One was damned, the other was saved, but why?
 
-![alt text](boy-act1-m.jpeg)
+![alt text](boy-act2-m.jpeg)
 
 ### Night falls
 
 At last! - i.e., night has come. Beckett is not interested in naturalism, so night falls uncommonly rapidly. 
 
-'Pale for weariness' is a quotation from 'To the Moon' by Percy Bysshe Shelley (1792-1822); Estragon, the poet (see p. 4) naturally 
+'Pale for weariness' is a quotation from 'To the Moon' by Percy Bysshe Shelley (1792-1822); Estragon, the poet naturally quotes poetry.
 
 ![alt text](night-falls-m.jpeg)
 
@@ -156,14 +156,14 @@ At last! - i.e., night has come. Beckett is not interested in naturalism, so nig
 
 ## Act Two
 
-### Leaves in the tree
-
-![alt text](tree-leaf-m.jpeg)
-
 ### Vladimir's Dog Song
 
 And dug the dog a tomb - this is a German round-song, translated by Beckett, and an appropriate choice for a play based on cycles and the return of
 leitmotifs. Likewise 'Come here till I embrace you' (an Irishism, incidentally) demonstrates the play's asymmetrical nature. In Act One, Estragon was joined on stage by Vladimir; vice versa here.
+
+### Leaves in the tree
+
+![alt text](tree-leaf-m.jpeg)
 
 ### The Same Pus
 
@@ -173,7 +173,6 @@ the same stream (that is, all is continually changing and time is irreversible).
 ### Cackon Country
 
 Cackon country - another pun on the French child's word for excrement, *caca*. It was Estragon, of course, who brought up the Rhone episode on p. 47.
-
 
 ### Hat Gag
 
@@ -204,6 +203,7 @@ Vladimir's eloquence, he owes it, no doubt, to Lucky's hat, which he adopted on 
 falls - the multiple fall Beckett saw as 'the visual expression of their common situation, related to the threat in the play of everything falling'. The bodies form an intersection: Pozzo lies at right-angles across Lucky in the direction in which he is to crawl, and Vladimir lies diagonally across Pozzo to form a kind of armchair into which Estragon fits. It must not, Beckett said, 'be an untidy heap, but has to function'. Such multiple tumbles are common in children's games and in circus acts.
 
 ![alt text](pozzo-lucky-cross-m.jpeg)
+![alt text](falls-m.jpeg)
 
 ### Blind sight
 
@@ -223,7 +223,7 @@ I think it's white, sir - according to Beckett, the whiteness indicates to Vladi
 some hope.' Beckett probably said this with his tongue in his cheek, as he was wont to do when making a rare pronouncement about the meaning
 of his work; but it does at least prove that the play is meant to end on a bleak note of utter hopelessness, and that interpretations which suggest that in spite of everything *Waiting for Godot* holds out the prospect of a happy ending are sentimental wishful thinking.
 
-![alt text](boy-act2-m.jpeg)
+![alt text](boy-act1-m.jpeg)
 
 ### Trousers
 
