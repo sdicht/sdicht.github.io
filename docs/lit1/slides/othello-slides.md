@@ -123,11 +123,11 @@ paginate: true
 
 ![bg right fit](assets/othello_5.jpeg)
 
-- Elastic term in the early modern period, could encompass 
-	- Muslims (religious), 
-	- Africans (geographical), 
-	- blacks (racial), 
-	- atheists (non-religious) and other groups
+Elastic term that could refer to:
+- Religious identity: Muslims in North Africa, Iberia, or the Ottoman Empire.
+- Geographical origin: People from Africa
+- Racial designation: People with darker skin, especially Black Africans.
+- Cultural outsiders: sometimes “strangers” or non-Christians in general.
 
 ---
 

@@ -22,23 +22,28 @@
 
 - :book: [*The Canterbury Tales* - Complete Translation :flag_br:](readings/chaucer-pt.pdf)
 
-### Slides
+### Slide Deck
 
 - :bar_chart: [Historical Context](slides/intro-slides.html)
 - :bar_chart: [The General Prologue](slides/chaucer-slides.html)
 - :bar_chart: [Wife of Bath](slides/chaucer-wife-of-bath-slides.pdf)
 
 
-## William Shakespeare: *Othello*
+## William Shakespeare: *The Tragedy of Othello, the Moor of Venice*
 
 - :book: [Othello - Arden Edition](readings/othello-arden.pdf)
 - :book: [Othello - Translation :flag_br:](readings/othello-pt.pdf)
-- :brain: [Othello - Study Guide](readings/othello-guide.pdf)
+- :brain: [Othello - Study Guide (Macmillan)](readings/othello-guide.pdf) - commentary scene by scene
+- :brain: [Othello - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/o/othello/play-summary) with summaries, character analysis, themes, symbols, etc.
+- :bar_chart: [Slide Deck](slides/othello-slides.html)
+  
+### Adaptations
+
 - :vhs: [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)
 - :vhs: [Othello (1965, dir. Stuart Burge)](https://www.youtube.com/watch?v=OW82AddEgZk) with Laurence Olivier & Maggie Smith (YouTube)
 
+### Supplements
 - :vhs: [*Why We Can't Do Plays Like Shakespeare Anymore: The London History Show*](https://www.youtube.com/watch?v=2UZ369VYJrY) by J. Draper (YouTube)
 - :vhs: [*Acting Shakespeare*](https://www.youtube.com/watch?v=w6eztyfrWo8) by Ian McKellen (YouTube)
 - :vhs: [*Henry V* (1944, dir. Laurence Olivier)](https://youtu.be/5BLBQIwZ_h4) - useful for seeing the theater (YouTube)
 
-- :bar_chart: [Slides](slides/othello-slides.html)
