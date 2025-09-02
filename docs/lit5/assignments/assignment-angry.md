@@ -1,9 +1,12 @@
 # Assignment 2: The Angry Young Man
 
-**Film:** [*Saturday Night and Sunday Morning*](https://drive.google.com/file/d/1ZqW94lRuFeZC_8eAf6QFYN3R06jHFv8V/view?usp=sharing) (1960, dir. Karel Reisz)  
+**Film:** [*Saturday Night and Sunday Morning*](https://drive.google.com/file/d/1ZqW94lRuFeZC_8eAf6QFYN3R06jHFv8V/view?usp=sharing) (1960, dir. Karel Reisz) 
 **Length:** 800-1,000 words  
 
-Submit by **September 11th, 2025** through [this link](https://www.dropbox.com/request/n38h59iqAJSjBx6nVUWx). No account needed.
+Submit by **September 13th, 2025** through :inbox_tray: [this link](https://www.dropbox.com/request/n38h59iqAJSjBx6nVUWx). No account needed.
+
+!!! tip
+    If you download the video file and open it with a player such as :link: [VLC](https://www.videolan.org/vlc/download-windows.html) you can enable the subtitle track (in English). It doesn't work when you're watching it through Google Drive.
 
 ## Background Reading
 
@@ -47,5 +50,5 @@ Do not just summarize the plot, provide analytical interpretation. Use specific 
 ## Submission Requirements
 
 - 800-1,000 words (excluding bibliography)
-- At least two credible academic sources
+- At least two credible academic sources (no Wikipedia, no YouTube videos, no ChatGPT, no TikTok, etc)
 - Specific references to at least three film scenes
