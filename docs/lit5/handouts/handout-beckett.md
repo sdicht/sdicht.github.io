@@ -1,4 +1,4 @@
-# Waiting for Godot Notes
+# *Waiting for Godot* Notes
 Adapted from John Fletcher, *A Faber Critical Guide* (Faber) and Lawrence Graver, *Landmarks of World Literature: Waiting for Godot* (Cambridge)
 
 Page numbers refer to the Faber edition.
@@ -25,14 +25,13 @@ A tragicomedy in two acts - 'a play, combining the qualities of a tragedy and a 
 ### Cast
 
 Cast - listed in order of first appearance; Pozzo is pronounced Po'dzo. According to Beckett, no significance attaches to the choice of names: there
-is no intention on his part, for instance, to 'internationalise' the play by giving the characters French, Russian, English and Italian names. In any
-case these are not fixed: If Vladimir calls himself 'Vladimir' (for instance on p. 1), he is addressed by the boy as 'Mister Albert' on p. 42., and Estragon gives his name as 'Adam' (p. 30), evidently in order to discourage further enquiry from Pozzo. 
+is no intention on his part, for instance, to 'internationalise' the play by giving the characters French, Russian, English and Italian names. In any case these are not fixed: If Vladimir calls himself 'Vladimir' (for instance on p. 1), he is addressed by the boy as 'Mister Albert' on p. 42., and Estragon gives his name as 'Adam' (p. 30), evidently in order to discourage further enquiry from Pozzo.
 
-Gogo and Didi - In Beckett's earliest manuscript Estragon is named throughout the first act as 'Levy' (a Jewish name with obvious biblical overtones), and when questioned by Pozzo gives his name as 'Magregor'.
+**Gogo and Didi** - In Beckett's earliest manuscript Estragon is named throughout the first act as 'Levy' (a Jewish name with obvious biblical overtones), and when questioned by Pozzo gives his name as 'Magregor'.
 
-Godot - not suggested by the English word 'God', but by *godillots* and *godasses*, French slang words for boots (Beckett to Roger Blin).
+**Godot** - not suggested by the English word 'God', but by *godillots* and *godasses*, French slang words for boots (Beckett to Roger Blin).
 
-Lucky (a character originally envisaged by Beckett as a railway-station porter) -- pun on 'lackey' (footman or manservant in livery); 'to lackey' means 'to dance attendance on'.
+**Lucky** (a character originally envisaged by Beckett as a railway-station porter) -- pun on 'lackey' (footman or manservant in livery); 'to lackey' means 'to dance attendance on'.
 
 ## Act One
 
@@ -64,7 +63,7 @@ only one speaks of a thief being saved - Luke 23:43 (the same idea was used by B
 
 > I take no sides about that . . . I am interested in the shape of ideas even if I do not believe in them. There is a wonderful sentence in Augustine. I wish I could remember the Latin. It is even finer in Latin than in English. ‘Do not despair; one of the thieves was saved. Do not presume; one of the thieves was damned.’ That sentence has a wonderful shape. It is the shape that matters. (Hobson, p. 154)
 
-### Note
+### Written note from Godot
 
 I must have made a note of it - in the manuscript Beckett wrote 'He', but changed the pronoun to 'I' later. This withdrew the suggestion of a concrete,
 real and active Godot in favour of a more shadowy, problematic figure. Similarly, as we have seen, Beckett early on dropped the idea that the men had a written assignation from Godot: a note, however unhelpful, made the existence of Godot more definite than he wished.
@@ -79,7 +78,7 @@ sprays his throat - an old performer's trick. The famous soprano Dame Nellie Mel
  
 ![pozzo-spray](pozzo-spray-m.jpeg)
 
-### Atlas
+### Atlas, son of Jupiter
 
 He wants to cod me - obsolete slang for 'fool me'. - Atlas, son of Jupiter! - Pozzo's knowledge of Greek mythology is not as sound as he thinks. Atlas was the son of Iapetus, a Titan. For his part in the revolt of the Titans Atlas was condemned to support the heavens on his shoulders; he is frequently depicted doing so in European art. 
 
@@ -167,8 +166,7 @@ leitmotifs. Likewise 'Come here till I embrace you' (an Irishism, incidentally) 
 
 ### The Same Pus
 
-the same pus - a sour twist on the saying of the pre-Socratic philosopher Heraclitus (who lived around 500 BC) that we can never step twice into
-the same stream (that is, all is continually changing and time is irreversible).
+the same pus - a sour twist on the saying of the pre-Socratic philosopher Heraclitus (who lived around 500 BC) that we can never step twice into the same stream (that is, all is continually changing and time is irreversible).
 
 ### Cackon Country
 
@@ -178,7 +176,7 @@ Cackon country - another pun on the French child's word for excrement, *caca*. I
 
 the 'three hats for two heads' routine was one used by the Marx Brothers in the film *Duck Soup* (1933); it was also a Laurel and Hardy gag.
 
-![image](duck_soup.gif))
+![image](duck_soup.gif)
 
 ![alt text](hat-gag-m.jpeg)
 
@@ -195,8 +193,7 @@ suggestion in Beckett's manuscript that Pozzo may only be pretending. Moreover, 
 
 ### 'Aphoristic for once'
 
-The last two words are a significant addition in the definitive text. As for
-Vladimir's eloquence, he owes it, no doubt, to Lucky's hat, which he adopted on p. 64.
+The last two words are a significant addition in the definitive text. As for Vladimir's eloquence, he owes it, no doubt, to Lucky's hat, which he adopted on p. 64.
 
 ### Falls
 
@@ -207,7 +204,7 @@ falls - the multiple fall Beckett saw as 'the visual expression of their common 
 
 ### Blind sight
 
-see into the future - the blind were once supposed to have the gift of prophecy; d. Tiresias, the seer of Greek mythology. In Berlin, great stress was laid on the word 'blind', which was twice repeated, to emphasise how worrying Vladimir finds this change in Pozzo's circumstances.
+see into the future - the blind were once supposed to have the gift of prophecy; Tiresias, the seer of Greek mythology, was blind. In Berlin, great stress was laid on the word 'blind', which was twice repeated, to emphasise how worrying Vladimir finds this change in Pozzo's circumstances.
 
 ### *Memoria praeteritorum bonorum*
 
@@ -219,9 +216,7 @@ Dumb! - note the repetition of this word, to balance with 'blind' on p. 77 (STB)
 
 ### White beard
 
-I think it's white, sir - according to Beckett, the whiteness indicates to Vladimir that Godot is very old: 'If he were less experienced there might be
-some hope.' Beckett probably said this with his tongue in his cheek, as he was wont to do when making a rare pronouncement about the meaning
-of his work; but it does at least prove that the play is meant to end on a bleak note of utter hopelessness, and that interpretations which suggest that in spite of everything *Waiting for Godot* holds out the prospect of a happy ending are sentimental wishful thinking.
+I think it's white, sir - according to Beckett, the whiteness indicates to Vladimir that Godot is very old: 'If he were less experienced there might be some hope.' Beckett probably said this with his tongue in his cheek, as he was wont to do when making a rare pronouncement about the meaning of his work; but it does at least prove that the play is meant to end on a bleak note of utter hopelessness, and that interpretations which suggest that in spite of everything *Waiting for Godot* holds out the prospect of a happy ending are sentimental wishful thinking.
 
 ![alt text](boy-act1-m.jpeg)
 

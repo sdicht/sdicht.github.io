@@ -59,8 +59,9 @@ Supplements:
 
 - :book: [*Waiting for Godot*](readings/beckett-godot.pdf)
 - :brain: Study Guide: [Cliffs Notes](https://www.cliffsnotes.com/literature/w/waiting-for-godot/samuel-beckett-biography) with summaries
-- :page_facing_up: [Handout/Notes](handouts/handout-beckett.md)
+- :page_facing_up: [Notes](handouts/handout-beckett.md)
 - :page_with_curl: [Discussion Questions](handouts/beckett-questions.md)
+- :page_facing_up: [The Theater of the Absurd](handouts/handout-absurd.md)
 
 
 Critical Commentary
