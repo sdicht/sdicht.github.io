@@ -9,15 +9,21 @@
 ## Thomas Hardy
 
 - :book: ["On the Western Circuit"](readings/hardy-circuit.pdf)  
+- :page_facing_up: [Handout](handouts/handout-hardy.md)
+- :page_facing_up: [Discussion Questions](handouts/hardy-questions.md)
+  
+Supplements:
 - :link: ["Hap"](https://www.poetryfoundation.org/poems/46311/hap)
 - :vhs: ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
-- :page_facing_up: [Handout](handouts/handout-hardy.md)
 
 ## James Joyce
 
 - :book: ["Araby" and "Eveline", stories from *Dubliners*](readings/joyce-stories.pdf)
-- :vhs: [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 - :page_facing_up: [*Dubliners* Handout](handouts/handout-joyce.md)
+- :page_facing_up: [Discussion Questions](handouts/joyce-questions.md)
+
+Supplements:
+- :vhs: [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 
 ## T. S. Eliot
 
@@ -38,7 +44,7 @@ Supplements:
 - :book: ["The Garden Party"](readings/mansfield-garden.pdf)  
 - :vhs: [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE)
 
-:writing_hand_tone2: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
+:writing_hand: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
 ## World War I Poets
 
@@ -78,7 +84,7 @@ Supplements
 - :sound: [Columbia Masterworks Recording with the first American actors (1950s)](https://youtu.be/94aA2TNhk_g)
 
 
-## Tradition and its Discontents
+## Tradition and its Discontents 
 
 - :book: Philip Larkin, ["Church Going"](readings/larkin-poems.pdf)
 - :book: Seamus Heaney, ["Digging"](readings/heaney-poems.pdf)

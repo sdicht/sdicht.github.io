@@ -1,6 +1,6 @@
 # Final Project: "The Character Universe Advice Show"
 
-:inbox_tray: Submit by **October 2nd, 2025** through [this link](https://www.dropbox.com/request/nTWXbKyxE8VRx2I0H8On).
+:inbox_tray: Submit by **October 1st, 2025** by uploading an unlisted video to YouTube and submitting the link through [this form]
 
 ## Individual Video Presentation (10 minutes)
 
@@ -165,6 +165,8 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 
 ### Recording Methods
 
+Use any method you want, just make sure we can see both you and your slides at the same time. Here are some suggestions.
+
 #### Method 1: PowerPoint
 1. Open your PowerPoint presentation
 2. Go to tab: `Slide Show` or `Apresentação de Slides`
@@ -183,14 +185,11 @@ Don't announce grammar explicitly - weave modal verbs naturally into advice. Var
 6. Stop Recording when finished
 7. Result: Video automatically saved to Documents > Zoom
 
-#### Method 3: QuickTime (if you have a Mac)
-
-### Submission Format & Delivery
-
-#### File Naming:
-
-- Video file: `YourName_Advice_Video.mp4`
-- Slide deck: `YourName_Advice_Slides.pdf`
+#### Method 3: Use your phone camera
+1. Open your slide presentation on a computer monitor or TV behind you
+2. Record yourself doing the presentation in front of it
+3. Be sure to position yourself as not to obscure the slides
+4. Check the audio, it must be loud and clear
 
 ## :100: Grading
 ### Rubric (100 points)
