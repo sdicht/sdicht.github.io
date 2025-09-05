@@ -12,7 +12,8 @@
 - :page_facing_up: [Handout](handouts/handout-hardy.md)
 - :page_facing_up: [Discussion Questions](handouts/hardy-questions.md)
   
-Supplements:
+Supplements
+
 - :link: ["Hap"](https://www.poetryfoundation.org/poems/46311/hap)
 - :vhs: ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
 
@@ -22,7 +23,8 @@ Supplements:
 - :page_facing_up: [*Dubliners* Handout](handouts/handout-joyce.md)
 - :page_facing_up: [Discussion Questions](handouts/joyce-questions.md)
 
-Supplements:
+Supplements
+
 - :vhs: [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 
 ## T. S. Eliot
@@ -31,7 +33,7 @@ Supplements:
 - :sound: [Alec Guinness reads](https://youtu.be/FUL4O4RTgh8)
 - :sound: [Anthony Hopkins reads](https://youtu.be/PLNsPhKlucY)
 
-Supplements:
+Supplements
 
 - :link: William Shakespeare, [Speech: “To be, or not to be, that is the question”](https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question)
 - :link: Alfred Lord Tennyson, ["Ulysses"](https://www.poetryfoundation.org/poems/45392/ulysses)
@@ -44,7 +46,9 @@ Supplements:
 - :book: ["The Garden Party"](readings/mansfield-garden.pdf)  
 - :vhs: [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE)
 
-:writing_hand: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
+Assignments
+
+- :writing_hand: [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
 ## World War I Poets
 
@@ -52,7 +56,7 @@ Supplements:
 - :link: [Edward Thomas, "Adlestrop"](https://www.poetryfoundation.org/poems/53744/adlestrop)
 - :link: [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
 
-Supplements:
+Supplements
 
 - :sound: [Sophie Okonedo reads "The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) 
 - :sound: [Kenneth Branagh reads "Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY)
@@ -93,8 +97,11 @@ Supplements
 Supplements
 
 - :sound: [Philip Larkin reads "Church Going"](https://www.youtube.com/watch?v=mN_vWfSgWe4)
+- :sound: [Seamus Heaney reads "Digging"](https://www.youtube.com/watch?v=dIzJgbNANzk)
 
-:writing_hand_tone2: [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
+Assignments
+
+- :writing_hand: [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
 
 ## Violence and Complicity
 - :book: Anthony Burgess, [*A Clockwork Orange*, Chapter 1](readings/burgess-clockwork.pdf)
@@ -108,4 +115,6 @@ Supplements
 ## Hybridity and Postcoloniality
 - :book: Kureishi, ["My Son the Fanatic"](readings/kureishi-fanatic.pdf)
 
-:writing_hand_tone2: [Assignment 3: "My Son the Fanatic"](assignments/assignment-kureishi.md)
+Assignments
+
+- :writing_hand: [Assignment 3: "My Son the Fanatic"](assignments/assignment-kureishi.md)
