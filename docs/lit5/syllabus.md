@@ -4,18 +4,16 @@
 **Carga Horária:** 60h  
 **Créditos:** 4
 **Horário:** 3M1234
-**Sala:** [Incluir local]  
+**Sala:** CAH 102
 **Plataforma:** SIGAA
 
 ---
 
 ## 📖 **EMENTA**
 
-Estudo das literaturas do Reino Unido e Irlanda, incluindo suas literaturas pós-coloniais, por meio de textos de autores representativos dos séculos XX e XXI, observando fundamentação teórica e crítica contemporânea.
+Estudo das literaturas do Reino Unido e Irlanda, incluindo suas literaturas pós-coloniais, por meio de textos de autores representativos dos séculos XX e XXI, observando fundamentação teórica e crítica contemporânea.a.
 
----
-
-## 🎯 **OBJETIVOS**
+## **OBJETIVOS**
 
 ### Objetivo Geral
 
@@ -30,9 +28,7 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - **Contextualização Histórica:** Compreender e analisar os textos em seus contextos socioculturais, históricos e políticos específicos
 - **Interpretação Comparativa:** Desenvolver análises comparativas entre diferentes autores, obras e movimentos literários do período
 
----
-
-## 🎓 **METODOLOGIA**
+## **METODOLOGIA**
 
 ### Abordagem Pedagógica
 
@@ -48,28 +44,26 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - Plataforma digital para discussões assíncronas
 - Recursos bibliográficos digitais e físicos
 
----
+## **EXIGÊNCIAS E POLÍTICAS DO CURSO**
 
-## ⚖️ **EXIGÊNCIAS E POLÍTICAS DO CURSO**
-
-### 📅 **Frequência**
+### **Frequência**
 
 - **Mínimo obrigatório:** 75% de presença
 - **Responsabilidade:** O(a) estudante deve acompanhar e controlar suas próprias faltas
 - **Recomendação:** Em caso de ausência, recuperar conteúdo com colegas ou professor
 
-### 💬 **Participação**
+### **Participação**
 
 - Envolvimento ativo nas discussões em classe
 - Leitura prévia obrigatória dos textos indicados
 - Contribuições construtivas para o ambiente de aprendizagem
 
-### ⏰ **Pontualidade**
+### **Pontualidade**
 
 - Cumprimento rigoroso de prazos para todas as atividades
 - Não há reposição de atividades entregues fora do prazo sem justificativa válida
 
-### 🎓 **Integridade Acadêmica**
+### **Integridade Acadêmica**
 
 **POLÍTICA ANTI-PLÁGIO:**
 
@@ -78,19 +72,17 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - **Penalidade:** Detecção de plágio ou uso indevido de IA = NOTA ZERO na atividade, sem possibilidade de substituição
 - **Orientação:** Em caso de dúvidas sobre citação, consultar o professor antes da entrega
 
----
-
-## 📊 **SISTEMA DE AVALIAÇÃO**
+## **SISTEMA DE AVALIAÇÃO**
 
 ### Distribuição das Notas
 
-| Atividade             | Peso | Descrição                    |
-| --------------------- | ---- | ---------------------------- |
-| **Prova 1**           | 1/3  | Midterm Exam                 |
-| **Prova 2**           | 1/3  | Final Exam                   |
-| **Estudos dirigidos** | 1/3  | Written assignments          |
+| Atividade             | Peso | Descrição                                |
+| --------------------- | ---- | ---------------------------------------- |
+| **Prova 1**           | 1/3  | Midterm Exam                             |
+| **Prova 2**           | 1/3  | Final Exam                               |
+| **Estudos dirigidos** | 1/3  | In-class and take-home group assignments |
 
-### 📝 **Provas Escritas (Notas 1 e 2)**
+### **Provas Escritas (Notas 1 e 2)**
 
 **Formato:**
 
@@ -104,15 +96,13 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - ✅ Dicionário físico
 - ❌ Aparelhos eletrônicos de qualquer tipo
 
-### 📝 **Written Assignments (Nota 3)**
+### **Written Assignments (Nota 3)**
 
 - **Composição:** Média de 3-4 trabalhos escritos ao longo do semestre
 - **Natureza:** Combinação de pesquisa bibliográfica, análise crítica e interpretação de texto
 - **Prompts:** Todos os prompts e instruções específicas serão disponibilizados no site do professor
 
----
-
-## 📋 **NORMAS DE FORMATAÇÃO**
+## **NORMAS DE FORMATAÇÃO**
 
 ### Trabalhos Escritos
 
@@ -138,9 +128,7 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - Seguir padrão MLA para citações literárias
 - Não há necessidade de folha de rosto
 
----
-
-## 📱 **COMUNICAÇÃO E PLATAFORMAS**
+## **COMUNICAÇÃO E PLATAFORMAS**
 
 ### SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
 
@@ -161,15 +149,11 @@ Desenvolver competência crítica e analítica na leitura de textos literários 
 - Recursos audiovisuais complementares online
 - Tempo de estudo recomendado: Mínimo de 4 horas semanais
 
----
+## **CRONOGRAMA**
 
-## 📅 **CRONOGRAMA**
+Sujeito a alterações.
 
-_Sujeito a alterações.
-
----
-
-## 📚 **BIBLIOGRAFIA**
+## **BIBLIOGRAFIA**
 
 ### Bibliografia Básica
 
@@ -178,5 +162,3 @@ GREENBLATT, Stephen et al. (eds.). _The Norton Anthology of English Literature_.
 ### Bibliografia Complementar
 
 BATE, Jonathan. _English Literature: A Very Short Introduction_. Oxford UP, 2010.
-
-_Bibliografia detalhada e textos específicos serão disponibilizados no site do professor_
