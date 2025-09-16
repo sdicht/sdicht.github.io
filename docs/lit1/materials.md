@@ -35,7 +35,7 @@
 - 📖 [Othello - Translation 🇧🇷](readings/othello-pt.pdf)
 - 🧠 [Othello - Study Guide (Macmillan)](readings/othello-guide.pdf) - commentary scene by scene
 - 🧠 [Othello - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/o/othello/play-summary) with summaries, character analysis, themes, symbols, etc.
-- 📊 [Slide Deck](slides/othello-slides.html) and [Handout](handouts/notes-othello.md)
+- 📊 [Slide Deck](slides/othello-slides.pdf)
   
 ### Adaptations
 
