@@ -24,8 +24,8 @@
 
 ### Slide Deck
 
-- 📊 [Historical Context](slides/intro-slides.html)
-- 📊 [The General Prologue](slides/chaucer-slides.html)
+- 📊 [Historical Context](slides/intro-slides.pdf)
+- 📊 [The General Prologue](slides/chaucer-slides.pdf)
 - 📊 [Wife of Bath](slides/chaucer-wife-of-bath-slides.pdf)
 
 
