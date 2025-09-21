@@ -1,0 +1,4 @@
+site/
+archived/
+*.zip
+.DS_Store
