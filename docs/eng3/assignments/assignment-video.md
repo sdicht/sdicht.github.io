@@ -1,6 +1,10 @@
 # Final Project: "The Character Universe Advice Show"
 
-📥 Submit by **October 1st, 2025** by uploading an unlisted video to YouTube and submitting the link through [this form]
+📥 Submit by **October 1st, 2025** by uploading an unlisted video to YouTube and submitting the link through [this form](https://forms.gle/gTzS1uGEDv2gwJrn6). 
+
+🗳️ On **October 2nd**, cast your votes through [this form](https://forms.gle/owPExfSMwx5ecTN79).
+
+🏆 After all the votes are cast, on **October 3rd**, [click here to see the award winners](awards.html)!
 
 ## Individual Video Presentation (10 minutes)
 
