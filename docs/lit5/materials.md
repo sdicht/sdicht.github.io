@@ -3,8 +3,10 @@
 ## Introduction
 
 - 📖 [Historical Context](readings/intro-context.pdf) (The Norton Anthology of English Literature)
-- 📖 Hardy, ["The Darkling Thrush"](readings/hardy-thrush.pdf)  
-- 🔗 Alfred Lord Tennyson, ["Ulysses"](https://www.poetryfoundation.org/poems/45392/ulysses)
+- 📖 [Excerpt from George Eliot's *Middlemarch*](readings/middlemarch-excerpt.pdf)
+- 📖 [Excerpt from James Joyce's *Ulysses*](readings/ulysses-excerpt.pdf)
+- 📖 Thomas Hardy, ["The Darkling Thrush"](readings/hardy-thrush.pdf)  
+- 🔗 Matthew Arnold, ["Dover Beach"](https://www.poetryfoundation.org/poems/43588/dover-beach)
 - 📊 [Slide Deck](slides/intro-slides.pdf)  
 
 ## Thomas Hardy
@@ -37,6 +39,7 @@ Supplements
 Supplements
 
 - 🔗 William Shakespeare, [Speech: “To be, or not to be, that is the question”](https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question)
+- 🔗 Alfred Lord Tennyson, ["Ulysses"](https://www.poetryfoundation.org/poems/45392/ulysses)
 - 🔗 William Wordsworth, ["I Wandered Lonely as a Cloud"](https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud)
 - 🔗 [Wikipedia: Dramatic monologue](https://en.wikipedia.org/wiki/Dramatic_monologue)
 
@@ -72,7 +75,6 @@ Supplements
 - 📄 [Notes](handouts/handout-beckett.md)
 - 📄 [Discussion Questions](handouts/beckett-questions.md)
 - 📄 [The Theater of the Absurd](handouts/handout-absurd.md)
-
 
 Critical Commentary
 
