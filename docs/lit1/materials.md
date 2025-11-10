@@ -44,8 +44,8 @@
 
 ### Supplements
 
+- 📼 [*You can read Shakespeare. Here's how*](https://youtu.be/Lkula8VRjf0) by Henry Oliver (YouTube)
 - 📼 [*Why We Can't Do Plays Like Shakespeare Anymore: The London History Show*](https://www.youtube.com/watch?v=2UZ369VYJrY) by J. Draper (YouTube)
 - 📼 [*Acting Shakespeare*](https://www.youtube.com/watch?v=w6eztyfrWo8) by Ian McKellen (YouTube)
 - 📼 [*Henry V* (1944, dir. Laurence Olivier)](https://youtu.be/5BLBQIwZ_h4) - useful for seeing the theater (YouTube)
 - 📄 Barbara Heliodora, ["Otelo, uma tragédia construída sob uma estrutura cômica"](readings/heliodora-othello-article.pdf)
-

@@ -8,13 +8,13 @@ Welcome to the course website. Here you will find:
 
 **Instructor:** Prof. Pedro Groppo
 
-**Semester:** 2025.1
+**Semester:** 2025.2
 
 **Contact:** pedro.groppo@academico.ufpb.br
 
 ---
 
 ## Quick Links
-- [Syllabus](syllabus-new.md)
+- [Syllabus](syllabus.md)
 - [Materials](materials.md)
 - [Assignments](assignments.md)

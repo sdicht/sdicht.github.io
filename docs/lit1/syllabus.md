@@ -1,157 +1,108 @@
-# **Literatura Inglesa I - 2025.2**
+# Literatura Inglesa I - 2025.2
 
-**Professor:** Pedro Groppo
-**Carga Horária:** 60h  
-**Créditos:** 4
-**Horário:** 2M1234 / 3N1234
-**Sala:** CAH 105 / CAG 103 
-**Plataforma:** SIGAA
+Professor: Pedro Groppo
+Carga Horária: 60h  
+Créditos: 4
+Horário: 2M1234 / 3N1234
+Sala: CAH 105 / CAG 103 
+Plataforma: SIGAA
 
-## **EMENTA**
+## EMENTA
 
 Estudo da Literatura Inglesa a partir do Período Medieval até o século XVII com estudo de textos dos autores mais representativos, particularmente William Shakespeare, observando fundamentação teórica e fortuna crítica.
 
-## **OBJETIVOS**
+## OBJETIVOS
 
 ### Objetivo Geral
 
-Desenvolver competência crítica e analítica na leitura de textos literários ingleses e irlandeses dos séculos XX e XXI, compreendendo suas relações com contextos históricos, culturais e teóricos.
+Desenvolver competência crítica na leitura de textos literários ingleses medievais e renascentistas, compreendendo suas relações com contextos históricos e culturais.
 
 ### Objetivos Específicos
 
-- **Análise Literária:** Ler e interpretar textos representativos da literatura inglesa e irlandesa moderna e contemporânea através de ensaios analíticos aprofundados
-- **Competência Linguística:** Desenvolver fluência acadêmica em língua inglesa através da produção escrita e análise crítica
-- **Pensamento Crítico:** Elaborar argumentos bem fundamentados sobre obras literárias, integrando análise textual e pesquisa bibliográfica
-- **Pesquisa Acadêmica:** Produzir ensaios acadêmicos com uso adequado de fontes primárias e secundárias, seguindo padrões de citação
-- **Contextualização Histórica:** Compreender e analisar os textos em seus contextos socioculturais, históricos e políticos específicos
-- **Interpretação Comparativa:** Desenvolver análises comparativas entre diferentes autores, obras e movimentos literários do período
+- Ler e interpretar textos da literatura inglesa medieval e renascentista
+- Desenvolver fluência acadêmica em inglês através de análise crítica oral e escrita
+- Elaborar argumentos fundamentados sobre obras literárias
+- Produzir trabalhos acadêmicos com citações adequadas
+- Compreender os textos em seus contextos históricos e sociais
+- Desenvolver análises comparativas entre obras e autores do período
 
-## **METODOLOGIA**
+## METODOLOGIA
 
-### Abordagem Pedagógica
+Todas as aulas serão ministradas em inglês, incluindo leituras e avaliações. O curso combina aulas expositivas com discussões em grupo e atividades práticas de análise textual. Cada obra será introduzida com contexto histórico e conceitos teóricos necessários. O programa pode ser ajustado conforme necessidade.
 
-- **Língua de Instrução:** Todas as aulas serão ministradas integralmente em inglês, incluindo leituras, atividades e avaliações
-- **Metodologia Ativa:** Combinação de aulas expositivas e discussões dirigidas sobre os textos
-- **Contextualização Histórica:** Cada obra será introduzida com contextualização do período e conceitos teóricos relevantes
-- **Flexibilidade:** O programa poderá ser ajustado conforme a dinâmica do grupo e necessidades pedagógicas
+Materiais incluem textos literários, crítica especializada, e material audiovisual quando apropriado. Todo conteúdo será disponibilizado via SIGAA e no site do professor.
 
-### Recursos Didáticos
+## EXIGÊNCIAS E POLÍTICAS DO CURSO
 
-- Textos literários primários e crítica especializada
-- Material audiovisual complementar
-- Plataforma digital para discussões assíncronas
-- Recursos bibliográficos digitais e físicos
+A frequência mínima obrigatória é de 75%. O aluno é responsável por controlar suas próprias faltas e, em caso de ausência, recuperar conteúdo com colegas.
 
-## **EXIGÊNCIAS E POLÍTICAS DO CURSO**
+É obrigatória a leitura prévia dos textos indicados e envolvimento ativo nas discussões em classe. Todos os prazos devem ser cumpridos rigorosamente. Não há reposição de atividades fora do prazo sem justificativa válida.
 
-### **Frequência**
+Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (ChatGPT, etc.) sem menção constitui infração grave. Plágio ou uso indevido de IA resultará em nota zero na atividade, sem possibilidade de substituição. Em caso de dúvidas sobre citação, consultar o professor antes da entrega.
 
-- **Mínimo obrigatório:** 75% de presença
-- **Responsabilidade:** O(a) estudante deve acompanhar e controlar suas próprias faltas
-- **Recomendação:** Em caso de ausência, recuperar conteúdo com colegas ou professor
-
-### **Participação**
-
-- Envolvimento ativo nas discussões em classe
-- Leitura prévia obrigatória dos textos indicados
-- Contribuições construtivas para o ambiente de aprendizagem
-
-### **Pontualidade**
-
-- Cumprimento rigoroso de prazos para todas as atividades
-- Não há reposição de atividades entregues fora do prazo sem justificativa válida
-
-### **Integridade Acadêmica**
-
-**POLÍTICA ANTI-PLÁGIO:**
-
-- Todos os trabalhos devem ser de autoria própria
-- **Uso de IA:** O uso de ferramentas de inteligência artificial (ChatGPT, etc.) sem devida menção constitui infração grave
-- **Penalidade:** Detecção de plágio ou uso indevido de IA = NOTA ZERO na atividade, sem possibilidade de substituição
-- **Orientação:** Em caso de dúvidas sobre citação, consultar o professor antes da entrega
-
-## **SISTEMA DE AVALIAÇÃO**
+## SISTEMA DE AVALIAÇÃO
 
 ### Distribuição das Notas
 
 | Atividade             | Peso | Descrição                                |
 | --------------------- | ---- | ---------------------------------------- |
-| **Prova 1**           | 1/3  | Midterm Exam                             |
-| **Prova 2**           | 1/3  | Final Exam                               |
-| **Estudos dirigidos** | 1/3  | In-class and take-home group assignments |
+| Seminário 1: Chaucer           | 1/3  | Group seminar presentation on General Prologue or Wife of Bath (January)                             |
+| Seminário 2: Shakespeare           | 1/3  | Group seminar presentation on Othello (March/April)                               |
+| Prova Escrita + Quizzes | 1/3  | Final written exam +  reading quizzes |
 
-### **Provas Escritas (Notas 1 e 2)**
+### Seminários em Grupo (Notas 1 e 2)
 
-**Formato:**
+Seminário 1 - Chaucer (Janeiro):
 
-- Duração: 2 horas cada
-- Modalidade: Presencial, sem consulta eletrônica
+- Apresentação de 10-15 minutos
+- Análise de trecho(s) do General Prologue ou Wife of Bath (*The Canterbury Tales*)
+- Entrega de materiais preparatórios (outline, citações, rascunho) até final de dezembro
+- Todos os membros do grupo devem participar ativamente
 
-**Material Permitido:**
+Seminário 2 - Shakespeare (Março/Abril):
 
-- ✅ Textos literários originais (cópias impressas)
-- ✅ Material distribuído em aula e anotações pessoais
-- ✅ Dicionário físico
-- ❌ Aparelhos eletrônicos de qualquer tipo
+- Apresentação presencial de 10-15 minutos
+- Análise de cena(s) de *Othello*
+- Entrega de materiais preparatórios conforme cronograma
+- Todos os membros do grupo devem participar ativamente
 
-### **Written Assignments (Nota 3)**
+Componentes avaliados:
 
-- **Composição:** Média de 3-4 trabalhos escritos ao longo do semestre
-- **Natureza:** Combinação de pesquisa bibliográfica, análise crítica e interpretação de texto
-- **Prompts:** Todos os prompts e instruções específicas serão disponibilizados no site do professor
+- Compreensão do texto (citações corretas com números de linha/página)
+- Qualidade da análise literária
+- Estrutura da apresentação (introdução, desenvolvimento, conclusão)
+- Participação equilibrada dos membros do grupo
 
-## **NORMAS DE FORMATAÇÃO**
+### Prova Escrita Final
 
-### Trabalhos Escritos
+A prova final tem duração de 2 horas, é presencial e sem consulta eletrônica. Contém 2 questões (uma sobre Chaucer, uma sobre Shakespeare) em formato de ensaio com introdução, desenvolvimento e conclusão.
 
-**Formatação ABNT:**
+Material permitido: textos literários originais (cópias impressas), traduções em português (Paulo Vizioli ou outras), material distribuído em aula e anotações pessoais, dicionário físico. Aparelhos eletrônicos não são permitidos.
 
-- Fonte: Times New Roman, tamanho 12
-- Espaçamento: 1,5 linhas
-- Margens: 3cm superior e esquerda, 2cm inferior e direita
 
-**Estrutura da Primeira Página:**
+### Quizzes de Leitura
 
-- Nome do(a) estudante
-- Nome do professor
-- Disciplina e período
-- Título do trabalho
-- Data de entrega
+Os quizzes acontecem quando há leitura atribuída. São questões curtas de compreensão no início da aula para verificar que o aluno fez a leitura e compreendeu aspectos básicos. A avaliação é por completude e esforço, não perfeição. A média dos quizzes compõe parte da Nota 3 junto com a prova final.
 
-**Citações e Referências:**
+## NORMAS DE FORMATAÇÃO
 
-- Todas as citações devem incluir número de página
-- Para e-books: incluir localização equivalente
-- Bibliografia completa ao final
-- Seguir padrão MLA para citações literárias
-- Não há necessidade de folha de rosto
+Trabalhos escritos devem seguir formatação ABNT: fonte Times New Roman tamanho 12, espaçamento 1,5 linhas, margens 3cm superior e esquerda, 2cm inferior e direita.
 
-## **COMUNICAÇÃO E PLATAFORMAS**
+A primeira página deve conter: nome do estudante, nome do professor, disciplina e período, título do trabalho, data de entrega. Não há necessidade de folha de rosto.
 
-### SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
+Todas as citações devem incluir número de página (ou localização equivalente para e-books). Bibliografia completa ao final. Seguir padrão MLA para citações literárias.
 
-- Canal oficial para entrega de trabalhos e acesso a materiais
-- Envio de trabalhos: Exclusivamente através do SIGAA
-- Avisos: Comunicações importantes via email institucional
+## COMUNICAÇÃO E PLATAFORMAS
 
-### Email Institucional
+O SIGAA é o canal oficial para entrega de trabalhos e acesso a materiais. Avisos importantes serão enviados via email institucional. É responsabilidade do estudante verificar regularmente o email institucional.
 
-- Comunicação direta com o professor
-- Avisos sobre aulas, prazos e materiais
-- Responsabilidade do estudante: verificar regularmente o email institucional
+Todo material de leitura será disponibilizado no SIGAA e site do professor. Tempo de estudo recomendado: mínimo de 4 horas semanais fora de sala de aula.
 
-### Materiais de Leitura
-
-- Todo material será disponibilizado no SIGAA e site do professor
-- Textos obrigatórios para discussões síncronas
-- Recursos audiovisuais complementares online
-- Tempo de estudo recomendado: Mínimo de 4 horas semanais
-
-## **CRONOGRAMA**
+## CRONOGRAMA
 
 Sujeito a alterações.
 
-## **BIBLIOGRAFIA**
+## BIBLIOGRAFIA
 
 ### Bibliografia Básica
 

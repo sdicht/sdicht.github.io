@@ -4,7 +4,7 @@
 
 🗳️ On **October 2nd**, cast your votes through [this form](https://forms.gle/owPExfSMwx5ecTN79).
 
-🏆 After all the votes are cast, on **October 3rd**, [click here to see the award winners](awards.html)!
+🏆 After all the votes are cast, on **October 3rd**, [click here to see the award winners](awards.md)!
 
 ## Individual Video Presentation (10 minutes)
 
