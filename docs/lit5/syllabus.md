@@ -1,11 +1,8 @@
 # Literatura Inglesa V - 2025.1
 
-Professor: Pedro Groppo
-Carga Horária: 60h  
-Créditos: 4
 Horário: 3M1234
-Sala: CAH 102
-Plataforma: SIGAA
+
+Sala: CAH 104
 
 ## EMENTA
 
