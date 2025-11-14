@@ -28,7 +28,7 @@ Desenvolver competência crítica na leitura de textos literários ingleses medi
 
 Todas as aulas serão ministradas em inglês, incluindo leituras e avaliações. O curso combina aulas expositivas com discussões em grupo e atividades práticas de análise textual. Cada obra será introduzida com contexto histórico e conceitos teóricos necessários. O programa pode ser ajustado conforme necessidade.
 
-Materiais incluem textos literários, crítica especializada, e material audiovisual quando apropriado. Todo conteúdo será disponibilizado via SIGAA e no site do professor.
+Materiais incluem textos literários, crítica especializada, e material audiovisual quando apropriado. Todo conteúdo será disponibilizado no site do professor.
 
 ## EXIGÊNCIAS E POLÍTICAS DO CURSO
 
@@ -94,7 +94,7 @@ Todas as citações devem incluir número de página (ou localização equivalen
 
 O SIGAA é o canal oficial para entrega de trabalhos e acesso a materiais. Avisos importantes serão enviados via email institucional. É responsabilidade do estudante verificar regularmente o email institucional.
 
-Todo material de leitura será disponibilizado no SIGAA e site do professor. Tempo de estudo recomendado: mínimo de 4 horas semanais fora de sala de aula.
+Todo material de leitura será disponibilizado no site do professor. Tempo de estudo recomendado: mínimo de 4 horas semanais fora de sala de aula.
 
 ## CRONOGRAMA
 
