@@ -13,13 +13,12 @@
 
 ## Samuel Taylor Coleridge
 
-- Kubla Khan
+- 🔗 ["Kubla Khan"](https://www.poetryfoundation.org/poems/43991/kubla-khan)
 
 ## John Keats
 
-- To Autumn
-- La belle dame sans merci
+- 🔗 ["La belle dame sans merci"](https://www.poetryfoundation.org/poems/44475/la-belle-dame-sans-merci-a-ballad)
 
 ## Percy Shelley
 
-- Ozymandias
+- 🔗 ["Ozymandias"](https://www.poetryfoundation.org/poems/46565/ozymandias)
