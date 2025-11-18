@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- 📖 [Historical Context](readings/intro-context.pdf) (The Norton Anthology of English Literature)
+- 📖 [Historical Context](readings/intro-context.pdf) (*The Norton Anthology of English Literature*)
 - 📖 [Excerpt from George Eliot's *Middlemarch*](readings/middlemarch-excerpt.pdf)
 - 📖 [Excerpt from James Joyce's *Ulysses*](readings/ulysses-excerpt.pdf)
 - 📖 Thomas Hardy, ["The Darkling Thrush"](readings/hardy-thrush.pdf)  
