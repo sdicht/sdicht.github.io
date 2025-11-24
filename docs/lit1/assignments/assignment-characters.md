@@ -1,6 +1,10 @@
 # Assignment 1: Character Analysis (The Knight up to the Friar)
 
-**For each quote:** a) Translate into Modern English using your own words and b) Answer the questions that follow.
+**For each quote:** 
+
+a) Translate into Modern English using your own words and 
+
+b) Answer the questions that follow.
 
 ---
 
@@ -96,6 +100,7 @@ Trouthe and honour, fredom and curteisye.
 
 ## Synthesis Question
 **Choose the Prioress, Monk, or Friar** and write a paragraph explaining how Chaucer uses contrast and irony to reveal their character. Consider: 
+
 - What they should be vs. what they actually are 
 - What their religious role demands vs. how they behave
 - Surface appearance vs. underlying reality
