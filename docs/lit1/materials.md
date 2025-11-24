@@ -21,6 +21,8 @@
 ### Supplements
 
 - 📖 [*The Canterbury Tales* - Complete Translation 🇧🇷](readings/chaucer-pt.pdf)
+- 🔗 [*The Canterbury Tales* - Encyclopedia Britannica](https://www.britannica.com/topic/The-Canterbury-Tales)
+- 🧠 [*The Canterbury Tales* - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/c/the-canterbury-tales/summary)
 
 ### Slide Deck
 
