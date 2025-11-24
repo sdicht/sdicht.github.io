@@ -103,7 +103,8 @@ Trouthe and honour, fredom and curteisye.
 ```
 
 **Questions:**
-- How does the Knight serve as Chaucer's "control group"—the standard against which other pilgrims are measured?
+
+- How does the Knight serve as Chaucer's ideal at this point (i.e. the standard against which other pilgrims are measured)?
 - Even though he kills people in holy wars, why is he presented as the ideal Christian soldier?
 - What specific evidence in the text supports his status as genuinely virtuous?
 
