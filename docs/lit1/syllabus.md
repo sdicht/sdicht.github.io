@@ -44,24 +44,24 @@ Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (Ch
 
 | Atividade             | Peso | Descrição                                |
 | --------------------- | ---- | ---------------------------------------- |
-| Seminário 1: Chaucer           | 1/3  | Group seminar presentation on General Prologue or Wife of Bath (January)                             |
-| Seminário 2: Shakespeare           | 1/3  | Group seminar presentation on Othello (March/April)                               |
+| Bloco 1: Chaucer           | 1/3  | Activities + Seminar presentation                             |
+| Bloco 2: Shakespeare           | 1/3  | Activities + Seminar presentation                               |
 | Prova Escrita + Quizzes | 1/3  | Final written exam +  reading quizzes |
 
 ### Seminários em Grupo (Notas 1 e 2)
 
-Seminário 1 - Chaucer (Janeiro):
+Seminário 1 - Chaucer:
 
 - Apresentação de 10-15 minutos
 - Análise de trecho(s) do General Prologue ou Wife of Bath (*The Canterbury Tales*)
-- Entrega de materiais preparatórios (outline, citações, rascunho) até final de dezembro
+- Entrega de materiais preparatórios (outline, citações, rascunho)
 - Todos os membros do grupo devem participar ativamente
 
 Seminário 2 - Shakespeare (Março/Abril):
 
 - Apresentação presencial de 10-15 minutos
 - Análise de cena(s) de *Othello*
-- Entrega de materiais preparatórios conforme cronograma
+- Entrega de materiais preparatórios
 - Todos os membros do grupo devem participar ativamente
 
 Componentes avaliados:
@@ -77,10 +77,9 @@ A prova final tem duração de 2 horas, é presencial e sem consulta eletrônica
 
 Material permitido: textos literários originais (cópias impressas), traduções em português (Paulo Vizioli ou outras), material distribuído em aula e anotações pessoais, dicionário físico. Aparelhos eletrônicos não são permitidos.
 
-
 ### Quizzes de Leitura
 
-Os quizzes acontecem quando há leitura atribuída. São questões curtas de compreensão no início da aula para verificar que o aluno fez a leitura e compreendeu aspectos básicos. A avaliação é por completude e esforço, não perfeição. A média dos quizzes compõe parte da Nota 3 junto com a prova final.
+Os quizzes acontecem quando há leitura atribuída. São questões curtas de compreensão no início da aula para verificar que o aluno fez a leitura e compreendeu aspectos básicos. A média dos quizzes compõe parte da Nota 3 junto com a prova final.
 
 ## NORMAS DE FORMATAÇÃO
 
