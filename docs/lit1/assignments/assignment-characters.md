@@ -18,7 +18,9 @@ Kaught in a trappe, if it were deed or bledde.
 Of smale houndes hadde she that she fedde 
 With rosted flessh, or milk and wastel-breed 
 ```
+
 **Questions:**
+
 - What does this tell us about her priorities? 
 - What's ironic about a nun who weeps over mice but ignores human suffering?
 
@@ -30,7 +32,9 @@ And theron heng a brooch of gold ful sheene,
 On which ther was first write a crowned A, 
 And after Amor vincit omnia. 
 ```
+
 **Questions:**
+
 - Should a nun wear expensive jewelry? Why or why not?
 - What does "Love conquers all" mean in a religious vs. secular context? 
 - What does the "crowned A" suggest about her focus?
@@ -47,6 +51,7 @@ This ilke Monk leet olde thynges pace,
 And heeld after the newe world the space. 
 ```
 **Questions:**
+
 - What should a monk's attitude be toward ancient religious rules? 
 - What does the phrase "newe world" suggest about his priorities? 
 - How does this connect to medieval concerns about Church corruption?
@@ -55,6 +60,7 @@ And heeld after the newe world the space.
 ---
 
 ## The Friar 
+
 **Context:** Friars took vows of poverty and were supposed to help the poor through charity. They should hear confessions and give spiritual guidance, not seek profit.
 
 ### Quote 1
@@ -64,7 +70,9 @@ And plesaunt was his absolucioun.
 He was an esy man to yeve penaunce, 
 Ther as he wiste to have a good pitaunce. 
 ```
+
 **Questions:**
+
 - What's wrong with giving "easy penance" when you expect a good payment?
 - How does this corrupt the sacrament of confession?
 
@@ -75,7 +83,9 @@ So muchel of daliaunce and fair langage.
 He hadde maad ful many a mariage 
 Of yonge wommen, at his owne cost. 
 ```
+
 **Questions:**
+
 - Why would a friar need to arrange marriages "at his own cost"? 
 - What does this suggest about his relationships with young women?
 - What does "daliaunce and fair langage" imply about how he talks to people?
@@ -91,6 +101,7 @@ That fro the tyme that he first bigan
 To ryden out, he loved chivalrye, 
 Trouthe and honour, fredom and curteisye. 
 ```
+
 **Questions:**
 - How does the Knight serve as Chaucer's "control group"—the standard against which other pilgrims are measured?
 - Even though he kills people in holy wars, why is he presented as the ideal Christian soldier?
