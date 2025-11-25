@@ -24,6 +24,7 @@ Supplements
 
 - 📖 ["Araby" and "Eveline", stories from *Dubliners*](readings/joyce-stories.pdf)
 - 📄 [*Dubliners* Handout](handouts/handout-joyce.md)
+- 📄 [Narration Handout](handouts/handout-narration.md)
 - 📄 [Discussion Questions](handouts/joyce-questions.md)
 
 Supplements
