@@ -6,9 +6,9 @@
 
 ### "Araby"
 
-1. The story is told by an older narrator remembering his younger self. Where do we detect the mature narrator's irony breaking through? How does this double perspective shape our reading of the boy's romantic quest?
+1. The story is told by an older narrator remembering his younger self. Where do we detect the voice of the mature narrator breaking through? How does this double perspective shape our reading of the boy's romantic quest?
 
-2. The boy imagines carrying a "chalice" through hostile crowds and turns Mangan's sister into an object of religious devotion, like in a hero's quest. What does this confusion of spiritual and sexual awakening reveal about Dublin's Catholic culture? Consider the dead priest's library in this context.
+2. The boy imagines carrying a "chalice" through hostile crowds in the market and turns Mangan's sister into an object of religious devotion, like in a hero's quest. What does this confusion of spiritual and sexual awakening reveal about Dublin's Catholic culture? Consider the dead priest's library in this context.
 
 3. Araby the bazaar promises Eastern enchantment but is a disappointment. How does Joyce construct this anticlimax? What exactly does the boy realize when he sees himself as "a creature driven and derided by vanity"?
 
