@@ -33,8 +33,7 @@ If supplementary materials (notes, videos, contextual readings) were posted, men
 
 ## Format
 
-* 1.5–2 pages, typed.
-* Clear section headings (A–E).
+* Minimum 600 words, maximum 1000 words.
 * Submit weekly, keeping the same pace as the rest of the group whenever possible.
 
 ## Evaluation Criteria
