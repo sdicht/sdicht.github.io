@@ -15,19 +15,19 @@ Submit your reading journals [here](https://www.dropbox.com/request/NSKQJUQ69Szd
 
 Write each entry as a coherent response essay that documents your reading process. You do not need headings, but your text must include the following elements in an integrated way:
 
-1. Reading notes.
+### Reading notes.
 
 Show what stood out during your reading: key moments, characters or images, passages that caught your attention, anything confusing, and anything that felt significant.
 
-2. Questions and difficulties.
+### Questions and difficulties.
 
 Work your questions directly into the response. These may concern the meaning of particular lines, historical or cultural references, unfamiliar literary techniques, or any point where you were unsure. These questions are essential evidence of your reading.
 
-3. Personal impressions.
+### Personal impressions.
 
 Include your reactions and reflections: what you found striking, strange, or challenging; how the text made you think or feel; and how it connects to your prior readings or expectations.
 
-4. Engagement with supplements and research.
+### Engagement with supplements and research.
 
 If supplementary materials (notes, videos, contextual readings) were posted, mention what you consulted and how it helped. If no supplements were provided, integrate brief independent research (quick searches, reference checks, short videos, author background) into your response. Indicate what you looked up, what you learned, and how it clarified your reading.
 
