@@ -8,8 +8,8 @@ Submit your reading journals [here](https://www.dropbox.com/request/NSKQJUQ69Szd
 2. Read the assigned text (short story, poem, or play), in order. Follow the headings. Check the author's Wikipedia entry.
 3. Read it **carefully and independently**, ideally in two passes:
 
-   * First pass: general impression and storyline.
-   * Second pass: attention to details, language, imagery, and themes.
+- First pass: general impression and storyline.
+- Second pass: attention to details, language, imagery, and themes.
 
 ## Reading journal
 
@@ -40,11 +40,10 @@ If supplementary materials (notes, videos, contextual readings) were posted, men
 
 Your weekly work will be supervised according to:
 
-1. Consistency (one entry per week).
-2. Completeness of sections A–E.
-3. Clarity of thought and documentation of process.
-4. Relevance and accuracy of the research you conducted.
-5. Evidence of engagement with the assigned text.
+- Consistency (one entry per text, on schedule).
+- Clarity of thought and documentation of process.
+- Relevance and accuracy of the research you conducted.
+- Evidence of engagement with the assigned text.
 
 ## Academic Integrity Note
 
