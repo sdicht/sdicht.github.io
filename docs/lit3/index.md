@@ -1,5 +1,7 @@
 # Materials for English Literature III - 2025.2
 
+[Ozymandias group assignment](ozymandias.md) - Due December 12
+
 ## William Wordsworth
 
 - 🔗 ["I Wandered Lonely as a Cloud"](https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud)
