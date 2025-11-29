@@ -12,7 +12,6 @@ How does Shelley use the sonnet form, its structure, rhyme scheme, and sound pat
 * How do the octave (first 8 lines) and sestet (final 6 lines) divide the poem's logic?
 * What sounds repeat in the poem? (alliteration, assonance, harsh vs. soft consonants)
 * How does the 14-line constraint shape what Shelley can say?
-Your job: Teach the class about the poem's architecture—how its formal choices create meaning.
 
 ### Group 2: IRONY & THEME (What the poem means)
 How does the irony of Ozymandias's inscription reveal Shelley's theme about power, time, and human ambition?
