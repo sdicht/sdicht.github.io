@@ -32,7 +32,7 @@ How does Shelley use the frame narrative (narrator → traveller → inscription
 * Why does Shelley choose this narrative structure instead of a simpler one?
 
 ### Group 4: ART VS. POWER (What survives)
-What survives in the poem—art or empire? Analyze the relationship between the sculptor and Ozymandias, and what the poem suggests about legacy.
+What survives in the poem, art or empire? Analyze the relationship between the sculptor and Ozymandias, and what the poem suggests about legacy.
 
 * Line 6: the sculptor "well those passions read." What does this mean?
 * Lines 7-8: "Which yet survive, stamped on these lifeless things, / The hand that mocked them and the heart that fed." What survives? How?
@@ -40,9 +40,30 @@ What survives in the poem—art or empire? Analyze the relationship between the 
 * Is the sculptor mocking Ozymandias? What's their relationship?
 * What does the poem suggest endures over time? Why?
 
+### Group 5: LANGUAGE & IMAGERY (The picture the poem paints)
+How do Shelley's word choices and images create meaning?
+
+* What images stand out (desert, ruins, shattered face)? Why?
+* How do specific words shape the mood (vast, boundless, trunkless, shattered)?
+* What emotions do the images create?
+* How does the imagery contrast Ozymandias’s pride with the scene of decay?
+* How does the poem use visual description to deliver its message about time and power?
+
+### Group 6: COMPARISON (Shelley vs Wordsworth or Coleridge)
+
+Compare "Ozymandias" to “The World Is Too Much With Us” OR “Kubla Khan”.
+
+* What vision of human power does each poem present?
+* How does each poem use nature?
+* How does imagery shape the message?
+* What survives over time in each poem?
+* What Romantic ideas do the two poems share?
+
 ## Group distribution
 
-* Group 1: 
+* Group 1: *empty*
 * Group 2: Tiago, Alan
-* Group 3: Milena
-* Group 4: Camile, Beatriz, Eliseu
+* Group 3: Milena, 
+* Group 4: Camile, Beatriz
+* Group 5: *empty*
+* Group 6: *empty*
