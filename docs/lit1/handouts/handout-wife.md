@@ -40,21 +40,7 @@ That hath but oon hole for to sterte to,
 And if that faille, thanne is al ydo
 ```
 
-Calculo que ele devia ter uns vinte anos; e eu quarenta, se não minto... Mas meu
-apetite sempre foi de jovem. Não é à toa que tenho esta janela entre os dentes, que é
-considerada a marca e o selo da Sagrada Vênus. Deus me valha, que sempre f
-ui muito
-sensual... além de bonita, rica, jovem, bem situada, e (como não se cansavam de dizer
-os meus maridos) dona da melhor cona que existe. A realidade é que, no sentimento,
-sou toda venusina, enquanto meu coração é marciano; Vênus me deu o desejo, a
-lascívia; e Marte, a teimosa persistência. Meu ascendente no horóscopo estava em
-Touro, com a presença do planeta Marte... Ai, ai, por que o amor tinha que ser pecado?
-Sempre segui a inclinação imposta por meu signo: por conseguinte, nunca f
-ui capaz
-de negar minha câmara de Vênus a um rapaz atraente. Por outro lado, ­ trago o sinal de
-Marte impresso em minhas faces — e também em outra parte mais íntima. O
-resultado, Deus me perdoe, é que nunca amei com moderação, entregando-me
-completamente a meus impulsos, fosse o homem baixo ou alto, escuro ou claro. 
+> Calculo que ele devia ter uns vinte anos; e eu quarenta, se não minto... Mas meu apetite sempre foi de jovem. Não é à toa que tenho esta janela entre os dentes, que é considerada a marca e o selo da Sagrada Vênus. Deus me valha, que sempre fui muito sensual... além de bonita, rica, jovem, bem situada, e (como não se cansavam de dizer os meus maridos) dona da melhor cona que existe. A realidade é que, no sentimento, sou toda venusina, enquanto meu coração é marciano; Vênus me deu o desejo, a lascívia; e Marte, a teimosa persistência. Meu ascendente no horóscopo estava em Touro, com a presença do planeta Marte... Ai, ai, por que o amor tinha que ser pecado? Sempre segui a inclinação imposta por meu signo: por conseguinte, nunca fui capaz de negar minha câmara de Vênus a um rapaz atraente. Por outro lado, ­ trago o sinal de Marte impresso em minhas faces — e também em outra parte mais íntima. O resultado, Deus me perdoe, é que nunca amei com moderação, entregando-me completamente a meus impulsos, fosse o homem baixo ou alto, escuro ou claro. 
 
 Lines 609-626
 ```
@@ -64,36 +50,9 @@ I folwed ay myn inclinacioun
 By vertu of my constellacioun
 ```
 
-> Depois disso, o que posso dizer é que, ao cabo de um mês, o alegre Janekin, que era
-tão encantador, já havia me desposado, em meio a grande pompa. E a ele confiei
-todos os meus bens e minhas terras, tudo o que amealhara em meus casamentos
-anteriores... Coisa de que mais tarde me arrependi amargamente, porque ele então
-resolveu não mais deixar-me fazer nada do meu jeito. Por Deus, uma vez, só porque
-eu rasguei uma folha de seu livro, ele me deu uma bofetada com tanta força que
-acabei ficando surda de um ou
-vido. Eu, porém, era teimosa como uma leoa e tinha um
-língua que era uma matraca, de modo que, apesar da proibição dele, continuei a
-proceder como sempre, andando de casa em casa. E ele, para domar-me, punha-se a
-pregar e a contar histórias de Roma antiga, lembrando como um tal de Simplício Galo
-deixou a esposa e a abandonou pelo resto da vida só porque um dia a viu espiar porta
-afora com a cabeça descoberta.
+> Depois disso, o que posso dizer é que, ao cabo de um mês, o alegre Janekin, que era tão encantador, já havia me desposado, em meio a grande pompa. E a ele confiei todos os meus bens e minhas terras, tudo o que amealhara em meus casamentos anteriores... Coisa de que mais tarde me arrependi amargamente, porque ele então resolveu não mais deixar-me fazer nada do meu jeito. Por Deus, uma vez, só porque eu rasguei uma folha de seu livro, ele me deu uma bofetada com tanta força que acabei ficando surda de um ouvido. Eu, porém, era teimosa como uma leoa e tinha um língua que era uma matraca, de modo que, apesar da proibição dele, continuei a proceder como sempre, andando de casa em casa. E ele, para domar-me, punha-se a pregar e a contar histórias de Roma antiga, lembrando como um tal de Simplício Galo deixou a esposa e a abandonou pelo resto da vida só porque um dia a viu espiar porta afora com a cabeça descoberta.
 
-> Por isso, quando percebi que ele pretendia passar a noite inteira lendo aquele maldito
-volume, num impulso repentino arranquei-lhe três folhas do livro, enquanto ele ainda
-lia, e desferi-lhe tal soco no rosto que ele perdeu o equilíbrio e caiu de costas no fogo.
-Levantou-se então de um salto, como um leão endoidecido, e, com o punho, bateu-
-me com tanta violência na cabeça que vim ao chão desfalecida. Ao ver que eu não
-me mexia, ficou horrorizado, julgando-me morta; e teria f
-ugido dali se eu, finalmente,
-não tivesse recobrado os sentidos: “Oh, você me matou, ladrão traiçoeiro?”, gemi; “foi
-por causa de minhas terras que você me assassinou? Assim mesmo, antes que eu
-morra, quero dar-lhe um beijo”. Ao ou
-vir isso, ele se aproximou e se ajoelhou junto a
-mim, dizendo: “Alice [Alys], minha querida, Deus me ajude, nunca mais vou bater em
-você. Se fiz isso, foi por sua culpa. Perdoe-me, eu lhe suplico!”. Aproveitei-me de sua
-proximidade e dei-lhe outro soco no rosto, gritando: “Bandido, estou
-vingada. Agora
-posso morrer; não preciso dizer mais nada”. 
+> Por isso, quando percebi que ele pretendia passar a noite inteira lendo aquele maldito volume, num impulso repentino arranquei-lhe três folhas do livro, enquanto ele ainda lia, e desferi-lhe tal soco no rosto que ele perdeu o equilíbrio e caiu de costas no fogo. Levantou-se então de um salto, como um leão endoidecido, e, com o punho, bateu- me com tanta violência na cabeça que vim ao chão desfalecida. Ao ver que eu não me mexia, ficou horrorizado, julgando-me morta; e teria fugido dali se eu, finalmente, não tivesse recobrado os sentidos: “Oh, você me matou, ladrão traiçoeiro?”, gemi; “foi por causa de minhas terras que você me assassinou? Assim mesmo, antes que eu morra, quero dar-lhe um beijo”. Ao ou vir isso, ele se aproximou e se ajoelhou junto a mim, dizendo: “Alice [Alys], minha querida, Deus me ajude, nunca mais vou bater em você. Se fiz isso, foi por sua culpa. Perdoe-me, eu lhe suplico!”. Aproveitei-me de sua proximidade e dei-lhe outro soco no rosto, gritando: “Bandido, estou vingada. Agora posso morrer; não preciso dizer mais nada”. 
 
 Lines 788-810
 ```

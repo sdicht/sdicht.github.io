@@ -24,11 +24,15 @@
 - 🔗 [*The Canterbury Tales* - Encyclopedia Britannica](https://www.britannica.com/topic/The-Canterbury-Tales)
 - 🧠 [*The Canterbury Tales* - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/c/the-canterbury-tales/summary)
 
+### Handouts
+
+- 📄 [General Prolgoue](handouts/handout-prologue.md)
+- 📄 [Wife of Bath](handouts/handout-wife.md)
+
 ### Slide Deck
 
 - 📊 [Historical Context](slides/intro-slides.pdf)
 - 📊 [The General Prologue](slides/chaucer-slides.pdf)
-- 📊 [Wife of Bath](slides/chaucer-wife-of-bath-slides.pdf)
 
 
 ## William Shakespeare: *The Tragedy of Othello, the Moor of Venice*
