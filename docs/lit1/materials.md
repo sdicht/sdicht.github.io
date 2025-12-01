@@ -26,13 +26,8 @@
 
 ### Handouts
 
-- 📄 [General Prolgoue](handouts/handout-prologue.md)
+- 📄 [General Prologue](handouts/handout-prologue.md)
 - 📄 [Wife of Bath](handouts/handout-wife.md)
-
-### Slide Deck
-
-- 📊 [Historical Context](slides/intro-slides.pdf)
-- 📊 [The General Prologue](slides/chaucer-slides.pdf)
 
 
 ## William Shakespeare: *The Tragedy of Othello, the Moor of Venice*

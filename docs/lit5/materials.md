@@ -23,12 +23,13 @@ Supplements
 ## James Joyce
 
 - 📖 ["Araby" and "Eveline", stories from *Dubliners*](readings/joyce-stories.pdf)
-- 📄 [*Dubliners* Handout](handouts/handout-joyce.md)
 - 📄 [Narration Handout](handouts/handout-narration.md)
 - 📄 [Discussion Questions](handouts/joyce-questions.md)
 
-Supplements
+Critical Commentary
+- 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf)
 
+Supplements
 - 📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 
 ## T. S. Eliot
