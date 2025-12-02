@@ -1,5 +1,16 @@
 # The Wife of Bath
 
+## Central questions
+
+- How does she establish credibility as a speaker on marriage?
+- What relationship exists between her public persona and private feelings?
+- How does her narrative strategy serve her larger argument?
+- Why does medieval society both condemn and celebrate her?
+- Core Tension: Personal experience versus institutional authority
+
+
+### Experience vs authority
+
 > Ainda que neste mundo não existissem os ensinamentos da autoridade, a mim bastaria a experiência para falar dos males do matrimônio: e isso, cavalheiros, porque desde os meus doze anos de idade (louvado seja Deus, que tem a vida eterna, por ter-me permitido casar-me tantas vezes) tive já cinco maridos à porta da igreja — e todos homens de bem, à sua maneira.
 
 ```
@@ -7,6 +18,9 @@ Experience, though noon auctoritee
 Were in this world, is right ynogh for me
 To speke of wo that is in mariage
 ```
+
+### Distorting scripture
+
 > Não faz muito, entretanto, disseram-me que, como Cristo só compareceu uma vez a um casamento — às bodas de Caná da Galileia —, quis ensinar-me com essa atitude que eu só deveria casar-me uma vez. Pensem também nas palavras duras que a esse propósito proferiu junto da fonte Jesus, homem e Deus, ao repreender a mulher samaritana: ‘Tiveste cinco maridos’, disse ele, ‘e o homem com quem vives não é teu marido’. Foram essas as suas palavras. Mas não faço a menor ideia do que querem dizer, pois não entendo por que motivo o quinto homem não era marido da samaritana. Quantos, afinal, ela podia desposar? Até hoje, pelo que eu saiba, ninguém definiu esse número. Por isso, deixo que os outros façam as suas suposições e as suas interpretações; quanto a mim, o que sei é que Deus, expressamente e sem mentira, ordenou-nos claramente isto: ‘Crescei e multiplicai-vos!’. E esse texto gentil entendo muito bem.
 
 ### Vendedor de Indulgências a  Interrompe (linhas 163-92)
@@ -16,22 +30,9 @@ To speke of wo that is in mariage
 > “Senhora”, prosseguiu o Vendedor de Indulgências, “se não fizer ob­jeções, rogo-lhe que continue a narração de seus casos, sem poupar a quem quer que seja, instruindo a nós, jovens inexperientes, com sua prática.”
 > “Com prazer”, respondeu ela, “se for de seu agrado. Antes, porém, peço a todos os companheiros que, como sempre falo o que me vem à cabeça, não levem a mal minhas palavras. Mesmo porque meu único propósito é diverti-los.
 
-### Continuação
+### Tactics of seduction
 
-... estávamos a passear pelos campos, quando comecei a brincar com esse
-estudante; e, por precaução, cheguei-me a ele e disse-lhe que, se ficasse viúva, era
-com ele que eu queria casar-me. De fato, sou muito prevenida — tanto nessa questão
-de casamento como em outras coisas —, pois sempre achei que o rato que só tem
-um buraco para esconder-se está perdido: se falha aquele, acabou-se a
-brincadeira. Eu o fiz acreditar então que estava caidinha por ele (foi minha mãe quem
-me ensinou esse truque), contando-lhe que havia sonhado com ele a noite inteira: eu
-estava deitada de costas e ele queria me estripar, e minha cama ficou toda coberta de
-sangue... “Mas espero que seja um bom sinal, porque me disseram que o sangue
-significa ouro.” É claro que era tudo mentira, eu não tinha sonhado com ele coisa
-nenhuma; era só que, nisso e em outras coisas mais, eu gostava de seguir os
-conselhos de minha mãe. E foi então, cavalheiros...
-vejamos, o que é mesmo que eu ia
-dizer? 
+> ... estávamos a passear pelos campos, quando comecei a brincar com esse estudante; e, por precaução, cheguei-me a ele e disse-lhe que, se ficasse viúva, era com ele que eu queria casar-me. De fato, sou muito prevenida — tanto nessa questão de casamento como em outras coisas —, pois sempre achei que o rato que só tem um buraco para esconder-se está perdido: se falha aquele, acabou-se a brincadeira. Eu o fiz acreditar então que estava caidinha por ele (foi minha mãe quem me ensinou esse truque), contando-lhe que havia sonhado com ele a noite inteira: eu estava deitada de costas e ele queria me estripar, e minha cama ficou toda coberta de sangue... “Mas espero que seja um bom sinal, porque me disseram que o sangue significa ouro.” É claro que era tudo mentira, eu não tinha sonhado com ele coisa nenhuma; era só que, nisso e em outras coisas mais, eu gostava de seguir os conselhos de minha mãe. E foi então, cavalheiros... vejamos, o que é mesmo que eu ia dizer? 
 
 Lines 530-533
 ```
@@ -39,6 +40,8 @@ I holde a mouses herte nat worth a leek
 That hath but oon hole for to sterte to,
 And if that faille, thanne is al ydo
 ```
+
+### Jankyn
 
 > Calculo que ele devia ter uns vinte anos; e eu quarenta, se não minto... Mas meu apetite sempre foi de jovem. Não é à toa que tenho esta janela entre os dentes, que é considerada a marca e o selo da Sagrada Vênus. Deus me valha, que sempre fui muito sensual... além de bonita, rica, jovem, bem situada, e (como não se cansavam de dizer os meus maridos) dona da melhor cona que existe. A realidade é que, no sentimento, sou toda venusina, enquanto meu coração é marciano; Vênus me deu o desejo, a lascívia; e Marte, a teimosa persistência. Meu ascendente no horóscopo estava em Touro, com a presença do planeta Marte... Ai, ai, por que o amor tinha que ser pecado? Sempre segui a inclinação imposta por meu signo: por conseguinte, nunca fui capaz de negar minha câmara de Vênus a um rapaz atraente. Por outro lado, ­ trago o sinal de Marte impresso em minhas faces — e também em outra parte mais íntima. O resultado, Deus me perdoe, é que nunca amei com moderação, entregando-me completamente a meus impulsos, fosse o homem baixo ou alto, escuro ou claro. 
 
@@ -50,7 +53,11 @@ I folwed ay myn inclinacioun
 By vertu of my constellacioun
 ```
 
+### The Book of Wicked Wives
+
 > Depois disso, o que posso dizer é que, ao cabo de um mês, o alegre Janekin, que era tão encantador, já havia me desposado, em meio a grande pompa. E a ele confiei todos os meus bens e minhas terras, tudo o que amealhara em meus casamentos anteriores... Coisa de que mais tarde me arrependi amargamente, porque ele então resolveu não mais deixar-me fazer nada do meu jeito. Por Deus, uma vez, só porque eu rasguei uma folha de seu livro, ele me deu uma bofetada com tanta força que acabei ficando surda de um ouvido. Eu, porém, era teimosa como uma leoa e tinha um língua que era uma matraca, de modo que, apesar da proibição dele, continuei a proceder como sempre, andando de casa em casa. E ele, para domar-me, punha-se a pregar e a contar histórias de Roma antiga, lembrando como um tal de Simplício Galo deixou a esposa e a abandonou pelo resto da vida só porque um dia a viu espiar porta afora com a cabeça descoberta.
+
+### The Fight
 
 > Por isso, quando percebi que ele pretendia passar a noite inteira lendo aquele maldito volume, num impulso repentino arranquei-lhe três folhas do livro, enquanto ele ainda lia, e desferi-lhe tal soco no rosto que ele perdeu o equilíbrio e caiu de costas no fogo. Levantou-se então de um salto, como um leão endoidecido, e, com o punho, bateu- me com tanta violência na cabeça que vim ao chão desfalecida. Ao ver que eu não me mexia, ficou horrorizado, julgando-me morta; e teria fugido dali se eu, finalmente, não tivesse recobrado os sentidos: “Oh, você me matou, ladrão traiçoeiro?”, gemi; “foi por causa de minhas terras que você me assassinou? Assim mesmo, antes que eu morra, quero dar-lhe um beijo”. Ao ou vir isso, ele se aproximou e se ajoelhou junto a mim, dizendo: “Alice [Alys], minha querida, Deus me ajude, nunca mais vou bater em você. Se fiz isso, foi por sua culpa. Perdoe-me, eu lhe suplico!”. Aproveitei-me de sua proximidade e dei-lhe outro soco no rosto, gritando: “Bandido, estou vingada. Agora posso morrer; não preciso dizer mais nada”. 
 
@@ -68,6 +75,13 @@ After that day we hadden never debaat.
 God helpe me so, I was to hym as kynde
 As any wyf from Denmark unto Ynde
 ```
+- Woman receives decision-making authority: `sovereynetee`
+- Man demonstrates confidence in her judgment
+- Woman becomes loving and supportive
+- Both partners achieve satisfaction
+
+Does this represent genuine partnership or strategic female dominance (`sovereynetee`) through `maistrye`?
+
 
 ## The Tale
 
@@ -83,8 +97,8 @@ lessons.
 - Arthurian Romance: Stories set in King Arthur's court that explore idealized medieval values like chivalry, courtly love, and knightly quests in a world of noble adventures.
 - Exemplum: A narrative technique where stories serve as illustrative examples to prove a specific moral or philosophical point, commonly used in medieval debates and
 sermons.
-- How They Combine: The Wife uses Arthurian setting and Breton lai magic to create an exemplum that "proves" her argument about women's desire for sovereignty in
-marriage.
+
+### Text of the tale
 
 ```
 In the old days of King Arthur,
@@ -209,8 +223,7 @@ He saw no creature that bore life,
 Save on the green he saw sitting a woman --
 There can no man imagine an uglier creature.
 At the knight's coming this old wife did rise,
-And said,
-"Sir knight, there lies no road out of here.
+And said, "Sir knight, there lies no road out of here.
 Tell me what you seek, by your faith!
 Perhaps it may be the better;
 These old folk know many things," she said.
@@ -293,8 +306,7 @@ Great was the woe the knight had in his thought,
 When he was brought to bed with his wife;
 He wallows and he turns to and fro.
 His old wife lay smiling evermore,
-And said,
-"O dear husband, bless me!
+And said, "O dear husband, bless me!
 Does every knight behave thus with his wife as you do?
 Is this the law of king Arthur's house?
 Is every knight of his so aloof?
@@ -448,12 +460,26 @@ God send them soon the very pestilence!
 
 ## What do women want?
 
-```Wommen desiren to have sovereynetee
+```
+Wommen desiren to have sovereynetee
 As wel over hir housbond as hir love,
-And for to been in maistrie hym above```
+And for to been in maistrie hym above
+```
 
 "Women desire to have supreme authority over both their husbands and their lovers, and to hold mastery over them"
 
 - Does this answer reflect universal female desire or the Wife's personal agenda?
 - How does sovereynetee differ from maistrye in the Wife's vocabulary?
 - What evidence from the Prologue supports or contradicts this claim?
+
+## Contradictions
+
+This emphasis on virtue and gentilesse creates sharp contrast with the Wife's:
+- Promiscuity
+- Unchristian, remorseless self-interest called `maistrye`
+- Commercial approach to relationships
+
+The introduction of `gentillesse` presents an irreconcilable contradiction in the Wife's overall statement.
+
+- Why does Chaucer include this contradiction?
+- Does this represent the Wife's "hidden" better nature?

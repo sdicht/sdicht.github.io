@@ -1,6 +1,6 @@
 ## Reading Journal: Weekly Instructions for *Regime de Estudos Domiciliares*
 
-Submit your reading journals [here](https://www.dropbox.com/request/NSKQJUQ69SzdezkZLZxh) 📥 (no registration required). 
+Submit your reading journals [here](https://www.dropbox.com/request/NSKQJUQ69SzdezkZLZxh) 📥 (no registration required).
 
 Be sure to include in your filename: your name and text/author.
 
