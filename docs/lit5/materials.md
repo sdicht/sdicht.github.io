@@ -34,6 +34,9 @@ Supplements
 
 - 📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 
+Assignments
+- ✏️ [Assignment 2: "The Boarding House"](assignments/assignment-boardinghouse.md)
+
 ## T. S. Eliot
 
 - 🔗 ["The Love Song of J. Alfred Prufrock"](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) 
@@ -109,7 +112,7 @@ Supplements
 
 Assignments
 
-- ✏️ [Assignment 2: Angry Young Men](assignments/assignment-angry.md)
+- ✏️ [Assignment 3: Angry Young Men](assignments/assignment-angry.md)
 
 ## Violence and Complicity
 
@@ -142,4 +145,4 @@ Extra
 
 Assignments
 
-- ✏️ [Assignment 3: "My Son the Fanatic"](assignments/assignment-kureishi.md)
+- ✏️ [Assignment 4: "My Son the Fanatic"](assignments/assignment-kureishi.md)

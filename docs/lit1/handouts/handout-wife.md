@@ -475,6 +475,7 @@ And for to been in maistrie hym above
 ## Contradictions
 
 This emphasis on virtue and gentilesse creates sharp contrast with the Wife's:
+
 - Promiscuity
 - Unchristian, remorseless self-interest called `maistrye`
 - Commercial approach to relationships
