@@ -2,7 +2,7 @@
 
 Submit your assignment [here](https://www.dropbox.com/request/64tgpnugwjeDqHrXdDBM) 📥 (no registration required)
 
-Deadline: December 16th, 2025
+Deadline: December 16th, 2025.
 
 ## Context and Introduction
 You've now read several stories from the late Victorian and early modernist periods - Joyce's "Araby" and "Eveline," and Hardy's "On the Western Circuit." Next week we'll encounter T.S. Eliot's "The Love Song of J. Alfred Prufrock" and World War I poetry. Today's story, "The Garden Party" by Katherine Mansfield, demonstrates the transition from Victorian certainties to modernist consciousness through the lens of class awareness and personal awakening.
