@@ -61,9 +61,9 @@ Compare "Ozymandias" to “The World Is Too Much With Us” OR “Kubla Khan”.
 
 ## Group distribution
 
-* Group 1: *empty*
+* Group 1: Ana Júlia, Pedro Reis
 * Group 2: Tiago, Alan
-* Group 3: Milena, 
+* Group 3: Milena
 * Group 4: Camile, Beatriz
-* Group 5: *empty*
+* Group 5: Milena Maia
 * Group 6: *empty*

@@ -1,6 +1,8 @@
-## Assignment A: James Joyce’s “The Boarding House”
+# Assignment A: James Joyce’s “The Boarding House”
 
 Submit your paper [here](https://www.dropbox.com/request/NSKQJUQ69SzdezkZLZxh) 📥 (no registration required).
+
+Deadline: February 16th, 2026.
 
 Be sure to include in your filename: *Assignment A and your name.*
 
