@@ -1,6 +1,7 @@
 # Assignment 2: The Angry Young Man
 
 **Format:** 800-1,000 words analytical essay
+
 **Film:** [*Saturday Night and Sunday Morning*](https://drive.google.com/file/d/1ZqW94lRuFeZC_8eAf6QFYN3R06jHFv8V/view?usp=sharing) (1960, dir. Karel Reisz) 
 
 Submit by **September 13th, 2025** through :inbox_tray: [this link](https://www.dropbox.com/request/n38h59iqAJSjBx6nVUWx). No account needed.
