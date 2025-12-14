@@ -2,7 +2,7 @@
 
 Submit your paper [here](https://www.dropbox.com/request/NSKQJUQ69SzdezkZLZxh) 📥 (no registration required).
 
-Deadline: February 16th, 2026.
+Deadline: February 3rd, 2026.
 
 Be sure to include in your filename: *Assignment 2 and your name.*
 
