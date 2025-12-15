@@ -1,13 +1,5 @@
 # The Wife of Bath Group Activity Sheet
 
-## :writing_hand_tone1: Assignment Submission
-
-Please submit your assignments by uploading your PDF file through the Dropbox link below. Make sure your file is named with your name and assignment number. No Dropbox account needed. Deadline is August 20, 2025.
-
-[:inbox_tray: Submit your assignment here](https://www.dropbox.com/request/BA2iqzdfe9syXEXKit6G)
-
-Alternatively, submit on Google Classroom
-
 ## The Wife of Bath: Who Is She Really?
 
 In *The Canterbury Tales*, Chaucer’s Wife of Bath mixes bold claims, personal confessions, moral preaching, and contradictions. Your group will defend one clear position about who she “really” is, using full quotes from the text.
