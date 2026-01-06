@@ -1,6 +1,6 @@
 # Assignment 2: James Joyce’s “The Boarding House”
 
-Submit your paper [here](https://www.dropbox.com/request/NSKQJUQ69SzdezkZLZxh) 📥 (no registration required).
+Submit your paper [here](https://www.dropbox.com/request/lyKYxGGQRopL1uVoN3L6) 📥 (no registration required).
 
 Deadline: February 3rd, 2026.
 
