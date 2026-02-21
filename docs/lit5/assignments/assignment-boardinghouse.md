@@ -14,7 +14,7 @@ After reading the story, you may have felt unsure about how to interpret it. Aft
 
 Your essay should (1) explain that idea, (2) show how it changed your reading of the story, (3) and then push the idea a little further using your own close reading.
 
-Minimum 700 words - max 1000 words.
+Minimum 700 words - max 1200 words.
 
 Again: no AI for this one. If you submit a ChatGPT-generated essay, I'll use ChatGPT to grade it.
 
