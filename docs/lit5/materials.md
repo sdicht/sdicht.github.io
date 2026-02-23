@@ -49,6 +49,9 @@ Supplements
 - 🔗 Alfred Lord Tennyson, ["Ulysses"](https://www.poetryfoundation.org/poems/45392/ulysses)
 - 🔗 William Wordsworth, ["I Wandered Lonely as a Cloud"](https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud)
 - 🔗 [Wikipedia: Dramatic monologue](https://en.wikipedia.org/wiki/Dramatic_monologue)
+- 🔗 Ezra Pound, ["In a Station of the Metro"](https://upload.wikimedia.org/wikipedia/commons/7/70/In_a_Station_of_the_Metro_Ezra_Pound.png)
+- 🔗 T. S. Eliot, ["Preludes"](https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954)
+- 🔗 Stevie Smith, ["Not Waving but Drowning"](<Not Waving but Drowning (1957).png>)
 
 
 ## Katherine Mansfield

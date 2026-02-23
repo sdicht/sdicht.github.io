@@ -4,15 +4,15 @@ Choose one scene (1.3 or 5.2) and compare two performances of Othello: Olivier (
 
 ## Group 2 — Marriage, Power, and Sexual Suspicion (Chaucer)
 
-Compare scenes from *Othello* (3.3 and 5.2) to Chaucer's Wife of Bath's Prologue. Discuss: What is a wife? Property? Sovereign subject? Sexual threat? Focus on “sovereignty” vs. male control and differences between the Wife of Bath and Desdemona and Emilia.
+Compare scenes from *Othello* (3.3 and 5.2) to Chaucer's Wife of Bath's Prologue. Discuss: What's the role of the wife? Property? Sovereign subject? Sexual threat? Focus on “sovereignty” vs. male control and differences between the Wife of Bath and Desdemona and Emilia.
 
 ## Group 3 — Parody (*Upstart Crow*)
 
 Watch the episode of the series *Upstart Crow* about *Othello*. How does the series transform *Othello* into comedy — and what does that transformation reveal about how we understand Shakespeare today? Discuss one key scene and compare it to the Shakespeare text.
 
-## Group 4 — Jealousy and Narrative Uncertainty (*Dom Casmurro*)
+## Group 4 — Iago's motives
 
-Choose one scene from *Othello* (3.3) and compare it with  Bentinho’s interpretive logic in Machado de Assis' novel *Dom Casmurro*. Identify how both construct “proof”. Discuss: is jealousy psychological weakness or epistemological crisis? Focus on narrative structure, not just themes.
+Compare two performances of *Othello* and answer: how legible are Iago’s true motives in this production? Iago gives us multiple explanations: professional resentment, sexual jealousy, racial hostility, general delight in manipulation. Yet the text never stabilizes one explanation. What does each production make us believe is the *real* issue?
 
 ## Group 5 — Translation as Rewriting
 
