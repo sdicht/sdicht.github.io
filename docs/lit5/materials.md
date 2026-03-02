@@ -68,6 +68,7 @@ Assignments
 - 🔗 [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
 
 Supplements
+
 - 🔗 [Alfred, Lord Tennyson, "The Charge of the Light Brigade"](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)
 - 🔈 [Sophie Okonedo reads "The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) 
 - 🔈 [Kenneth Branagh reads "Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY)
@@ -77,9 +78,11 @@ Supplements
 - 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
 ## W. H. Auden
+
 - 🔗 ["Musée des Beaux Arts"](https://www.poetryfoundation.org/poems/159364/musee-des-beaux-arts-63a1efde036cd)
 
 Supplements
+
 - 🔗 [Paintings alluded to in Auden's poem (Wikipedia)](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem))
 
 ## Philip Larkin
@@ -87,6 +90,7 @@ Supplements
 - 📖 ["Church Going"](readings/larkin-poems.pdf)
 
 Supplements
+
 - 🔈 [Philip Larkin reads "Church Going"](https://www.youtube.com/watch?v=mN_vWfSgWe4)
 
 
