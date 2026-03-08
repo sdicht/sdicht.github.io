@@ -33,11 +33,19 @@
 ## William Shakespeare: *The Tragedy of Othello, the Moor of Venice*
 
 - 📖 [Othello - Arden Edition 🇬🇧](readings/othello-arden.pdf)
+- 🔗 [Othello - Folger Online Edition 🇬🇧](https://www.folger.edu/explore/shakespeares-works/othello/read/)
 - 📖 [Othello - Translation 🇧🇷](readings/othello-pt.pdf)
 - 🧠 [Othello - Study Guide (Macmillan)](readings/othello-guide.pdf) - commentary scene by scene
 - 🧠 [Othello - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/o/othello/play-summary) with summaries, character analysis, themes, symbols, etc.
-- 📊 [Slide Deck](slides/othello-slides.pdf)
   
+### Discussion questions
+
+- 📄 [Act I](handouts/othello_act1_questions.pdf)
+- 📄 [Act II](handouts/othello_act2_questions.pdf)
+- 📄 [Act III](handouts/othello_act3_questions.pdf)
+- 📄 [Act IV]
+- 📄 [Act V]
+
 ### Adaptations
 
 - 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)

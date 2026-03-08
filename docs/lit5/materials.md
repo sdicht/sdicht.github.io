@@ -67,13 +67,19 @@ Assignments
 - 🔗 [Edward Thomas, "Adlestrop"](https://www.poetryfoundation.org/poems/53744/adlestrop)
 - 🔗 [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
 
+More poems
+
+- 🔗 [Thomas Hardy, "In the Cemetery"](https://www.poeticous.com/thomas-hardy/in-the-cemetery)
+- 🔗 [Alfred, Lord Tennyson, "The Charge of the Light Brigade"](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)
+- 🔗 [William Butler Yeats, "An Irish Airman foresees His Death"](https://www.poetryfoundation.org/poems/57311/an-irish-airman-foresees-his-death)
+
 Supplements
 
-- 🔗 [Alfred, Lord Tennyson, "The Charge of the Light Brigade"](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)
 - 🔈 [Sophie Okonedo reads "The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) 
 - 🔈 [Kenneth Branagh reads "Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY)
 - 🔈 [Richard Burton reads "Adlestrop"](https://www.youtube.com/watch?v=r0J1Ze5QXG8) 
 - 🔈 [Someone reading "Glory of Women"](https://www.youtube.com/watch?v=gfDdfN-hH7w)
+
 - 📼 [Movie: *Benediction* about Siegfried Sassoon](https://www.youtube.com/watch?v=i25GvzBicq4)
 - 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
