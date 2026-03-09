@@ -89,7 +89,10 @@ Supplements
 
 Supplements
 
-- 🔗 [Paintings alluded to in Auden's poem (Wikipedia)](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem))
+- 🖼️ Peter Paul Rubens, [Sketch of *The Fall of Icarus*](images/Rubens,_Peter_Paul_-_The_Fall_of_Icarus.jpg) (1636)
+- 🖼️ Pieter Brueghel the Elder, [Landscape with the Fall of Icarus](images/Pieter_Bruegel_de_Oude_-_De_val_van_Icarus.jpg) (1560)
+- 🖼️ Pieter Brueghel the Elder, [The Census at Bethlehem](images/Le_dénombrement_de_Bethléem_par_Pieter_Brueghel_l'Ancien_-_1566_-_Bruxelles.jpg) (1566)
+- 🖼️ Pieter Brueghel the Elder, [The Massacre of the Innocents](images/Pieter_Bruegel_the_Elder_-_The_Massacre_of_the_Innocents_-_WGA3479.jpg) (1565-7)
 
 ## Philip Larkin
 
