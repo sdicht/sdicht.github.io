@@ -8,7 +8,7 @@ Compare scenes from *Othello* (3.3 and 5.2) to Chaucer's Wife of Bath's Prologue
 
 ## Group 3 — Parody (*Upstart Crow*)
 
-Watch the episode of the series *Upstart Crow* about *Othello*. How does the series transform *Othello* into comedy — and what does that transformation reveal about how we understand Shakespeare today? Discuss one key scene and compare it to the Shakespeare text.
+Watch the episode of the series [*Upstart Crow*](https://www.youtube.com/watch?v=1oYKiknFzac) about *Othello*. How does the series transform *Othello* into comedy — and what does that transformation reveal about how we understand Shakespeare today? Discuss one key scene and compare it to the Shakespeare text.
 
 ## Group 4 — Iago's motives
 
