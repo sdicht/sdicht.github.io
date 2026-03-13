@@ -10,6 +10,8 @@ Compare scenes from *Othello* (3.3 and 5.2) to Chaucer's Wife of Bath's Prologue
 
 Watch the episode of the series [*Upstart Crow*](https://www.youtube.com/watch?v=1oYKiknFzac) about *Othello*. How does the series transform *Othello* into comedy — and what does that transformation reveal about how we understand Shakespeare today? Discuss one key scene and compare it to the Shakespeare text.
 
+Download the 📼 [episode here](https://drive.google.com/file/d/1jd4PTCHQwSQPAlGzqiNxDsyKXm6RKtFg/view?usp=sharing) and open it with [VLC](https://www.videolan.org/vlc/download-windows.html) (free, open source) to enable subtitles.
+
 ## Group 4 — Iago's motives
 
 Compare two performances of *Othello* and answer: how legible are Iago’s true motives in this production? Iago gives us multiple explanations: professional resentment, sexual jealousy, racial hostility, general delight in manipulation. Yet the text never stabilizes one explanation. What does each production make us believe is the *real* issue?
