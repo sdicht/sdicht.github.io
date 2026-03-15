@@ -16,6 +16,12 @@ Download the 📼 [episode here](https://drive.google.com/file/d/1jd4PTCHQwSQPAl
 
 Compare two performances of *Othello* and answer: how legible are Iago’s true motives in this production? Iago gives us multiple explanations: professional resentment, sexual jealousy, racial hostility, general delight in manipulation. Yet the text never stabilizes one explanation. What does each production make us believe is the *real* issue?
 
+1. A smiling villain.
+2. The latent homosexual.
+3. The devil’s emissary.
+4. The playwright (i.e. creator of events and observer, who conducts the outcome).
+5. The melodramatic machiavel.
+
 ## Group 5 — Translation as Rewriting
 
 Compare one key scene (e.g., 3.3 or 5.2) in two Portuguese translations. Choose two key passages and do a close reading comparison. Discuss: does translation domesticate, elevate, or neutralize rhetoric? What is gained and what is lost? Tip: focus on metaphors (e.g., "green-eyed monster")

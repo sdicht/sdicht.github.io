@@ -47,7 +47,7 @@ Text
 - 📄 [Act I](handouts/othello_act1_questions.pdf)
 - 📄 [Act II](handouts/othello_act2_questions.pdf)
 - 📄 [Act III](handouts/othello_act3_questions.pdf)
-- 📄 [Act IV]
+- 📄 [Act IV](handouts/othello_act4_questions.pdf)
 - 📄 [Act V]
 
 ### Adaptations

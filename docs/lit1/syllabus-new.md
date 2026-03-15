@@ -1,4 +1,4 @@
-# Literatura Inglesa I - 2025.2
+# Literatura Inglesa I - 2026.1
 
 Horário: 2M1234 / 3N1234
 
@@ -39,6 +39,20 @@ A frequência mínima obrigatória é de 75%. O aluno é responsável por contro
 Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (ChatGPT, etc.) sem menção constitui infração grave. Plágio ou uso indevido de IA resultará em nota zero na atividade, sem possibilidade de substituição. Em caso de dúvidas sobre citação, consultar o professor antes da entrega.
 
 ## SISTEMA DE AVALIAÇÃO
+
+Teremos três blocos: 
+
+Bloco 1: Sonetos
+Os alunos estudarão primeiro os sonetos, irão fazer uma apresentação sobre um soneto. Primeiras 3-4 semanas. Atividades de memorização e familiarização com a língua.
+Avaliação: apresentação
+
+Bloco 2: Comédia
+No bloco 2, O Mercador de Veneza. 4 encontros + 1 prova.
+Quizzes.
+
+Bloco 3: Tragédia
+Otelo. 5 encontros + 1 prova.
+Quizzes.
 
 ### Distribuição das Notas
 
