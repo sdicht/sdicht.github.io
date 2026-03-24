@@ -1,4 +1,4 @@
-# Literatura Inglesa V - 2025.2
+# Literatura Inglesa V - 2026.1
 
 Horário: 3M1234
 
@@ -43,21 +43,25 @@ Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (Ch
 
 | Atividade             | Peso | Descrição                                |
 | --------------------- | ---- | ---------------------------------------- |
-| Prova 1           | 1/3  | Midterm Exam                             |
-| Prova 2           | 1/3  | Final Exam                               |
-| Estudos dirigidos | 1/3  | In-class and take-home group assignments |
+| Portfolio          | 1/3  | Portfólio com diário de leitura e pesquisa                              |
+| Midterm Exam         | 1/3  | Prova escrita 1                                |
+| Final Exam | 1/3  | Prova escrita 2|
 
-### Provas Escritas (Notas 1 e 2)
+### Portfólio
+
+O portfólio deve conter o diário de leitura dos textos atribuídos a cada encontro, contendo:
+- suas impressões pessoais sobre os textos
+- seus questionamentos, incluindo perguntas a serem colocadas para os colegas e para o professor
+- um glossário dos verbetes consultados no dicionário
+- outras pesquisas (Wikipédia, periódicos, livros, Youtube, etc)
+
+O portfólio deve ser montado de modo contínuo ao longo do semestre e entregue ao professor no final.
+
+### Provas Escritas (Notas 2 e 3)
 
 A prova tem duração de 2 horas, é presencial e sem consulta eletrônica. Contém 2 questões em formato de ensaio com introdução, desenvolvimento e conclusão.
 
 Material permitido: textos literários originais (cópias impressas), material distribuído em aula, dicionário físico. Aparelhos eletrônicos não são permitidos.
-
-### Written Assignments (Nota 3)
-
-- Composição: Média de 3-4 trabalhos escritos ao longo do semestre
-- Natureza: Combinação de pesquisa bibliográfica, análise crítica e interpretação de texto
-- Prompts: Todos os prompts e instruções específicas serão disponibilizados no site do professor
 
 ## NORMAS DE FORMATAÇÃO
 

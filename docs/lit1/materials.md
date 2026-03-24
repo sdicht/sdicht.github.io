@@ -48,7 +48,12 @@ Text
 - 📄 [Act II](handouts/othello_act2_questions.pdf)
 - 📄 [Act III](handouts/othello_act3_questions.pdf)
 - 📄 [Act IV](handouts/othello_act4_questions.pdf)
-- 📄 [Act V]
+- 📄 [Act V](handouts/othello_act5_questions.pdf)
+
+### Quiz
+
+- 📄 [Act V Quiz](handouts/othello_quiz_5_alt.pdf)
+
 
 ### Adaptations
 
