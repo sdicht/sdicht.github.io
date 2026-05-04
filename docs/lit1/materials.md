@@ -8,7 +8,7 @@ Text
   
 ### Summary
 
-- 🧠 [Plot summary](handouts/merchant-summary.pdf) from *Bloom's Shakespeare Through the Ages* 
+- 🧠 [Plot summary](readings/merchant-summary.pdf) from *Bloom's Shakespeare Through the Ages* 
 
 ### Discussion questions
 
