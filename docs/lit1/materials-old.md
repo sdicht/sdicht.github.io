@@ -1,32 +1,36 @@
 # Course Materials
 
-## William Shakespeare: *The Merchant of Venice*
+## The Adventure of English Documentary
+- 📼 [Episode One](https://www.youtube.com/watch?v=MRxKMgXsl9c) (YouTube)
+- 📼 [Episode Two](https://www.youtube.com/watch?v=VlGD7y8Ngjo) (YouTube)
 
-Text
+## Geoffrey Chaucer: *The Canterbury Tales*
 
-- 📖 [Othello - Arden Edition 🇬🇧](readings/othello-arden.pdf)
-- 🔗 [The Merchant of Venice - Folger Online Edition 🇬🇧](https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/)
-- 📖 [Othello - Translation 🇧🇷](readings/othello-pt.pdf)
-  
-### Summary
+### The General Prologue
 
-- 🧠 [Plot summary](handouts/merchant_summary.pdf) from *Bloom's Shakespeare Through the Ages* 
+- 📖 [The General Prologue - Middle English 🇬🇧](readings/chaucer-prologue-norton.pdf)
+- 📖 [The General Prologue - Translation 🇧🇷](readings/chaucer-prologue-pt.pdf)
+- 🔗 [The General Prologue Interlinear Translation](https://chaucer.fas.harvard.edu/pages/general-prologue-0) (Harvard)
 
-### Discussion questions
+### The Wife of Bath - Prologue & Tale
 
-- 📄 [Act I](handouts/othello_act1_questions.pdf)
-- 📄 [Act II](handouts/othello_act2_questions.pdf)
-- 📄 [Act III](handouts/othello_act3_questions.pdf)
-- 📄 [Act IV]
-- 📄 [Act V]
+- 📖 [The Wife of Bath Prologue & Tale - Middle English 🇬🇧](readings/chaucer-wife-norton.pdf)
+- 📖 [The Wife of Bath Prologue & Tale - Translation 🇧🇷](readings/chaucer-mulher.pdf)
+- 🔗 [The Wife of Bath Prologue & Tale Interlinear Translation](https://chaucer.fas.harvard.edu/pages/wife-baths-prologue-and-tale-0) (Harvard)
 
-### Adaptations
+### Supplements
 
-- 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)
-- 📼 [Othello (1965, dir. Stuart Burge)](https://www.youtube.com/watch?v=OW82AddEgZk) with Laurence Olivier & Maggie Smith (YouTube)
+- 📖 [*The Canterbury Tales* - Complete Translation 🇧🇷](readings/chaucer-pt.pdf)
+- 🔗 [*The Canterbury Tales* - Encyclopedia Britannica](https://www.britannica.com/topic/The-Canterbury-Tales)
+- 🧠 [*The Canterbury Tales* - Study Guide (CliffsNotes)](https://www.cliffsnotes.com/literature/c/the-canterbury-tales/summary)
+
+### Handouts
+
+- 📄 [General Prologue](handouts/handout-prologue.md)
+- 📄 [Wife of Bath](handouts/handout-wife.md)
 
 
-## William Shakespeare: *Othello*
+## William Shakespeare: *The Tragedy of Othello, the Moor of Venice*
 
 Text
 
@@ -43,8 +47,13 @@ Text
 - 📄 [Act I](handouts/othello_act1_questions.pdf)
 - 📄 [Act II](handouts/othello_act2_questions.pdf)
 - 📄 [Act III](handouts/othello_act3_questions.pdf)
-- 📄 [Act IV]
-- 📄 [Act V]
+- 📄 [Act IV](handouts/othello_act4_questions.pdf)
+- 📄 [Act V](handouts/othello_act5_questions.pdf)
+
+### Quiz
+
+- 📄 [Act V Quiz](handouts/othello_quiz_5_alt.pdf)
+
 
 ### Adaptations
 

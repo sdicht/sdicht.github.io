@@ -8,7 +8,7 @@ Welcome to the course website. Here you will find:
 
 **Instructor:** Prof. Pedro Groppo
 
-**Semester:** 2025.2
+**Semester:** 2026.1
 
 **Contact:** pedro.groppo@academico.ufpb.br
 

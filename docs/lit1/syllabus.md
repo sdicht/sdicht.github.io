@@ -1,8 +1,8 @@
-# Literatura Inglesa I - 2025.2
+# Literatura Inglesa I - 2026.1
 
 Horário: 2M1234 / 3N1234
 
-Sala: CAH 105 / CAH 101 
+Sala: CAG 104
 
 
 ## EMENTA
@@ -44,40 +44,19 @@ Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (Ch
 
 | Atividade             | Peso | Descrição                                |
 | --------------------- | ---- | ---------------------------------------- |
-| Bloco 1: Chaucer           | 1/3  | Quizzes + Seminar presentation                             |
-| Bloco 2: Shakespeare           | 1/3  | Quizzes + Seminar presentation                               |
-| Prova Escrita  | 1/3  | Final written exam  |
+| Prova 1           | 1/3  | Prova Escrita sobre *O Mercador de Veneza*                            |
+| Prova 2           | 1/3  | Prova Escrita sobre *Otelo*                               |
+| Projeto Final  | 1/3  | Final project  |
 
-### Seminários em Grupo (Notas 1 e 2)
+### Prova Escrita
 
-Seminário 1 - Chaucer:
+A prova escrita tem duração de 2 horas, é presencial e sem consulta eletrônica. Contém 2 questões em formato de ensaio com introdução, desenvolvimento e conclusão.
 
-- Apresentação de 10-15 minutos
-- Análise de trecho(s) do General Prologue ou Wife of Bath (*The Canterbury Tales*)
-- Todos os membros do grupo devem participar ativamente
-
-Seminário 2 - Shakespeare (Março/Abril):
-
-- Apresentação presencial de 10-15 minutos
-- Análise de cena(s) de *Othello*
-- Todos os membros do grupo devem participar ativamente
-
-Componentes avaliados:
-
-- Compreensão do texto (citações corretas com números de linha/página)
-- Qualidade da análise literária
-- Estrutura da apresentação (introdução, desenvolvimento, conclusão)
-- Participação equilibrada dos membros do grupo
-
-### Prova Escrita Final
-
-A prova final tem duração de 2 horas, é presencial e sem consulta eletrônica. Contém 2 questões (uma sobre Chaucer, uma sobre Shakespeare) em formato de ensaio com introdução, desenvolvimento e conclusão.
-
-Material permitido: textos literários originais (cópias impressas), traduções em português (Paulo Vizioli ou outras), material distribuído em aula e anotações pessoais, dicionário físico. Aparelhos eletrônicos não são permitidos.
+Material permitido: textos literários originais (cópias impressas), material distribuído em aula e anotações pessoais, dicionário físico. Aparelhos eletrônicos não são permitidos.
 
 ### Quizzes de Leitura
 
-Os quizzes acontecem quando há leitura atribuída. São questões curtas de compreensão no início da aula para verificar que o aluno fez a leitura e compreendeu aspectos básicos. A média dos quizzes compõe parte da Nota 3 junto com a prova final.
+Os quizzes acontecem quando há leitura atribuída. São questões curtas de compreensão no início da aula para verificar que o aluno fez a leitura e compreendeu aspectos básicos.
 
 ## NORMAS DE FORMATAÇÃO
 
