@@ -16,7 +16,7 @@
 
 - 🔈 Audio recordings of ["The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) by Sophie Okonedo; ["Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY) by Kenneth Branagh; and ["Glory of Women"](https://www.youtube.com/watch?v=gfDdfN-hH7w) by anonymous
 
-- 📼 Watch the movie [*Benediction*] about Siegfried Sassoon(https://www.youtube.com/watch?v=i25GvzBicq4)
+- 📼 Watch the movie [*Benediction*](https://www.youtube.com/watch?v=i25GvzBicq4) about Siegfried Sassoon
 - 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
 ### May 12
@@ -28,6 +28,7 @@
 ### May 19
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 2: "Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
+- Poem TBD
 
 ### May 26
 
