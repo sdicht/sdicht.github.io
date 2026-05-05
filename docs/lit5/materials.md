@@ -14,19 +14,15 @@
 - 📖 [Brooke, "The Soldier"; Owen, "Dulce et Decorum Est"](readings/ww1-poets.pdf)
 - 🔗 [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
 
+- 🔈 Audio recordings of ["The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) by Sophie Okonedo; ["Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY) by Kenneth Branagh; and ["Glory of Women"](https://www.youtube.com/watch?v=gfDdfN-hH7w) by anonymous
 
-Supplements
-
-- 🔈 [Sophie Okonedo reads "The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) 
-- 🔈 [Kenneth Branagh reads "Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY)
-- 🔈 [Someone reading "Glory of Women"](https://www.youtube.com/watch?v=gfDdfN-hH7w)
-
-- 📼 [Movie: *Benediction* about Siegfried Sassoon](https://www.youtube.com/watch?v=i25GvzBicq4)
+- 📼 Watch the movie [*Benediction*] about Siegfried Sassoon(https://www.youtube.com/watch?v=i25GvzBicq4)
 - 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
 ### May 12
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 1: "Individual Words"](readings/wolosky-ch1.pdf)
+- 🔗 Henry Reed, ["The Naming of Parts"](https://www.solearabiantree.net/namingofparts/audio-visual.php), including 🔈 audio readings
 - 🔗 W. B. Yeats, ["The Lake Isle of Innisfree"](www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree)
 
 ### May 19
