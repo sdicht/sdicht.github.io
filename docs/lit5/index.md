@@ -15,6 +15,6 @@ Welcome to the course website. Here you will find:
 ---
 
 ## Quick Links
-- [Syllabus](syllabus-2026.md)
-- [Materials](materials-2026.md)
-- [Assignments](assignments-2026.md)
+- [Syllabus](syllabus.md)
+- [Materials](materials.md)
+- [Assignments](assignments.md)
