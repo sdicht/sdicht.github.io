@@ -5,6 +5,7 @@
 Text
 
 - 📖 [The Merchant of Venice - Yale Edition 🇬🇧](readings/merchant-yale.pdf)
+- 📖 [O Mercador de Veneza - Trans. Pedro Mohallem](readings/mercador-pt.pdf) 🇧🇷
   
 ### Summary
 
@@ -40,9 +41,9 @@ Text
 
 ### Discussion questions
 
-- 📄 [Act I](handouts/othello_act1_questions.pdf)
-- 📄 [Act II](handouts/othello_act2_questions.pdf)
-- 📄 [Act III](handouts/othello_act3_questions.pdf)
+- 📄 [Act I]
+- 📄 [Act II]
+- 📄 [Act III]
 - 📄 [Act IV]
 - 📄 [Act V]
 
