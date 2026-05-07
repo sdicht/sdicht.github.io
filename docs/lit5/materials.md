@@ -23,7 +23,7 @@
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 1: "Individual Words"](readings/wolosky-ch1.pdf)
 - 🔗 Henry Reed, ["The Naming of Parts"](https://www.solearabiantree.net/namingofparts/audio-visual.php), including 🔈 audio readings
-- 🔗 W. B. Yeats, ["The Lake Isle of Innisfree"](www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree)
+- 🔗 W. B. Yeats, ["The Lake Isle of Innisfree"](http://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree)
 
 ### May 19
 
