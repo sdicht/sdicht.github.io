@@ -2,7 +2,7 @@
 
 Submit your paper [here](https://www.dropbox.com/request/lyKYxGGQRopL1uVoN3L6) 📥 (no registration required).
 
-Deadline: February 3rd, 2026.
+Deadline: August 4th, 2026.
 
 Be sure to include in your filename: *Assignment 2 and your name.*
 
@@ -43,4 +43,3 @@ You may use one of these more specific interpretive questions if they help you f
 - How did her discussion of violence or respectability reshape your reading of Mrs. Mooney or Bob Doran?
 
 - How did noticing class markers in language (thanks to Norris) alter your sense of who has power in the story?
-

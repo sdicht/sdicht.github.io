@@ -40,35 +40,28 @@
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 4: "Poetic Voice"](readings/wolosky-ch4.pdf)
 - 📖 Philip Larkin, ["Church Going"](readings/larkin-poems.pdf), read by 🔈 [the author](https://www.youtube.com/watch?v=mN_vWfSgWe4)
 
-## June 9 - Exam 1
+### June 9 - Exam 1
 
-Contents: Eliot, Larkin, Yeats + poetry material
+Contents: Owen, Sassoon, Eliot, Larkin, Yeats + poetry material (Wolosky)
 
 ## Fiction
 
 ### June 16
 
-- 📄 James Wood, *How Fiction Works* - [Chapter 1: "Narrating"](readings/wood-ch1.pdf)
-- 📖 Thomas Hardy, ["On the Western Circuit"](readings/hardy-circuit.pdf)
-- 📼 ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
+- 📄 James Wood, *How Fiction Works* - [Chapter 1: "Narrating"](readings/wood-narrating.pdf)
+- 📖 Thomas Hardy, ["On the Western Circuit"](readings/hardy-circuit.pdf) and watch the TV adaptation: 📼 ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
 
-### June 23
-
-- 📖 Katherine Mansfield, ["The Garden Party"](readings/mansfield-garden.pdf)  
-- 📼 [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE)
-
-Assignments
-
+### June 23 - APS 1
+- 📖 Katherine Mansfield, ["The Garden Party"](readings/mansfield-garden.pdf) and watch the TV adaptation 📼 [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE).
 - ✏️ [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
 ### June 30
 
-- 📄 James Wood, *How Fiction Works* - [Chapter 2: "Detail"](readings/wood-ch2.pdf)
+- 📄 James Wood, *How Fiction Works* - [Chapter 2: "Detail"](readings/wood-detail.pdf)
 - D. H. Lawrence, "Odour of Chrysantemums"
 
 ### July 7
-
-- 📄 James Wood, *How Fiction Works* - [Chapter 3: "Detail"](readings/wood-ch2.pdf)
+- 📄 James Joyce, ["Araby" and "Eveline"](readings/joyce-stories.pdf) (stories from *Dubliners*)
 - 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf)
 - 📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
 
@@ -92,4 +85,8 @@ Supplements
 
 ## July 21 - Exam 2
 
-Contents: Hardy, Mansfield, Lawrence, Joyce, Beckett + fiction material
+Contents: Hardy, Mansfield, Lawrence, Joyce, Beckett + fiction material (Wood)
+
+## July 28 - APS 2
+
+- ✏️ Assignment 2: James Joyce, ["The Boarding House"](assignments/assignment-boardinghouse.md)
