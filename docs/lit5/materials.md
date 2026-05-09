@@ -2,33 +2,37 @@
 
 ## Introduction
 
-- 📖 [Historical Context](readings/intro-context.pdf) (*The Norton Anthology of English Literature*)
-- 📖 [Excerpt from George Eliot's *Middlemarch*](readings/middlemarch-excerpt.pdf)
-- 📖 [Excerpt from James Joyce's *Ulysses*](readings/ulysses-excerpt.pdf)
-- 📖 Thomas Hardy, ["The Darkling Thrush"](readings/hardy-thrush.pdf)  
+Read the 📖 [Historical Context](readings/intro-context.pdf) (from *The Norton Anthology of English Literature*) to learn about the period.
+
+In class, we compared two excerpts, one from 📖 [George Eliot's *Middlemarch*](readings/middlemarch-excerpt.pdf) and another from 📖 [James Joyce's *Ulysses*](readings/ulysses-excerpt.pdf).
+
+We also read Thomas Hardy's poem 📖 ["The Darkling Thrush"](readings/hardy-thrush.pdf).
 
 ## Poetry
 
 ### May 5: World War I Poets
 
-- 📖 [Brooke, "The Soldier"; Owen, "Dulce et Decorum Est"](readings/ww1-poets.pdf)
+- 📖 [Rupert Brooke, "The Soldier"; Wilfred Owen, "Dulce et Decorum Est"](readings/ww1-poets.pdf)
 - 🔗 [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
 
 - 🔈 Audio recordings of ["The Soldier"](https://www.youtube.com/watch?v=iAFnhJojMYY) by Sophie Okonedo; ["Dulce et Decorum Est"](https://www.youtube.com/watch?v=dty4-cMYFEY) by Kenneth Branagh; and ["Glory of Women"](https://www.youtube.com/watch?v=gfDdfN-hH7w) by anonymous
 
-- 📼 Watch the movie [*Benediction*](https://www.youtube.com/watch?v=i25GvzBicq4) about Siegfried Sassoon
-- 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
+If you want to know more, 📼 watch the movie [*Benediction*](https://www.youtube.com/watch?v=i25GvzBicq4) about Siegfried Sassoon. 
+
+Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
 ### May 12
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 1: "Individual Words"](readings/wolosky-ch1.pdf)
 - 🔗 Henry Reed, ["The Naming of Parts"](https://www.solearabiantree.net/namingofparts/audio-visual.php), including 🔈 audio readings
 - 🔗 W. B. Yeats, ["The Lake Isle of Innisfree"](http://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree)
+- 🔗 Philip Larkin, ["This Be the Verse"](https://www.poetryfoundation.org/poems/48419/this-be-the-verse)
 
 ### May 19
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 2: "Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
-- Poem TBD
+- 📄 Seamus Heaney, ["Digging"](readings/heaney-poems.pdf)
+- 🔗 W. H. Auden, ["Musée des Beaux Arts"](https://www.poetryfoundation.org/poems/159364/musee-des-beaux-arts-63a1efde036cd). Read 🔗 [about the poem and the paintings](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem)) he alludes to: 🖼️ [*Landscape with the Fall of Icarus*](https://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus), 🖼️ [*The Census at Bethelhem*](https://en.wikipedia.org/wiki/The_Census_at_Bethlehem) and 🖼️ [*The Massacre of the Innocents*](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Bruegel)) (by Pieter Bruegel)
 
 ### May 26
 
@@ -62,26 +66,21 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats + poetry material (Wolosky)
 
 ### July 7
 - 📄 James Joyce, ["Araby" and "Eveline"](readings/joyce-stories.pdf) (stories from *Dubliners*)
-- 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf)
-- 📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24)
+
+Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf) and watch the  📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24) for biographical context
 
 ### July 14
 
 - 📖 Samuel Beckett, [*Waiting for Godot*](readings/beckett-godot.pdf)
-- 📄 [The Theater of the Absurd](handouts/handout-absurd.md)
 
-Critical Commentary
+For contextualization, read this paper: 📄 [The Theater of the Absurd](handouts/handout-absurd.md).
 
-- 📄 Martin Esslin, ["The Absurdity of the Absurd"](readings/esslin-absurd.pdf)
-- 📄 Ruby Cohn, ["En attendant Godot"](readings/cohn-godot.pdf)
+If you still want to dig deeper, try these: 📄 Martin Esslin, ["The Absurdity of the Absurd"](readings/esslin-absurd.pdf) and 📄 Ruby Cohn, ["En attendant Godot"](readings/cohn-godot.pdf).
 
-Supplements
-
-- 📼 [Steve Martin & Robin Williams in a 1986 production](https://www.youtube.com/watch?v=1T88LszpurI)
-- 📼 [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
+Check out some productions of the play. There are a few full video easily available: 
 - 📼 [Waiting for Godot](https://www.youtube.com/watch?v=izX5dIzI2RE) (2001, dir. Michael Lindsay-Hogg) 
 - 📼 [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
-- 🔈 [Columbia Masterworks Recording with the first American actors (1950s)](https://youtu.be/94aA2TNhk_g)
+- 📼 [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
 
 ## July 21 - Exam 2
 
