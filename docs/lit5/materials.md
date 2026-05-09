@@ -55,7 +55,7 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats + poetry material (Wolosky)
 - 📄 James Wood, *How Fiction Works* - [Chapter 1: "Narrating"](readings/wood-narrating.pdf)
 - 📖 Thomas Hardy, ["On the Western Circuit"](readings/hardy-circuit.pdf) and watch the TV adaptation: 📼 ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
 
-### June 23 - APS 1
+### June 23 - São João
 - 📖 Katherine Mansfield, ["The Garden Party"](readings/mansfield-garden.pdf) and watch the TV adaptation 📼 [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE).
 - ✏️ [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
@@ -86,6 +86,8 @@ Check out some productions of the play. There are a few full video easily availa
 
 Contents: Hardy, Mansfield, Lawrence, Joyce, Beckett + fiction material (Wood)
 
-## July 28 - APS 2
+## July 28 - APS
 
 - ✏️ Assignment 2: James Joyce, ["The Boarding House"](assignments/assignment-boardinghouse.md)
+
+## August 4 - Seminar Presentation

@@ -43,7 +43,7 @@ Todos os trabalhos devem ser de autoria própria. O uso de ferramentas de IA (Ch
 
 | Atividade             | Peso | Descrição                                |
 | --------------------- | ---- | ---------------------------------------- |
-| Portfolio          | 1/3  | Portfólio com diário de leitura e pesquisa                              |
+| Portfolio 50%, Presentation 50%         | 1/3  | Portfólio com diário de leitura e pesquisa + apresentação em dupla                              |
 | Midterm Exam         | 1/3  | Prova escrita 1                                |
 | Final Exam | 1/3  | Prova escrita 2|
 
@@ -62,6 +62,10 @@ O portfólio deve ser montado de modo contínuo ao longo do semestre e entregue 
 A prova tem duração de 2 horas, é presencial e sem consulta eletrônica. Contém 2 questões em formato de ensaio com introdução, desenvolvimento e conclusão.
 
 Material permitido: textos literários originais (cópias impressas), material distribuído em aula, dicionário físico. Aparelhos eletrônicos não são permitidos.
+
+### Apresentação de seminário
+
+Exercício de *close reading* de um poema ou conto a serem distribuídos. Duração de 8-10 minutos, com apresentação e slides. Em duplas.
 
 ## NORMAS DE FORMATAÇÃO
 
