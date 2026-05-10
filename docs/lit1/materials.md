@@ -4,7 +4,7 @@
 
 Text
 
-- 📖 [The Merchant of Venice - Yale Edition 🇬🇧](readings/merchant-yale.pdf)
+- 📖 [The Merchant of Venice - Yale Edition](readings/merchant-yale.pdf) 🇬🇧
 - 📖 [O Mercador de Veneza - Trans. Pedro Mohallem](readings/mercador-pt.pdf) 🇧🇷
   
 ### Summary
