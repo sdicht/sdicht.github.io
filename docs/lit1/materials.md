@@ -19,6 +19,9 @@ Text
 - 📄 [Act IV]
 - 📄 [Act V]
 
+### For Júllya
+
+- 📄 [Act I](handouts/takehome-act1.pdf)
 
 ### Adaptations
 
