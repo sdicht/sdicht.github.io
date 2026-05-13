@@ -32,7 +32,7 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 2: "Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
 - 📄 Seamus Heaney, ["Digging"](readings/heaney-poems.pdf)
-- 🔗 W. H. Auden, ["Musée des Beaux Arts"](https://www.poetryfoundation.org/poems/159364/musee-des-beaux-arts-63a1efde036cd). Read 🔗 [about the poem and the paintings](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem)) he alludes to: 🖼️ [*Landscape with the Fall of Icarus*](https://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus), 🖼️ [*The Census at Bethelhem*](https://en.wikipedia.org/wiki/The_Census_at_Bethlehem) and 🖼️ [*The Massacre of the Innocents*](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Bruegel)) (by Pieter Bruegel)
+- 🔗 Ted Hughes, ["The Thought Fox"](https://poetryarchive.org/poem/thought-fox/)
 
 ### May 26
 
