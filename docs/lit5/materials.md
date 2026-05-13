@@ -31,8 +31,10 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 ### May 19
 
 - 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 2: "Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
-- 📄 Seamus Heaney, ["Digging"](readings/heaney-poems.pdf)
-- 🔗 Ted Hughes, ["The Thought Fox"](https://poetryarchive.org/poem/thought-fox/)
+- 📄 W. B. Yeats, "[Leda and the Swan](readings/yeats-leda.pdf)" (also inside chapter 2). Listen to 🔈 [a reading](https://www.youtube.com/watch?v=zblFUbFysvw) and another by 🔈 [Jeremy Irons](https://www.youtube.com/watch?v=0J4vUcHdv4Y). Learn about 🔗 [the myth](https://en.wikipedia.org/wiki/Leda_and_the_Swan).
+- 📄 Seamus Heaney, ["Digging"](readings/heaney-poems.pdf). Read by 🔈 [the author](https://www.youtube.com/watch?v=dIzJgbNANzk)
+- 🔗 Ted Hughes, ["The Thought Fox"](https://poetryarchive.org/poem/thought-fox/). Read by 🔈 [the author](https://www.youtube.com/watch?v=fTLcZzKsoGk) and an 📺 [interview about it](https://www.youtube.com/watch?v=s49p1K8bqK4)
+- 📄 Dylan Thomas, ["Do Not Go Gentle Into That Good Night"](readings/thomas-poem.pdf). Read by 🔈 [the author](https://www.youtube.com/watch?v=1mRec3VbH3w), by 🔈 [Michael Sheen](https://www.youtube.com/watch?v=w-sM-t1KI_Y), and my favorite, the great 🔈 [Richard Burton](https://www.youtube.com/watch?v=2DLqN1RvfUc)
 
 ### May 26
 
