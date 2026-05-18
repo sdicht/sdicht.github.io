@@ -11,23 +11,14 @@ Text
 
 - 🧠 [Plot summary](readings/merchant-summary.pdf) from *Bloom's Shakespeare Through the Ages* 
 
-### Discussion questions
-
-- 📄 [Act I]
-- 📄 [Act II]
-- 📄 [Act III]
-- 📄 [Act IV]
-- 📄 [Act V]
-
-### For Júllya
-
-- 📄 [Act I](handouts/takehome-act1.pdf)
-
 ### Adaptations
-
 
 - 📼 [The Merchant of Venice (2004, dir. Michael Radford)](https://youtu.be/QfLlng_vHGg)
 - 📼 [The Merchant of Venice (1973, dir. John Sichel)](https://youtu.be/fJDg4ITyJIc)
+
+### For Júllya (ignore if you're not Júllya)
+
+- 👩‍💻 [Questions](takehome.md)
 
 
 ## William Shakespeare: *Othello*
@@ -57,6 +48,7 @@ Text
 
 ## Supplements
 
+- 📼 [*UNIVESP: Literatura Fundamental - Otelo, O Mouro de Veneza*](https://youtu.be/K-cs58KetjU), com José Garcez Ghirardi (YouTube)
 - 📼 [*You can read Shakespeare. Here's how*](https://youtu.be/Lkula8VRjf0) by Henry Oliver (YouTube)
 - 📼 [*Why We Can't Do Plays Like Shakespeare Anymore: The London History Show*](https://www.youtube.com/watch?v=2UZ369VYJrY) by J. Draper (YouTube)
 - 📼 [*Acting Shakespeare*](https://www.youtube.com/watch?v=w6eztyfrWo8) by Ian McKellen (YouTube)

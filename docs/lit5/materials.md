@@ -10,7 +10,7 @@ We also read Thomas Hardy's poem 📖 ["The Darkling Thrush"](readings/hardy-thr
 
 ## Poetry
 
-### May 5: World War I Poets
+### May 5 - World War I Poets
 
 - 📖 [Rupert Brooke, "The Soldier"; Wilfred Owen, "Dulce et Decorum Est"](readings/ww1-poets.pdf)
 - 🔗 [Siegfried Sassoon, "Glory of Women"](https://www.poetryfoundation.org/poems/57368/glory-of-women)
@@ -21,34 +21,34 @@ If you want to know more, 📼 watch the movie [*Benediction*](https://www.youtu
 
 Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.pdf) 
 
-### May 12
+### May 12 - Diction
 
-- 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 1: "Individual Words"](readings/wolosky-ch1.pdf)
+- 📄 Shira Wolosky, *The Art of Poetry* - ["Individual Words"](readings/wolosky-ch1.pdf)
 - 🔗 Henry Reed, ["The Naming of Parts"](https://www.solearabiantree.net/namingofparts/audio-visual.php), including 🔈 audio readings
 - 🔗 W. B. Yeats, ["The Lake Isle of Innisfree"](http://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree)
 - 🔗 Philip Larkin, ["This Be the Verse"](https://www.poetryfoundation.org/poems/48419/this-be-the-verse)
 
-### May 19
+### May 19 - Syntax
 
-- 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 2: "Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
+- 📄 Shira Wolosky, *The Art of Poetry* - ["Syntax and the Poetic Line"](readings/wolosky-ch2.pdf)
 - 📄 W. B. Yeats, "[Leda and the Swan](readings/yeats-leda.pdf)" (also inside chapter 2). Listen to 🔈 [a reading](https://www.youtube.com/watch?v=zblFUbFysvw) and another by 🔈 [Jeremy Irons](https://www.youtube.com/watch?v=0J4vUcHdv4Y). Learn about 🔗 [the myth](https://en.wikipedia.org/wiki/Leda_and_the_Swan).
 - 📄 Seamus Heaney, ["Digging"](readings/heaney-poems.pdf). Read by 🔈 [the author](https://www.youtube.com/watch?v=dIzJgbNANzk)
 - 🔗 Ted Hughes, ["The Thought Fox"](https://poetryarchive.org/poem/thought-fox/). Read by 🔈 [the author](https://www.youtube.com/watch?v=fTLcZzKsoGk) and an 📺 [interview about it](https://www.youtube.com/watch?v=s49p1K8bqK4)
 - 📄 Dylan Thomas, ["Do Not Go Gentle Into That Good Night"](readings/thomas-poem.pdf). Read by 🔈 [the author](https://www.youtube.com/watch?v=1mRec3VbH3w), by 🔈 [Michael Sheen](https://www.youtube.com/watch?v=w-sM-t1KI_Y), and my favorite, the great 🔈 [Richard Burton](https://www.youtube.com/watch?v=2DLqN1RvfUc)
 
-### May 26
+### May 26 - Images
 
-- 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 3: "Images - Simile and Metaphor"](readings/wolosky-ch3.pdf)
+- 📄 Shira Wolosky, *The Art of Poetry* - ["Images - Simile and Metaphor"](readings/wolosky-ch3.pdf)
 - 🔗 T.S. Eliot, ["The Love Song of J. Alfred Prufrock"](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) with readings by 🔈 [Alec Guinness](https://youtu.be/FUL4O4RTgh8) and 🔈 [Anthony Hopkins](https://youtu.be/PLNsPhKlucY)
 
-### June 2
+### June 2 - Voice
 
-- 📄 Shira Wolosky, *The Art of Poetry* - [Chapter 4: "Poetic Voice"](readings/wolosky-ch4.pdf)
+- 📄 Shira Wolosky, *The Art of Poetry* - ["Poetic Voice"](readings/wolosky-ch4.pdf)
 - 📖 Philip Larkin, ["Church Going"](readings/larkin-poems.pdf), read by 🔈 [the author](https://www.youtube.com/watch?v=mN_vWfSgWe4)
 
 ### June 9 - Exam 1
 
-Contents: Owen, Sassoon, Eliot, Larkin, Yeats + poetry material (Wolosky)
+Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 
 ## Fiction
 
@@ -70,6 +70,8 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats + poetry material (Wolosky)
 - 📄 James Joyce, ["Araby" and "Eveline"](readings/joyce-stories.pdf) (stories from *Dubliners*)
 
 Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf) and watch the  📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24) for biographical context
+
+## Drama
 
 ### July 14
 
