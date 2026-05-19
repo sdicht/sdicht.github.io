@@ -36,6 +36,8 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 - 🔗 Ted Hughes, ["The Thought Fox"](https://poetryarchive.org/poem/thought-fox/). Read by 🔈 [the author](https://www.youtube.com/watch?v=fTLcZzKsoGk) and an 📺 [interview about it](https://www.youtube.com/watch?v=s49p1K8bqK4)
 - 📄 Dylan Thomas, ["Do Not Go Gentle Into That Good Night"](readings/thomas-poem.pdf). Read by 🔈 [the author](https://www.youtube.com/watch?v=1mRec3VbH3w), by 🔈 [Michael Sheen](https://www.youtube.com/watch?v=w-sM-t1KI_Y), and my favorite, the great 🔈 [Richard Burton](https://www.youtube.com/watch?v=2DLqN1RvfUc)
 
+- ✏️ [In-class activity](activity-syntax.md)
+
 ### May 26 - Images
 
 - 📄 Shira Wolosky, *The Art of Poetry* - ["Images - Simile and Metaphor"](readings/wolosky-ch3.pdf)
