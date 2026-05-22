@@ -6,7 +6,7 @@ Read the 📖 [Historical Context](readings/intro-context.pdf) (from *The Norton
 
 In class, we compared two excerpts, one from 📖 [George Eliot's *Middlemarch*](readings/middlemarch-excerpt.pdf) and another from 📖 [James Joyce's *Ulysses*](readings/ulysses-excerpt.pdf).
 
-We also read Thomas Hardy's poem 📖 ["The Darkling Thrush"](readings/hardy-thrush.pdf).
+We also read Thomas Hardy's poem 📖 ["The Darkling Thrush"](readings/hardy-thrush.pdf) and Ezra Pound's 🔗 ["In a Station of the Metro"](https://upload.wikimedia.org/wikipedia/commons/7/70/In_a_Station_of_the_Metro_Ezra_Pound.png).
 
 ## Poetry
 
@@ -41,7 +41,8 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 ### May 26 - Images
 
 - 📄 Shira Wolosky, *The Art of Poetry* - ["Images - Simile and Metaphor"](readings/wolosky-ch3.pdf)
-- 🔗 T.S. Eliot, ["The Love Song of J. Alfred Prufrock"](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) with readings by 🔈 [Alec Guinness](https://youtu.be/FUL4O4RTgh8) and 🔈 [Anthony Hopkins](https://youtu.be/PLNsPhKlucY)
+- 🔗 T.S. Eliot, ["The Love Song of J. Alfred Prufrock"](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) with readings by 🔈 [Alec Guinness](https://youtu.be/FUL4O4RTgh8) and 🔈 [Anthony Hopkins](https://youtu.be/PLNsPhKlucY). Check out the 🔗[comic book adaptation](https://julianpeterscomics.com/page-1-the-love-song-of-j-alfred-prufrock-by-t-s-eliot/). 
+- 🔗 William Shakespeare, [Speech: “To be, or not to be, that is the question”](https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question) with readings by [Kenneth Branagh](https://www.youtube.com/watch?v=SjuZq-8PUw0), [Richard Burton](https://www.youtube.com/watch?v=CWTKHr8wuoA), [Lawrence Olivier](https://www.youtube.com/watch?v=jWGYxe0iNpA), [David Tennant](https://www.youtube.com/watch?v=xYZHb2xo0OI), and [Andrew "Hot Priest" Scott](https://www.youtube.com/watch?v=q6CLdCl9TB0)
 
 ### June 2 - Voice
 

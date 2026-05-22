@@ -8,4 +8,4 @@
 ## EXERCISE 2 — Digging
 
 1. Find one moment of parataxis and one of hypotaxis. For each, explain what syntactic choice Heaney makes and what effect it creates in that specific moment of the poem.
-3. The poem moves between present and past tense. Find one moment where the tense shifts and explain what that grammatical shift contributes to the poem's meaning.
+2. The poem moves between present and past tense. Find one moment where the tense shifts and explain what that grammatical shift contributes to the poem's meaning.
