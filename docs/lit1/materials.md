@@ -15,6 +15,7 @@ Text
 
 - 📼 [The Merchant of Venice (2004, dir. Michael Radford)](https://youtu.be/QfLlng_vHGg)
 - 📼 [The Merchant of Venice (1973, dir. John Sichel)](https://youtu.be/fJDg4ITyJIc)
+- 🔗 [Various global productions of the play](https://globalshakespeares.mit.edu/play/merchant-of-venice/)
 
 ### For Júllya (ignore if you're not Júllya)
 
@@ -45,6 +46,7 @@ Text
 
 - 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)
 - 📼 [Othello (1965, dir. Stuart Burge)](https://www.youtube.com/watch?v=OW82AddEgZk) with Laurence Olivier & Maggie Smith (YouTube)
+- 🔗 Watch these [various global productions of the play](https://globalshakespeares.mit.edu/play/othello/), including [this one (2014)](https://globalshakespeares.mit.edu/otelo-bittencourt-jefferson-2014/) and [this one (2007)](https://globalshakespeares.mit.edu/othelito-brandini-angelo-2007/) and also this [(Otelo da Mangueira, 2006)](https://globalshakespeares.mit.edu/otelo-da-mangueira-herz-daniel-2006/#video=otelo-da-mangueira-herz-daniel-2006) from Brazil.
 
 ## Supplements
 
