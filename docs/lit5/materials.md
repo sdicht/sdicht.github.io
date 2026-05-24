@@ -44,6 +44,8 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 - 🔗 T.S. Eliot, ["The Love Song of J. Alfred Prufrock"](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) with readings by 🔈 [Alec Guinness](https://youtu.be/FUL4O4RTgh8) and 🔈 [Anthony Hopkins](https://youtu.be/PLNsPhKlucY). Check out the 🔗[comic book adaptation](https://julianpeterscomics.com/page-1-the-love-song-of-j-alfred-prufrock-by-t-s-eliot/). 
 - 🔗 William Shakespeare, [Speech: “To be, or not to be, that is the question”](https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question) with readings by [Kenneth Branagh](https://www.youtube.com/watch?v=SjuZq-8PUw0), [Richard Burton](https://www.youtube.com/watch?v=CWTKHr8wuoA), [Lawrence Olivier](https://www.youtube.com/watch?v=jWGYxe0iNpA), [David Tennant](https://www.youtube.com/watch?v=xYZHb2xo0OI), and [Andrew "Hot Priest" Scott](https://www.youtube.com/watch?v=q6CLdCl9TB0)
 
+- ✏️ [In-class activity](activity-images.md)
+
 ### June 2 - Voice
 
 - 📄 Shira Wolosky, *The Art of Poetry* - ["Poetic Voice"](readings/wolosky-ch4.pdf)
