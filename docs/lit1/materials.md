@@ -5,7 +5,6 @@
 Text
 
 - 📖 [The Merchant of Venice - Yale Edition](readings/merchant-yale.pdf) 🇬🇧
-- 📖 [O Mercador de Veneza - Trans. Pedro Mohallem](readings/mercador-pt.pdf) 🇧🇷
 - 🔗 [The Merchant of Venice](https://internetshakespeare.uvic.ca/Library/Texts/MV/)
   
 ### Summary
@@ -17,6 +16,7 @@ Text
 - 📼 [The Merchant of Venice (2004, dir. Michael Radford)](https://youtu.be/QfLlng_vHGg)
 - 📼 [The Merchant of Venice (1973, dir. John Sichel)](https://youtu.be/fJDg4ITyJIc)
 - 🔗 [Various global productions of the play](https://globalshakespeares.mit.edu/play/merchant-of-venice/)
+- 📼 Check out the [added ending](media/ShakespearesGlobeMerchantVeniceEnding.mp4) to the Shakespeare's Globe 2016 production with Shylock's conversion (video, 24mb)
 
 ### For Júllya (ignore if you're not Júllya)
 
