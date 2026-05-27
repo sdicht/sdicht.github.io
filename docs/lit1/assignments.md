@@ -43,4 +43,4 @@ For as I hear he was much bound for you.
 
 2. Now search the rest of the play for other moments where *bond* or *bound* carries a different meaning from the ones you found above. Find at least two examples. For each, copy the line, note the act and scene, and say which definition applies.
 
-3. Looking at all the examples your group collected: what does the play seem to be doing with these words? Why might Shakespeare return to bond and bound so often, across such different situations?
+3. Looking at all the examples your group collected: what does the play seem to be doing with these words? Why might Shakespeare return to *bond* and *bound* so often, across such different situations?
