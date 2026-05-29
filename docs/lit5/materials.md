@@ -67,12 +67,9 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 - Katherine Mansfield, 📖 ["The Garden Party"](readings/mansfield-garden.pdf) and watch the TV adaptation 📼 [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE).
 - ✏️ [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
 
-### June 30
+### June 30 & July 7
 
 - James Wood, *How Fiction Works* - 📄 [Chapter 2: "Detail"](readings/wood-detail.pdf)
-- D. H. Lawrence, "Odour of Chrysantemums"
-
-### July 7
 - James Joyce, 📄 ["Araby" and "Eveline"](readings/joyce-stories.pdf) (stories from *Dubliners*)
 
 Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf) and watch the  📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24) for biographical context
@@ -92,7 +89,7 @@ Check out some productions of the play. There are a few full video easily availa
 
 ## July 21 - Exam 2
 
-Contents: Hardy, Mansfield, Lawrence, Joyce, Beckett + fiction material (Wood)
+Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Wood)
 
 ## July 28 - APS
 
