@@ -62,7 +62,7 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 
 ### June 16
 
-- Terry Eagleton, *How to Read Literature*: 📄 ["Narrative"](readings/eagleton_narrative.pdf)
+- James Wood, *How Fiction Works* - 📄 [Chapter 1: "Narrating"](readings/wood-narrating.pdf)
 - Thomas Hardy, 📖 ["On the Western Circuit"](readings/hardy-circuit.pdf) and watch the TV adaptation: 📼 ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
 
 ### June 23 - São João
@@ -71,7 +71,7 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 
 ### June 30 & July 7
 
-- Terry Eagleton, *How to Read Literature*: 📄 ["Character"](readings/eagleton_character.pdf)
+- James Wood, *How Fiction Works* - 📄 [Chapter 2: "Detail"](readings/wood-detail.pdf)
 - James Joyce, 📄 ["Araby" and "Eveline"](readings/joyce-stories.pdf) (stories from *Dubliners*)
 
 Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf) and watch the  📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24) for biographical context
@@ -91,27 +91,10 @@ Check out some productions of the play. There are a few full video easily availa
 
 ## July 21 - Exam 2
 
-Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Eagleton)
+Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Wood)
 
 ## July 28 - APS
 
-- Assignment 2: James Joyce, ✏️ ["The Boarding House"](assignments/assignment-boardinghouse.md)
+- ✏️ Assignment 2: James Joyce, ["The Boarding House"](assignments/assignment-boardinghouse.md)
 
 ## August 4 - Seminar Presentation
-
-| Author          | Title                         | Genre | Themes                                   | Presenter (pairs) |
-| --------------- | ----------------------------- | ----- | ---------------------------------------- | --------- |
-| Angela Carter   | *The Bloody Chamber*          | Story | Feminism and fairy tales                 |           |
-| Carol Ann Duffy | *Mrs Midas*                   | Poem  | Myth and gender                          |           |
-| D. H. Lawrence  | *The Horse Dealer's Daughter* | Story | Gender, class, desire                    |           |
-| D. H. Lawrence  | *The Rocking-Horse Winner*    | Story | Family, money, psychology                |           |
-| George Orwell   | *Shooting an Elephant*        | Essay | Imperialism, power, performance          |           |
-| Graham Greene   | *The Basement Room*           | Story | Childhood innocence and guilt            |           |
-| Hanif Kureishi  | *My Son the Fanatic*          | Story | Immigration, religion, identity          |           |
-| Kazuo Ishiguro  | *A Family Supper*             | Story | Ambiguity, family, cultural expectations |           |
-| Michael Longley | *Ceasefire*                   | Poem  | Iliad and Northern Ireland               |           |
-| Philip Larkin   | *MCMXIV*                      | Poem  | Nostalgia and war                        |           |
-| Seamus Heaney   | *Casualty*                    | Poem  | The Troubles; personal loss              |           |
-| Seamus Heaney   | *Punishment*                  | Poem  | Gender, violence, history                |           |
-| Wilfred Owen    | *Anthem for Doomed Youth*     | Poem  | War vs. religious ritual                 |           |
-| Zadie Smith     | *The Waiter's Wife*           | Story | Marriage, performance, identity          |           |
