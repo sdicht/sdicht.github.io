@@ -50,9 +50,6 @@ Here are the slides I used in class. 📊 [Slide Deck](slides/ww1-poets-slides.p
 
 - Shira Wolosky, *The Art of Poetry* - 📄 ["Poetic Voice"](readings/wolosky-ch4.pdf)
 - Philip Larkin, 📖 ["Church Going"](readings/larkin-poems.pdf), read by 🔈 [the author](https://www.youtube.com/watch?v=mN_vWfSgWe4)
-- Ted Hughes, 📖 ["Hawk Roosting"](readings/hughes-hawk.pdf), read by 🔈 [the author](https://youtu.be/uL3vCYSR-Y0)
-
-- ✏️ [In-class activity](activity-voice.md)
 
 ### June 9 - Exam 1
 
@@ -98,6 +95,8 @@ Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Eagleton)
 - Assignment 2: James Joyce, ✏️ ["The Boarding House"](assignments/assignment-boardinghouse.md)
 
 ## August 4 - Seminar Presentation
+
+In 10 minutes, you will provide: a. brief biographical and historical context; b. a summary of the text and c. an analysis. The analysis consists of the selection one passage of the text to do a close reading of. Choose ONE concept from Wolosky and/or Eagleton to focus your analysis.
 
 | Author          | Title                         | Genre | Themes                                   | Presenter (pairs) |
 | --------------- | ----------------------------- | ----- | ---------------------------------------- | --------- |
