@@ -90,11 +90,7 @@ Check out some productions of the play. There are a few full video easily availa
 
 Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Eagleton)
 
-## July 28 - APS
-
-- Assignment 2: James Joyce, ✏️ ["The Boarding House"](assignments/assignment-boardinghouse.md)
-
-## August 4 - Seminar Presentation
+## July 21 & July 28 - Seminar Presentation
 
 In 10 minutes, you will provide: a. brief biographical and historical context; b. a summary of the text and c. an analysis. The analysis consists of the selection one passage of the text to do a close reading of. Choose ONE concept from Wolosky and/or Eagleton to focus your analysis.
 
