@@ -86,13 +86,15 @@ Check out some productions of the play. There are a few full video easily availa
 - 📼 [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
 - 📼 [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
 
-## July 21 - Exam 2
+## Exam 2 + Presentations
+
+### July 21 - Exam 2
 
 Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Eagleton)
 
-## July 21 & July 28 - Seminar Presentation
+### July 21 & July 28 - Seminar Presentation
 
-In 10 minutes, you will provide: a. brief biographical and historical context; b. a summary of the text and c. an analysis. The analysis consists of the selection one passage of the text to do a close reading of. Choose ONE concept from Wolosky and/or Eagleton to focus your analysis.
+In 15 minutes, you will provide: a. brief biographical and historical context; b. a summary of the text and c. an analysis. The analysis consists of the selection one passage of the text to do a close reading of. Choose ONE concept from Wolosky and/or Eagleton to focus your analysis.
 
 | Author          | Title                         | Genre | Themes                                   | Presenter (pairs) |
 | --------------- | ----------------------------- | ----- | ---------------------------------------- | --------- |

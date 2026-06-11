@@ -35,14 +35,6 @@ Text
 
 - 🧠 [Plot summary](handouts/othello_summary.pdf) from *Bloom's Shakespeare Through the Ages* 
 
-### Discussion questions
-
-- 📄 [Act I]
-- 📄 [Act II]
-- 📄 [Act III]
-- 📄 [Act IV]
-- 📄 [Act V]
-
 ### Adaptations
 
 - 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)

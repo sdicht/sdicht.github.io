@@ -12,6 +12,10 @@ Welcome to the course website. Here you will find:
 
 ---
 
+## Schedule 
+
+---
+
 ## Quick Links
 - [Syllabus](syllabus.md)
 - [Materials](materials.md)
