@@ -5,6 +5,7 @@
 Text
 
 - 📖 [The Merchant of Venice - Yale Edition](readings/merchant-yale.pdf) 🇬🇧
+- 📖 [O Mercador de Veneza](readings/mercadordeveneza.PDF) (trad. Carlos Alberto Nunes) 🇧🇷
 - 🔗 [The Merchant of Venice](https://internetshakespeare.uvic.ca/Library/Texts/MV/)
   
 ### Summary
@@ -29,7 +30,7 @@ Text
 
 - 📖 [Othello - Yale Edition 🇬🇧](readings/othello-yale.pdf)
 - 🔗 [Othello - Folger Online Edition 🇬🇧](https://www.folger.edu/explore/shakespeares-works/othello/read/)
-- 📖 [Othello - Trans. Lawrence Flores Pereira 🇧🇷](readings/othello-pt.pdf)
+- 📖 [Otelo](readings/otelo.PDF) (trad. Carlos Alberto Nunes) 🇧🇷
   
 ### Summary
 
