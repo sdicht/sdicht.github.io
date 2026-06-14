@@ -36,6 +36,13 @@ Text
 
 - 🧠 [Plot summary](handouts/othello_summary.pdf) from *Bloom's Shakespeare Through the Ages* 
 
+### Glossary
+- 🔗 [Vocabulário de Otelo por Mário Amora Ramos](https://shakespearebrasileiro.org/o-vocabulario-de-otelo-mario-amora-ramos/)
+
+
+✏️ [Discussion questions](handouts/discussion-questions.md)
+
+
 ### Adaptations
 
 - 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)
