@@ -62,6 +62,8 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 - Terry Eagleton, *How to Read Literature*: 📄 ["Narrative"](readings/eagleton_narrative.pdf)
 - Thomas Hardy, 📖 ["On the Western Circuit"](readings/hardy-circuit.pdf) and watch the TV adaptation: 📼 ["The Day After the Fair" (1986)](https://www.youtube.com/watch?v=_xlChDECqkA)
 
+- ✏️ [In-class activity](handouts/hardy-questions-v2.md)
+
 ### June 23 - São João
 - Katherine Mansfield, 📖 ["The Garden Party"](readings/mansfield-garden.pdf) and watch the TV adaptation 📼 [PBS TV Adaptation (1973)](https://www.youtube.com/watch?v=_pEKVBtvlYE).
 - ✏️ [Assignment 1: "The Garden Party"](assignments/assignment-mansfield.md)
