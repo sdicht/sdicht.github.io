@@ -24,7 +24,3 @@ The letters at the heart of the story create a crisis of diction. Edith, an educ
 
 **5.**
 Hardy's narrator moves between omniscient commentary and free indirect discourse — moments where we seem to be inside a character's consciousness without the narrator explicitly telling us so. Find two examples of free indirect discourse in the story and identify whose perspective Hardy adopts in each case. What does this technique reveal that straightforward omniscient narration could not? How does it complicate our sense of whose story this is?
-
----
-
-The sequence moves from interpretation to increasingly precise formal analysis, with question 5 being the most technically demanding. Questions 3, 4 and 5 all require textual evidence. Does this feel right?
