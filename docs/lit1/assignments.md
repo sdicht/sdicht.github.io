@@ -1,5 +1,7 @@
 # Assignments
 
+Click here for the [Group presentations](assignments/presentations-othello.md), due after Exam 2.
+
 ## The Merchant of Venice
 
 In *The Merchant of Venice*, two words — *bond* and *bound* — appear throughout the play and carry very different meanings depending on context. Before working through the passages below, read the definitions carefully.
