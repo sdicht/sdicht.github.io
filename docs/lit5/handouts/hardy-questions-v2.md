@@ -1,4 +1,6 @@
-## On The Western Circuit - Discussion questions
+# On The Western Circuit
+
+## Discussion questions
 
 1. What are the central conflicts of the story? Consider tensions between country and city, education and ignorance, appearance and reality, love and social convention. Which conflict seems most important, and why?
 
