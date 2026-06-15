@@ -39,8 +39,9 @@ Text
 ### Glossary
 - 🔗 [Vocabulário de Otelo por Mário Amora Ramos](https://shakespearebrasileiro.org/o-vocabulario-de-otelo-mario-amora-ramos/)
 
+### Discussion questions
 
-✏️ [Discussion questions](handouts/othello-questions.md)
+- ✏️ [Discussion questions](handouts/othello-questions.md)
 
 
 ### Adaptations
