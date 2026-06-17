@@ -2,7 +2,7 @@
 
 ## William Shakespeare: *The Merchant of Venice*
 
-Text
+### Text
 
 - 📖 [The Merchant of Venice - Yale Edition](readings/merchant-yale.pdf) 🇬🇧
 - 📖 [O Mercador de Veneza](readings/mercadordeveneza.PDF) (trad. Carlos Alberto Nunes) 🇧🇷
@@ -23,10 +23,9 @@ Text
 
 - 👩‍💻 [Questions](takehome.md)
 
-
 ## William Shakespeare: *Othello*
 
-Text
+### Text
 
 - 📖 [Othello - Yale Edition 🇬🇧](readings/othello-yale.pdf)
 - 🔗 [Othello - Folger Online Edition 🇬🇧](https://www.folger.edu/explore/shakespeares-works/othello/read/)

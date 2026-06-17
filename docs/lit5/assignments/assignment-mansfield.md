@@ -2,10 +2,9 @@
 
 Submit your assignment [here](https://www.dropbox.com/request/64tgpnugwjeDqHrXdDBM) 📥 (no registration required)
 
-Deadline: December 16th, 2025.
+Deadline: June 29th, 2026.
 
 ## Context and Introduction
-You've now read several stories from the late Victorian and early modernist periods - Joyce's "Araby" and "Eveline," and Hardy's "On the Western Circuit." Next week we'll encounter T.S. Eliot's "The Love Song of J. Alfred Prufrock" and World War I poetry. Today's story, "The Garden Party" by Katherine Mansfield, demonstrates the transition from Victorian certainties to modernist consciousness through the lens of class awareness and personal awakening.
 
 From the *Norton Anthology* intro:
 
@@ -34,9 +33,13 @@ After reading [“The Garden Party,”](../readings/mansfield-garden.pdf) you an
 
 **Your analysis should include:** 
 
-- 2-3 specific quotes with page references 
+- 2 specific quotes with page references 
 - Explanation of what these details reveal about Laura’s character
 - Discussion of how this scene shows her developing consciousness
+
+Focalization is the perspective through which readers perceive the story—the answer to "who sees?" rather than "who tells?" In *The Garden Party*, the third-person narrator largely filters events through Laura's thoughts and perceptions.
+
+Consider also how Mansfield's use of focalization through Laura shape our understanding of this scene and her developing consciousness.
 
 ## Question 2
 Create a comparison chart showing different attitudes toward the working class:
@@ -62,8 +65,6 @@ The story ends with Laura’s incomplete statement and Laurie’s response:
 Write one paragraph explaining what you think Laura has learned and how much she has actually changed.
 
 ## Question 4
-In a final paragraph, compare Laura’s moment of realization to the epiphany in either Joyce’s “Araby” or “Eveline.” Consider: 
+Wolosky argues that diction — the level and register of language a writer chooses — is never neutral. It reveals character, social position, and the values a text endorses or questions.
 
-- What triggers the character’s moment of awareness? 
-- How complete is their understanding? 
-- What do they do (or not do) as a result?
+Look closely at how Mansfield uses language to distinguish the Sheridan family from the working-class characters in the story. Find two or three moments where diction shifts — where a character's language rises, falls, or breaks down entirely. What do these shifts reveal about Laura's developing consciousness? 
