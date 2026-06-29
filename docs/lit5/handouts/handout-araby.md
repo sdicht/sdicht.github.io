@@ -1,0 +1,9 @@
+# Activity: Araby
+
+1. Eagleton distinguishes between characters who are "grasped from the inside" and those "treated from other characters' standpoints." Joyce gives us the boy-narrator's consciousness directly, in the first person, looking back on his younger self. Find two moments where the adult narrator's language seems to romanticize or elevate his younger self's feelings. Does the story ask us to trust this self-presentation, or does it let us see past it? Use specific textual evidence.
+
+2. The boy's language for Mangan's sister is saturated with religious and chivalric diction — words like "chalice," "adoration," "border." Find two or three examples of this elevated register. What is the effect of applying this language to a schoolgirl and an errand to buy a gift? What does the gap between the diction and the actual situation reveal about the narrator's self-understanding?
+
+3. The bazaar's name, "Araby," carries an exotic, romantic charge before the boy ever arrives. Identify the images Joyce uses to build this anticipation, and then identify the images used to describe the actual bazaar when the boy gets there. What figures of speech are at work in each case (metaphor, simile, or other)? How does the contrast between the two sets of images prepare the story's final moment?
+
+4. Eagleton writes that some literary works "press the psychological complexity of literary figures to the point where character... begins to disintegrate," and that modernist writing often reveals a self in crisis rather than a stable, coherent one. Look at the final paragraph of "Araby." How does the narrator describe his own moment of realization? Is this a moment of clear self-knowledge, or does the language itself remain self-dramatizing? Support your answer with the actual words Joyce uses to end the story.
