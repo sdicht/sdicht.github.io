@@ -35,12 +35,9 @@
 
 - 🧠 [Plot summary](handouts/othello_summary.pdf) from *Bloom's Shakespeare Through the Ages* 
 
-### Glossary
-- 🔗 [Vocabulário de Otelo por Mário Amora Ramos](https://shakespearebrasileiro.org/o-vocabulario-de-otelo-mario-amora-ramos/)
-
 ### Discussion questions
 
-- ✏️ [Discussion questions](handouts/othello-questions.md)
+- ✏️ [Act I](handouts/othello_act1_questions.pdf), [Act II](handouts/othello_act2_questions.pdf), [Act III](handouts/othello_act3_questions.pdf), [Act IV](handouts/othello_act4_questions.pdf), [Act V](handouts/othello_act5_questions.pdf)
 
 
 ### Adaptations
