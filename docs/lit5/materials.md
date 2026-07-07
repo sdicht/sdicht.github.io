@@ -76,6 +76,7 @@ Contents: Owen, Sassoon, Eliot, Larkin, Yeats, etc. + poetry material (Wolosky)
 Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils of Eveline"](readings/norris-eveline.pdf) and watch the  📼 [The World of James Joyce Documentary](https://www.youtube.com/watch?v=4IwrHkNUk24) for biographical context
 
 - ✏️ [Araby: In-class activity](handouts/handout-araby.md)
+- ✏️ [Eveline: In-class activity](handouts/handout-eveline.md)
 
 ## Drama
 
