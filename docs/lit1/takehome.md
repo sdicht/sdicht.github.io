@@ -13,3 +13,5 @@ Send your answers 📥 [here](https://www.dropbox.com/request/kj8rcs09qup63i10uf
 ## Othello
 
 1. Do [questions](handouts/othello-questions.md) for Act 1 and 2.
+2. Do [questions](handouts/handout-othello-act3.md) for Act 3.
+3. Do [questions](handouts/handout-othello-acts3-5.md) for Acts 3-5.

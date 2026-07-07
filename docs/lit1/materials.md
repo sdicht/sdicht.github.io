@@ -40,8 +40,6 @@
 - ✏️ [Act I](handouts/othello_act1_questions.pdf), [Act II](handouts/othello_act2_questions.pdf), [Act III](handouts/othello_act3_questions.pdf), [Act IV](handouts/othello_act4_questions.pdf), [Act V](handouts/othello_act5_questions.pdf)
 
 
-
-
 ### Adaptations
 
 - 📼 [Othello (1990, dir. Trevor Nunn)](https://www.youtube.com/watch?v=oX0cbcrMAdo) with Ian McKellen & Willard White  (YouTube)
