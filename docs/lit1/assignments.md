@@ -7,3 +7,5 @@
 - [The Merchant of Venice: "bound"](assignments/merchant-bound.md)
 
 - [Othello Act 3 Activity](handouts/handout-othello-act3.md)
+
+- [Othello Acts 3-5 Activity](handouts/handout-othello-acts3-5.md) -- review for the exam.
