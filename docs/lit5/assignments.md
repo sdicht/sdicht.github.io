@@ -8,7 +8,9 @@ Deadline: August 4th, 2026.
 
 The portfolio is a continuous record of your engagement with the assigned readings, built up entry-by-entry over the semester and submitted at the end of the term. The goal is to develop the habit of reading closely and thinking on paper. Clarity of thought matters more than correctness of expression.
 
-Structure. One dated entry per class meeting. Each entry should include, but not necessarily in this order. Your reflections should have a natural and logical progression.
+### Structure
+
+One dated entry per class meeting. Each entry should include, but not necessarily in this order:
 
 1. Personal response — what you noticed, liked, disliked, or didn't understand. There are no wrong reactions.
 2. Questions - e.g. what was unclear, what you think is a good discussion question for a class, or for engaging with this text later.
@@ -16,9 +18,15 @@ Structure. One dated entry per class meeting. Each entry should include, but not
 4. Further research — anything you looked at beyond the text itself (Wikipedia, a YouTube video, an article), even briefly noted.
 5. Connecting to theory — try to link the text, even loosely, to an idea from Wolosky or Eagleton. This doesn't need to be a sophisticated argument — a sentence or two noting a connection or a tension is enough.
 
-Length. As a rough guide: poems ~0.75–1 page, short stories ~1.5 pages, Godot ~2–3 pages. This is a guideline, not a strict requirement — what matters most is that every text on the syllabus has a genuine entry.
+**Do not** separate your entry by topics (1-5), just make sure it has all elements. Your reflections should have a natural and logical progression and organization.
 
-Evaluation criteria. Portfolios will be graded primarily on:
+### Length
+
+As a rough guide: poems ~0.75–1 page, short stories ~1.5 pages, Godot ~2–3 pages. This is a guideline, not a strict requirement — what matters most is that every text on the syllabus has a genuine entry.
+
+### Evaluation criteria
+
+Portfolios will be graded primarily on:
 
 - Completeness (an entry for every assigned text)
 - Evidence of genuine effort and engagement
