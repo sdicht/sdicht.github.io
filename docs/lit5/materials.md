@@ -80,7 +80,7 @@ Read also this paper about one of the stories: 📄 Margot Norris, ["The Perils 
 
 ## Drama
 
-### July 14
+### July 14 & July 21
 
 - Samuel Beckett, 📖 [*Waiting for Godot*](readings/beckett-godot.pdf)
 
@@ -91,29 +91,4 @@ Check out some productions of the play. There are a few full video easily availa
 - 📼 [San Quentin Workshop 1988 version](https://youtu.be/Q77jgal4Gto)
 - 📼 [Zero Mostel and Burgess Meredith 1961 version](https://www.youtube.com/watch?v=tOzQuBbBuK0)
 
-## Exam 2 + Presentations
-
-### July 21 - Exam 2
-
-Contents: Hardy, Mansfield, Joyce, Beckett + fiction material (Eagleton)
-
-### July 21 & July 28 - Seminar Presentation
-
-In 15 minutes, you will provide: a. brief biographical and historical context; b. a summary of the text and c. an analysis. The analysis consists of the selection one passage of the text to do a close reading of. Choose ONE concept from Wolosky and/or Eagleton to focus your analysis.
-
-| Author          | Title                         | Genre | Themes                                   | Presenter (pairs) |
-| --------------- | ----------------------------- | ----- | ---------------------------------------- | --------- |
-| Angela Carter   | *The Bloody Chamber*          | Story | Feminism and fairy tales                 |           |
-| Carol Ann Duffy | *Mrs Midas*                   | Poem  | Myth and gender                          |           |
-| D. H. Lawrence  | *The Horse Dealer's Daughter* | Story | Gender, class, desire                    |           |
-| D. H. Lawrence  | *The Rocking-Horse Winner*    | Story | Family, money, psychology                |           |
-| George Orwell   | *Shooting an Elephant*        | Essay | Imperialism, power, performance          |           |
-| Graham Greene   | *The Basement Room*           | Story | Childhood innocence and guilt            |           |
-| Hanif Kureishi  | *My Son the Fanatic*          | Story | Immigration, religion, identity          |           |
-| Kazuo Ishiguro  | *A Family Supper*             | Story | Ambiguity, family, cultural expectations |           |
-| Michael Longley | *Ceasefire*                   | Poem  | Iliad and Northern Ireland               |           |
-| Philip Larkin   | *MCMXIV*                      | Poem  | Nostalgia and war                        |           |
-| Seamus Heaney   | *Casualty*                    | Poem  | The Troubles; personal loss              |           |
-| Seamus Heaney   | *Punishment*                  | Poem  | Gender, violence, history                |           |
-| Wilfred Owen    | *Anthem for Doomed Youth*     | Poem  | War vs. religious ritual                 |           |
-| Zadie Smith     | *The Waiter's Wife*           | Story | Marriage, performance, identity          |           |
+## July 28 - Exam 2
