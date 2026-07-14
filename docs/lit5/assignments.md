@@ -41,3 +41,7 @@ At the end of the portfolio, choose ONE text from the syllabus  to revisit for a
 
 - Stage 1 — Revisit. Reread your original diary entry for the chosen text, then reread the text itself (or the passage most relevant to your question). 
 - Stage 2 — Essay. Write a 2–3 page essay building on your diary entry and your Stage 1 note. Use a concept from Wolosky and/or Eagleton to test, complicate, or develop your original hypothesis about the text. You must explicitly refer to your own earlier writing at least once.
+
+### Outline for the essay
+
+Follow this structure: [The Five Paragraph Essay](https://www.bucks.edu/media/bcccmedialibrary/pdf/FiveParagraphEssayOutlineJuly08_000.pdf)
