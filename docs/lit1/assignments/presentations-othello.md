@@ -17,7 +17,7 @@ Watch the *Upstart Crow* episode on *Othello*. How does the series transform the
 Download the 📼 [episode here](https://drive.google.com/file/d/1jd4PTCHQwSQPAlGzqiNxDsyKXm6RKtFg/view?usp=sharing) and open with [VLC](https://www.videolan.org/vlc/download-windows.html).
 
 ### Group 4 — Translation as Rewriting (*Merchant of Venice*)
-Compare one key passage in two Portuguese translations of *Merchant of Venice* — the "quality of mercy" speech (4.1) or the "Hath not a Jew eyes" speech (3.1). Does translation domesticate, elevate, or neutralize the rhetoric? Focus on how metaphors, syntax, and register shift between versions. Close reading of translation A, close reading of translation B, and synthesis on what the divergences reveal about the translators' assumptions.
+Compare one key passage in two Portuguese translations of *Merchant of Venice* — for instance, a speech like the "quality of mercy" speech (4.1) or the "Hath not a Jew eyes" speech (3.1). Does translation domesticate, elevate, or neutralize the rhetoric? Focus on how **metaphors**, **syntax**, and **register** shift between versions. Close reading of translation A, close reading of translation B, and synthesis on what the divergences reveal about the translators' assumptions.
 
 ### Group 5 — Translation as Rewriting (*Othello*)
 Compare one key passage in two Portuguese translations of *Othello*. Does translation domesticate, elevate, or neutralize the rhetoric? Focus on how metaphors, syntax, and register shift between versions. Close reading of translation A, close reading of translation B, and synthesis on what the divergences reveal about the translators' assumptions.
@@ -27,6 +27,9 @@ Compare Desdemona (*Othello* 1.3, 4.2) and Portia (*Merchant of Venice* 1.2, 4.1
 
 ### Group 7 — Performance of Othello: Race as Construction
 Compare two performances of Othello — Olivier (1965) vs. Fishburne (1995) or another adaptation. How does each actor's choices (voice, physicality, staging) construct race differently? Is race portrayed as essence, stereotype, or performance? One member on each production, one synthesizing: what has changed in how we stage Othello's blackness?
+
+### Group 8 — Performance of Merchant of Venice
+
 
 ---
 
